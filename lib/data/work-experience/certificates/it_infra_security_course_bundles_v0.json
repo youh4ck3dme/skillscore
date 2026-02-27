@@ -1,0 +1,206 @@
+{
+  "group_id": "it_infra_security",
+  "group_name": "IT Infra & Bezpečnosť",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "it_infra_security__core_required",
+      "bundle_name": "CORE – IT prevádzka & bezpečnostné základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "itil_foundations_awareness",
+          "title": "ITIL / ITSM – awareness (incident, change, problem)",
+          "renewal_years": null
+        },
+        {
+          "id": "networking_basics",
+          "title": "Siete – základy (TCP/IP, DNS, DHCP, VLAN)",
+          "renewal_years": null
+        },
+        {
+          "id": "os_admin_basics",
+          "title": "OS administrácia – základy (Windows/Linux)",
+          "renewal_years": null
+        },
+        {
+          "id": "cybersecurity_awareness",
+          "title": "Kyberbezpečnosť – awareness (phishing, MFA, hygiene)",
+          "renewal_years": 1
+        },
+        {
+          "id": "patching_vulnerability_basics",
+          "title": "Patch management & vulnerabilty basics",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__service_desk_track",
+      "bundle_name": "Track – Service desk / IT podpora",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ticketing_tools_basics",
+          "title": "Ticketing nástroje – základy (SLA, priority)",
+          "renewal_years": null
+        },
+        {
+          "id": "endpoint_support",
+          "title": "Podpora endpointov (Windows/Mac, MDM) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "customer_communication_it",
+          "title": "Komunikácia so zákazníkom & remote support",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__systems_admin_track",
+      "bundle_name": "Track – Systémová administrácia",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ad_identity_basics",
+          "title": "Active Directory / Identity – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "virtualization_intro",
+          "title": "Virtualizácia & kontajnery – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "backup_recovery_basics",
+          "title": "Zálohy & obnova – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__network_admin_track",
+      "bundle_name": "Track – Sieťová administrácia",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "switching_routing_basics",
+          "title": "Switching & routing – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "wireless_basics",
+          "title": "Wi‑Fi & bezpečnosť – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "network_monitoring",
+          "title": "Monitoring & troubleshooting sietí – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__cloud_ops_track",
+      "bundle_name": "Track – Cloud OPS",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "cloud_fundamentals",
+          "title": "Cloud fundamentals (AWS/Azure/GCP) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "infra_as_code_intro",
+          "title": "Infrastructure as Code – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "observability_ops",
+          "title": "Observabilita (logs/metrics/traces) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__security_operations_track",
+      "bundle_name": "Track – Security Operations (SOC)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "siem_basics",
+          "title": "SIEM/SOAR – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "incident_response_intro",
+          "title": "Incident response – úvod (playbooks)",
+          "renewal_years": null
+        },
+        {
+          "id": "vulnerability_management_intro",
+          "title": "Vulnerability management – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__iam_addon",
+      "bundle_name": "Addon – IAM & prístupy",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "pam_basics",
+          "title": "Privileged Access Management – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "sso_mfa_basics",
+          "title": "SSO/MFA – návrh & správa",
+          "renewal_years": null
+        },
+        {
+          "id": "certificate_mgmt_intro",
+          "title": "Správa certifikátov & PKI – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_infra_security__compliance_addon",
+      "bundle_name": "Addon – Compliance & štandardy",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "iso27001_awareness",
+          "title": "ISO/IEC 27001 – awareness (ISMS)",
+          "renewal_years": 3
+        },
+        {
+          "id": "nist_overview",
+          "title": "NIST CSF/800‑53 – prehľad",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_security_controls",
+          "title": "GDPR technické a organizačné opatrenia – prehľad",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Žiadne centrálne EÚ licencie; bezpečnostné rámce a vendorské certifikácie sú nadstavba. GDPR/bezpečnostné opatrenia platia plošne.",
+    "country_overlays": []
+  }
+}

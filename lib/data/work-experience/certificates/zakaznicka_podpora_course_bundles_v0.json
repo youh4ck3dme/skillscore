@@ -1,0 +1,132 @@
+{
+  "group_id": "zakaznicka_podpora",
+  "group_name": "Zákaznícka podpora & Front desk",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "zakaznicka_podpora__core_required",
+      "bundle_name": "CORE – Zákaznícka podpora",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "gdpr_customer_contact",
+          "title": "GDPR – kontakt so zákazníkom (hlas/e-mail/chat)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_induction",
+          "title": "BOZP vstupné školenie",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_intro",
+          "title": "Požiarna ochrana – základ",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "zakaznicka_podpora__recommended_contact",
+      "bundle_name": "Doporučené – komunikácia & nástroje",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "customer_service_foundations",
+          "title": "Zákaznícky servis – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "call_handling_skills",
+          "title": "Call handling / aktívne počúvanie / záznam",
+          "renewal_years": null
+        },
+        {
+          "id": "written_communication",
+          "title": "Písomná komunikácia (e-mail/chat)",
+          "renewal_years": null
+        },
+        {
+          "id": "ticketing_basics",
+          "title": "Práca s ticketingom (ITSM/CRM) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zakaznicka_podpora__frontdesk_addon",
+      "bundle_name": "Addon – Front desk / Recepcia",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "visitor_management",
+          "title": "Správa návštev & bezpečnostné zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_frontdesk",
+          "title": "GDPR pre recepciu (návštevné knihy, CCTV)",
+          "renewal_years": 2
+        },
+        {
+          "id": "conflict_deescalation",
+          "title": "Deeskalácia & sťažnosti na mieste",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zakaznicka_podpora__contact_center_addon",
+      "bundle_name": "Addon – Contact/Call centrum",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "quality_monitoring",
+          "title": "Monitorovanie kvality & scoring hovorov",
+          "renewal_years": null
+        },
+        {
+          "id": "kpis_reporting",
+          "title": "Základy KPI & reporting (AHT, FCR, NPS)",
+          "renewal_years": null
+        },
+        {
+          "id": "workforce_management_intro",
+          "title": "Workforce management – základy plánovania",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zakaznicka_podpora__complaints_addon",
+      "bundle_name": "Addon – Reklamácie & eskalácie",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "complaints_handling",
+          "title": "Reklamačný proces & evidencie",
+          "renewal_years": null
+        },
+        {
+          "id": "consumer_protection_intro",
+          "title": "Základy ochrany spotrebiteľa (EÚ rámec) – povedomie",
+          "renewal_years": null
+        },
+        {
+          "id": "stress_resilience",
+          "title": "Stres manažment & psychohygiena",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "GDPR platí v celej EÚ/EHP; BOZP/PO sú národné. Pri recepcii zohľadni lokálne požiadavky (evidencia návštev, nariadenia o kamerách).",
+    "country_overlays": []
+  }
+}

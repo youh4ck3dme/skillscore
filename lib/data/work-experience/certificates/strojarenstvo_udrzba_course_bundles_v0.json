@@ -1,0 +1,160 @@
+{
+  "group_id": "strojarenstvo_udrzba",
+  "group_name": "Strojárstvo & Údržba",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "strojarenstvo_udrzba__core_required",
+      "bundle_name": "CORE – Bezpečnosť strojov & údržba",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ohs_maintenance_induction",
+          "title": "BOZP pre údržbu (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "machine_safety_loto",
+          "title": "Bezpečnosť strojov & LOTO – základ",
+          "renewal_years": 1
+        },
+        {
+          "id": "first_aid_industrial",
+          "title": "Prvá pomoc – priemyselné prostredie",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_industrial",
+          "title": "Požiarna ochrana – priemysel",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "strojarenstvo_udrzba__mechanical_maintenance_track",
+      "bundle_name": "Track – Mechanická údržba",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "mechanics_basics",
+          "title": "Strojnícke základy (mechanika, ložiská, spojky)",
+          "renewal_years": null
+        },
+        {
+          "id": "lubrication_basics",
+          "title": "Mazanie & tribológia – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "hydraulics_pneumatics_intro",
+          "title": "Hydraulika & pneumatika – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "tpm_basics",
+          "title": "TPM – preventívna a prediktívna údržba – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "strojarenstvo_udrzba__cnc_machining_track",
+      "bundle_name": "Track – CNC obrábanie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "cnc_safety_setup",
+          "title": "Bezpečnosť & nastavenie CNC – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "gcode_basics",
+          "title": "G-code & obslužné systémy – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "metrology_basics",
+          "title": "Meradlá, tolerancie & metrológia – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "strojarenstvo_udrzba__welding_addon",
+      "bundle_name": "Addon – Zváranie",
+      "type": "optional_addon",
+      "renewal_years": 3,
+      "items": [
+        {
+          "id": "welding_safety",
+          "title": "Bezpečnosť pri zváraní – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "welding_processes_intro",
+          "title": "Procesy MIG/MAG/TIG – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "iso9606_awareness",
+          "title": "ISO 9606 – kvalifikácia zváračov (awareness)",
+          "renewal_years": 3
+        }
+      ]
+    },
+    {
+      "bundle_id": "strojarenstvo_udrzba__fabrication_machining_addon",
+      "bundle_name": "Addon – Zámočník / obrábanie kovov",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "tools_hand_power",
+          "title": "Ručné & elektrické náradie – bezpečná práca",
+          "renewal_years": 1
+        },
+        {
+          "id": "reading_drawings",
+          "title": "Čítanie výkresov & technické normy – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "cutting_forming_basics",
+          "title": "Rezanie, vŕtanie, ohýbanie – zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "strojarenstvo_udrzba__reliability_addon",
+      "bundle_name": "Addon – Spoľahlivosť & analýza porúch",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "rca_methods",
+          "title": "Root Cause Analysis (5xWhy, Ishikawa) – prax",
+          "renewal_years": null
+        },
+        {
+          "id": "condition_monitoring_intro",
+          "title": "Condition monitoring (vibrácie, termografia) – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "spare_parts_management",
+          "title": "Správa ND & sklad údržby – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Niektoré kvalifikácie (zváranie, tlakové nádoby, plynové zariadenia) majú národné požiadavky. Tento balík používa všeobecné moduly + awareness noriem.",
+    "country_overlays": []
+  }
+}

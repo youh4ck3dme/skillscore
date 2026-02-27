@@ -1,0 +1,90 @@
+{
+  "digital-literacy": {
+    "tooltip": "Test digitálnych zručností overuje vašu schopnosť pracovať s počítačom, internetom a digitálnymi nástrojmi.",
+    "click_info": {
+      "title": "Digitálne zručnosti",
+      "subtitle": "Test základných digitálnych kompetencií",
+      "why_take": "Prečo absolvovať tento test?",
+      "benefits": [
+        "Preukážte svoje praktické zručnosti v oblasti digitálnych technológií",
+        "Zvýšte svoju viditeľnosť pre zamestnávateľov v danej oblasti",
+        "Získajte spätnú väzbu o svojich silných a slabých stránkach"
+      ],
+      "what_it_checks": "Čo test hodnotí:",
+      "skills": [
+        "Práca s počítačom a operačným systémom",
+        "Používanie internetu a vyhľadávanie informácií",
+        "Základy kybernetickej bezpečnosti",
+        "Práca s e-mailom a online komunikáciou"
+      ],
+      "duration": "10 minút",
+      "levels": ["basic"]
+    }
+  },
+  "sjt-basic": {
+    "tooltip": "Situačný test hodnotí vaše rozhodovanie v pracovných situáciách a interpersonálne zručnosti.",
+    "click_info": {
+      "title": "Situačný test",
+      "subtitle": "Test rozhodovania v pracovných situáciách",
+      "why_take": "Prečo absolvovať tento test?",
+      "benefits": [
+        "Preukážte svoje praktické zručnosti v oblasti rozhodovania v pracovných situáciách",
+        "Zvýšte svoju viditeľnosť pre zamestnávateľov v danej oblasti",
+        "Získajte spätnú väzbu o svojich silných a slabých stránkach"
+      ],
+      "what_it_checks": "Čo test hodnotí:",
+      "skills": [
+        "Rozhodovanie v pracovných situáciách",
+        "Interpersonálne zručnosti",
+        "Riešenie konfliktov",
+        "Komunikácia s kolegami a nadriadenými"
+      ],
+      "duration": "25 minút",
+      "levels": ["screen", "standard", "expert"]
+    }
+  },
+  "bozp": {
+    "tooltip": "Test BOZP overuje vaše znalosti v oblasti bezpečnosti a ochrany zdravia pri práci.",
+    "click_info": {
+      "title": "BOZP",
+      "subtitle": "Test bezpečnosti a ochrany zdravia pri práci",
+      "why_take": "Prečo absolvovať tento test?",
+      "benefits": [
+        "Preukážte svoje znalosti v oblasti BOZP",
+        "Zvýšte svoju hodnotu pre zamestnávateľov",
+        "Získajte certifikát o absolvovaní testu"
+      ],
+      "what_it_checks": "Čo test hodnotí:",
+      "skills": [
+        "Základné princípy BOZP",
+        "Prevencia pracovných úrazov",
+        "Používanie ochranných pracovných prostriedkov",
+        "Postupy v prípade núdze"
+      ],
+      "duration": "20 minút",
+      "levels": ["basic"]
+    }
+  },
+  "test-detail": {
+    "tooltip": "Test pozornosti k detailom hodnotí vašu schopnosť všímať si detaily a presnosť pri práci.",
+    "click_info": {
+      "title": "Pozornosť k detailom",
+      "subtitle": "Test presnosti a pozornosti",
+      "why_take": "Prečo absolvovať tento test?",
+      "benefits": [
+        "Preukážte svoju schopnosť pracovať s vysokou presnosťou",
+        "Zvýšte svoju hodnotu pre zamestnávateľov vyžadujúcich detailnú prácu",
+        "Získajte spätnú väzbu o svojej pozornosti a presnosti"
+      ],
+      "what_it_checks": "Čo test hodnotí:",
+      "skills": [
+        "Schopnosť všímať si detaily",
+        "Presnosť pri kontrole údajov",
+        "Rýchlosť pri zachovaní presnosti",
+        "Detekcia chýb a nezrovnalostí"
+      ],
+      "duration": "8 minút",
+      "levels": ["single"]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "test_type": "job-skills",
+  "test_name": "Pracovné zručnosti",
+  "test_description": "Test pracovných zručností overuje vaše znalosti a schopnosti v konkrétnej pracovnej oblasti na základe vášho CV.",
+  "version": "1.0",
+  "categories": {
+    "office": {
+      "name": "Kancelárske práce",
+      "description": "Test zručností pre administratívne a kancelárske pozície",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "retail_prevadzka": {
+      "name": "Retail a prevádzka",
+      "description": "Test zručností pre maloobchod a prevádzku",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "logistika": {
+      "name": "Logistika a doprava",
+      "description": "Test zručností pre logistiku, skladové hospodárstvo a dopravu",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "vyroba": {
+      "name": "Výroba a produkcia",
+      "description": "Test zručností pre výrobu, montáž a produkciu",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "zdravotnictvo": {
+      "name": "Zdravotníctvo a starostlivosť",
+      "description": "Test zručností pre zdravotnícke a ošetrovateľské pozície",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "horeca": {
+      "name": "Pohostinstvo a gastronómia",
+      "description": "Test zručností pre gastro, hotelierstvo a služby",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "financna_admin": {
+      "name": "Finančná administratíva",
+      "description": "Test zručností pre finančné oddelenia, účtovníctvo a controlling",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "udrzba": {
+      "name": "Údržba a technické služby",
+      "description": "Test zručností pre údržbu, facility a servisných technikov",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "klientska_podpora": {
+      "name": "Klientska podpora a call centrum",
+      "description": "Test zručností pre zákaznícku podporu, helpdesk a call centrá",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    },
+    "stavebnictvo": {
+      "name": "Stavebníctvo a remeslá",
+      "description": "Test zručností pre stavebné profesie a remeselné práce",
+      "levels": {
+        "screen": {
+          "name": "Základná úroveň",
+          "description": "Pre kandidátov s 0-2 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 60
+        },
+        "standard": {
+          "name": "Štandardná úroveň",
+          "description": "Pre kandidátov s 3-7 rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 70
+        },
+        "expert": {
+          "name": "Expertná úroveň",
+          "description": "Pre kandidátov s 8+ rokmi skúseností",
+          "duration_minutes": 20,
+          "total_questions": 25,
+          "passing_score_percent": 80
+        }
+      }
+    }
+  },
+  "prestart_modal": {
+    "title": "Test pracovných zručností",
+    "subtitle": "Prečítajte si prosím dôležité informácie pred začatím testu",
+    "privacy_statements": [
+      {
+        "id": "data-collection",
+        "title": "Zhromažďovanie údajov",
+        "content": "Počas testu budeme zaznamenávať vaše odpovede, čas strávený na každej otázke a celkové výsledky. Tieto údaje budú použité výhradne na vyhodnotenie vašich pracovných zručností."
+      },
+      {
+        "id": "data-usage",
+        "title": "Použitie údajov",
+        "content": "Vaše výsledky budú zdieľané s potenciálnymi zamestnávateľmi, ktorí si prezerajú váš profil. Údaje nebudú predané tretím stranám na marketingové účely."
+      },
+      {
+        "id": "data-retention",
+        "title": "Uchovávanie údajov",
+        "content": "Výsledky testov budú uložené vo vašom profile po dobu 12 mesiacov. Kedykoľvek môžete požiadať o vymazanie svojich údajov."
+      }
+    ],
+    "checklist": [
+      {
+        "id": "quiet-environment",
+        "label": "Som v tichom prostredí bez rušenia",
+        "required": true
+      },
+      {
+        "id": "stable-internet",
+        "label": "Mám stabilné internetové pripojenie",
+        "required": true
+      },
+      {
+        "id": "enough-time",
+        "label": "Mám dostatok času na dokončenie testu (20 minút)",
+        "required": true
+      },
+      {
+        "id": "no-help",
+        "label": "Rozumiem, že test musím absolvovať samostatne bez pomoci",
+        "required": true
+      }
+    ],
+    "proctoring_checks": [
+      {
+        "id": "camera-check",
+        "type": "camera",
+        "label": "Kontrola kamery",
+        "description": "Uistite sa, že vaša kamera funguje správne",
+        "required": false
+      },
+      {
+        "id": "microphone-check",
+        "type": "microphone",
+        "label": "Kontrola mikrofónu",
+        "description": "Uistite sa, že váš mikrofón funguje správne",
+        "required": false
+      },
+      {
+        "id": "screen-recording",
+        "type": "screen",
+        "label": "Zdieľanie obrazovky",
+        "description": "Počas testu bude zaznamenaná vaša obrazovka",
+        "required": false
+      }
+    ],
+    "instructions": [
+      "Test obsahuje 25 otázok zameraných na vašu pracovnú oblasť",
+      "Máte 20 minút na dokončenie testu",
+      "Každá otázka má 4 možnosti, vyberte najlepšiu odpoveď",
+      "Po odoslaní odpovede ju nemôžete zmeniť",
+      "Test musíte dokončiť v jednom sedení - nemôžete ho prerušiť a pokračovať neskôr",
+      "Výsledky uvidíte ihneď po dokončení testu"
+    ],
+    "start_button_text": "Začať test",
+    "cancel_button_text": "Zrušiť"
+  },
+  "test_instructions": {
+    "during_test": [
+      "Pozorne si prečítajte každú otázku",
+      "Vyberte najlepšiu odpoveď zo 4 možností",
+      "Sledujte zostávajúci čas v pravom hornom rohu",
+      "Môžete sa vrátiť k predchádzajúcim otázkam",
+      "Pred odoslaním skontrolujte všetky odpovede"
+    ],
+    "navigation": {
+      "next_button": "Ďalšia otázka",
+      "previous_button": "Predchádzajúca otázka",
+      "submit_button": "Odoslať test",
+      "question_indicator": "Otázka {current} z {total}"
+    }
+  },
+  "scoring": {
+    "calculation_method": "percentage",
+    "show_correct_answers": true,
+    "show_explanations": true,
+    "pass_threshold_percent": 60
+  }
+}

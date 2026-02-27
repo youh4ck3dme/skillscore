@@ -1,0 +1,127 @@
+{
+  "group_id": "polnohospodarstvo",
+  "group_name": "Poľnohospodárstvo & Lesníctvo",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "polnohospodarstvo__core_required",
+      "bundle_name": "CORE – Bezpečnosť práce v agro/lese",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "ohs_agri_forest_induction",
+          "title": "BOZP – poľnohospodárstvo a lesníctvo (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "first_aid_outdoor",
+          "title": "Prvá pomoc – terénne prostredie",
+          "renewal_years": 2
+        },
+        {
+          "id": "ppe_outdoor",
+          "title": "OOPP – používanie v exteriéri (sluch, zrak, rezná ochrana)",
+          "renewal_years": 1
+        }
+      ]
+    },
+    {
+      "bundle_id": "polnohospodarstvo__field_work_track",
+      "bundle_name": "Track – Rastlinná výroba / poľné práce",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "machinery_safety_basics",
+          "title": "Bezpečnosť strojov (traktory, prídavné zariadenia) – zásady",
+          "renewal_years": 1
+        },
+        {
+          "id": "pesticides_awareness",
+          "title": "Pesticídy & ochrana rastlín – awareness (etikety, MSDS)",
+          "renewal_years": 2
+        },
+        {
+          "id": "storage_grain_basics",
+          "title": "Skladovanie úrody & sila – zásady bezpečnosti",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "polnohospodarstvo__animal_husbandry_track",
+      "bundle_name": "Track – Živočíšna výroba",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "animal_welfare_basics",
+          "title": "Welfare zvierat & manipulácia – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "biosecurity_farm",
+          "title": "Biosecurity na farme – zásady (dezinfekcia, vstupy)",
+          "renewal_years": 2
+        },
+        {
+          "id": "cold_chain_feed_storage",
+          "title": "Skladovanie krmív & liekov – zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "polnohospodarstvo__forestry_track",
+      "bundle_name": "Track – Lesníctvo & ťažba",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "chainsaw_operations",
+          "title": "Motorová píla – bezpečná práca (awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "tree_felling_basics",
+          "title": "Zásady ťažby & vyvážania – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "terrain_vehicle_safety",
+          "title": "Bezpečnosť pri práci v teréne & vozidlá",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "polnohospodarstvo__equipment_licensing_addon",
+      "bundle_name": "Addon – Oprávnenia & špeciálna technika",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "tractor_license_local",
+          "title": "Oprávnenie – traktory a prípojné vozidlá (národné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "forklift_license_local",
+          "title": "Oprávnenie – VZV (národné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "pesticide_certificate_local",
+          "title": "Osvedčenie – aplikácia prípravkov (národné)",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Oprávnenia na stroje a pesticídy sú národné; tento balík je všeobecný + awareness k pravidlám EÚ (REACH/CLP, welfare).",
+    "country_overlays": []
+  }
+}

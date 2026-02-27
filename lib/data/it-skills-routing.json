@@ -1,0 +1,593 @@
+{
+  "module": "it-cv-skills-routing",
+  "version": "v1",
+  "start_route": {
+    "pattern": "/tests/{slug}",
+    "query": {
+      "level": "{level}",
+      "variant": "{variant}"
+    }
+  },
+  "levels": [1, 2, 3, 4],
+  "normalize": {
+    "skill_aliases": {
+      "excel": ["excel", "ms excel", "microsoft excel", "calc", "tabuľky", "tabulky"],
+      "word": ["word", "ms word", "microsoft word", "dokumenty", "docs (ms)"],
+      "powerpoint": ["powerpoint", "ms powerpoint", "microsoft powerpoint", "ppt", "prezentacie", "prezentácie"],
+      "outlook": ["outlook", "ms outlook", "email outlook", "pošta outlook"],
+      "google-sheets": ["google sheets", "g sheets", "gsheets", "tabuľky google", "tabulky google"],
+      "google-docs": ["google docs", "g docs", "gdocs", "dokumenty google"],
+      "google-slides": ["google slides", "g slides", "gslides", "prezentacie google", "prezentácie google"],
+      "sql": ["sql", "mysql", "postgres", "postgresql", "mssql"],
+      "power-bi": ["power bi", "pbi"],
+      "tableau": ["tableau"],
+      "teams": ["teams", "microsoft teams", "ms teams"]
+    },
+    "level_aliases": {
+      "1": ["1", "zaciatocnik", "začiatočník", "beginner", "junior"],
+      "2": ["2", "mierne pokrocily", "mierne pokročilý", "pre-intermediate"],
+      "3": ["3", "pokrocily", "advanced", "senior"],
+      "4": ["4", "expert", "expertise", "lead"]
+    }
+  },
+  "policy": {
+    "if_missing_skill": "ignore",
+    "if_missing_level": "show_level_picker",
+    "default_level": 2,
+    "progression": {
+      "enabled": true,
+      "rule": "3_up_3_down",
+      "success_streak_required": 3,
+      "fail_streak_required": 3,
+      "messages_ref": "it_user_messages_SK_v1.json"
+    }
+  },
+  "tests": {
+    "net": {
+      "title": ".net",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "net",
+      "levels": [1, 2, 3, 4]
+    },
+    "airflow": {
+      "title": "airflow",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "airflow",
+      "levels": [1, 2, 3, 4]
+    },
+    "angular": {
+      "title": "angular",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "angular",
+      "levels": [1, 2, 3, 4]
+    },
+    "apache": {
+      "title": "apache",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "apache",
+      "levels": [1, 2, 3, 4]
+    },
+    "asana": {
+      "title": "asana",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "asana",
+      "levels": [1, 2, 3, 4]
+    },
+    "aws": {
+      "title": "aws",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "aws",
+      "levels": [1, 2, 3, 4]
+    },
+    "azure": {
+      "title": "azure",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "azure",
+      "levels": [1, 2, 3, 4]
+    },
+    "canva": {
+      "title": "canva",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "canva",
+      "levels": [1, 2, 3, 4]
+    },
+    "chrome": {
+      "title": "chrome",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "chrome",
+      "levels": [1, 2, 3, 4]
+    },
+    "confluence-admin": {
+      "title": "confluence-admin",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "confluence-admin",
+      "levels": [1, 2, 3, 4]
+    },
+    "confluence-user": {
+      "title": "confluence-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "confluence-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "cpp": {
+      "title": "cpp",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "cpp",
+      "levels": [1, 2, 3, 4]
+    },
+    "csharp": {
+      "title": "csharp",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "csharp",
+      "levels": [1, 2, 3, 4]
+    },
+    "cypress": {
+      "title": "cypress",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "cypress",
+      "levels": [1, 2, 3, 4]
+    },
+    "dbt": {
+      "title": "dbt",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "dbt",
+      "levels": [1, 2, 3, 4]
+    },
+    "docker": {
+      "title": "docker",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "docker",
+      "levels": [1, 2, 3, 4]
+    },
+    "dropbox": {
+      "title": "dropbox",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "dropbox",
+      "levels": [1, 2, 3, 4]
+    },
+    "edge": {
+      "title": "edge",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "edge",
+      "levels": [1, 2, 3, 4]
+    },
+    "excel": {
+      "title": "excel",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "excel",
+      "levels": [1, 2, 3, 4]
+    },
+    "figma": {
+      "title": "figma",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "figma",
+      "levels": [1, 2, 3, 4]
+    },
+    "figma-user": {
+      "title": "figma-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "figma-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "firefox": {
+      "title": "firefox",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "firefox",
+      "levels": [1, 2, 3, 4]
+    },
+    "freshdesk-user": {
+      "title": "freshdesk-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "freshdesk-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "ga4": {
+      "title": "ga4",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "ga4",
+      "levels": [1, 2, 3, 4]
+    },
+    "gcp": {
+      "title": "gcp",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "gcp",
+      "levels": [1, 2, 3, 4]
+    },
+    "git": {
+      "title": "git",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "git",
+      "levels": [1, 2, 3, 4]
+    },
+    "github": {
+      "title": "github",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "github",
+      "levels": [1, 2, 3, 4]
+    },
+    "gitlab": {
+      "title": "gitlab",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "gitlab",
+      "levels": [1, 2, 3, 4]
+    },
+    "gmail": {
+      "title": "gmail",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "gmail",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-calendar": {
+      "title": "google-calendar",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-calendar",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-docs": {
+      "title": "google-docs",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-docs",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-drive": {
+      "title": "google-drive",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-drive",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-meet": {
+      "title": "google-meet",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-meet",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-sheets": {
+      "title": "google-sheets",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-sheets",
+      "levels": [1, 2, 3, 4]
+    },
+    "google-slides": {
+      "title": "google-slides",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "google-slides",
+      "levels": [1, 2, 3, 4]
+    },
+    "hubspot-user": {
+      "title": "hubspot-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "hubspot-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "java": {
+      "title": "java",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "java",
+      "levels": [1, 2, 3, 4]
+    },
+    "javascript": {
+      "title": "javascript",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "javascript",
+      "levels": [1, 2, 3, 4]
+    },
+    "jenkins": {
+      "title": "jenkins",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "jenkins",
+      "levels": [1, 2, 3, 4]
+    },
+    "jira-admin": {
+      "title": "jira-admin",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "jira-admin",
+      "levels": [1, 2, 3, 4]
+    },
+    "jira-user": {
+      "title": "jira-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "jira-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "kubernetes": {
+      "title": "kubernetes",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "kubernetes",
+      "levels": [1, 2, 3, 4]
+    },
+    "linux": {
+      "title": "linux",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "linux",
+      "levels": [1, 2, 3, 4]
+    },
+    "mongodb": {
+      "title": "mongodb",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "mongodb",
+      "levels": [1, 2, 3, 4]
+    },
+    "mssql": {
+      "title": "mssql",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "mssql",
+      "levels": [1, 2, 3, 4]
+    },
+    "mysql": {
+      "title": "mysql",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "mysql",
+      "levels": [1, 2, 3, 4]
+    },
+    "nginx": {
+      "title": "nginx",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "nginx",
+      "levels": [1, 2, 3, 4]
+    },
+    "nodejs": {
+      "title": "nodejs",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "nodejs",
+      "levels": [1, 2, 3, 4]
+    },
+    "notion": {
+      "title": "notion",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "notion",
+      "levels": [1, 2, 3, 4]
+    },
+    "numpy": {
+      "title": "numpy",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "numpy",
+      "levels": [1, 2, 3, 4]
+    },
+    "onedrive": {
+      "title": "onedrive",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "onedrive",
+      "levels": [1, 2, 3, 4]
+    },
+    "onenote": {
+      "title": "onenote",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "onenote",
+      "levels": [1, 2, 3, 4]
+    },
+    "outlook": {
+      "title": "outlook",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "outlook",
+      "levels": [1, 2, 3, 4]
+    },
+    "pandas": {
+      "title": "pandas",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "pandas",
+      "levels": [1, 2, 3, 4]
+    },
+    "php": {
+      "title": "php",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "php",
+      "levels": [1, 2, 3, 4]
+    },
+    "postgresql": {
+      "title": "postgresql",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "postgresql",
+      "levels": [1, 2, 3, 4]
+    },
+    "power-bi": {
+      "title": "power-bi",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "power-bi",
+      "levels": [1, 2, 3, 4]
+    },
+    "powerpoint": {
+      "title": "powerpoint",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "powerpoint",
+      "levels": [1, 2, 3, 4]
+    },
+    "python": {
+      "title": "python",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "python",
+      "levels": [1, 2, 3, 4]
+    },
+    "react": {
+      "title": "react",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "react",
+      "levels": [1, 2, 3, 4]
+    },
+    "redis": {
+      "title": "redis",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "redis",
+      "levels": [1, 2, 3, 4]
+    },
+    "salesforce-user": {
+      "title": "salesforce-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "salesforce-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "selenium": {
+      "title": "selenium",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "selenium",
+      "levels": [1, 2, 3, 4]
+    },
+    "shopify-admin": {
+      "title": "shopify-admin",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "shopify-admin",
+      "levels": [1, 2, 3, 4]
+    },
+    "skype": {
+      "title": "skype",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "skype",
+      "levels": [1, 2, 3, 4]
+    },
+    "slack": {
+      "title": "slack",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "slack",
+      "levels": [1, 2, 3, 4]
+    },
+    "spring": {
+      "title": "spring",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "spring",
+      "levels": [1, 2, 3, 4]
+    },
+    "sql": {
+      "title": "sql",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "sql",
+      "levels": [1, 2, 3, 4]
+    },
+    "tableau": {
+      "title": "tableau",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "tableau",
+      "levels": [1, 2, 3, 4]
+    },
+    "teams": {
+      "title": "teams",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "teams",
+      "levels": [1, 2, 3, 4]
+    },
+    "trello": {
+      "title": "trello",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "trello",
+      "levels": [1, 2, 3, 4]
+    },
+    "typescript": {
+      "title": "typescript",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "typescript",
+      "levels": [1, 2, 3, 4]
+    },
+    "vue": {
+      "title": "vue",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "vue",
+      "levels": [1, 2, 3, 4]
+    },
+    "windows-server": {
+      "title": "windows-server",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "windows-server",
+      "levels": [1, 2, 3, 4]
+    },
+    "woocommerce-admin": {
+      "title": "woocommerce-admin",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "woocommerce-admin",
+      "levels": [1, 2, 3, 4]
+    },
+    "word": {
+      "title": "word",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "word",
+      "levels": [1, 2, 3, 4]
+    },
+    "zendesk-user": {
+      "title": "zendesk-user",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "zendesk-user",
+      "levels": [1, 2, 3, 4]
+    },
+    "zoom": {
+      "title": "zoom",
+      "code": "test-it-cv-skills",
+      "slug": "it-cv-skills",
+      "variant": "zoom",
+      "levels": [1, 2, 3, 4]
+    }
+  }
+}

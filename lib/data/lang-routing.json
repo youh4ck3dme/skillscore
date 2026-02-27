@@ -1,0 +1,91 @@
+{
+  "languages": {
+    "en": {
+      "code": "en",
+      "name": {
+        "sk": "Angličtina",
+        "en": "English",
+        "de": "Englisch"
+      },
+      "aliases": ["anglictina", "english", "eng", "anglicky", "en"],
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "test": {
+        "code": "test-lang",
+        "slug": "lang",
+        "variant": "en"
+      }
+    },
+    "de": {
+      "code": "de",
+      "name": {
+        "sk": "Nemčina",
+        "en": "German",
+        "de": "Deutsch"
+      },
+      "aliases": ["nemcina", "german", "ger", "nemecky", "de", "deutsch"],
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "test": {
+        "code": "test-lang",
+        "slug": "lang",
+        "variant": "de"
+      }
+    },
+    "fr": {
+      "code": "fr",
+      "name": {
+        "sk": "Francúzština",
+        "en": "French",
+        "de": "Französisch"
+      },
+      "aliases": ["francuzstina", "french", "fra", "fr", "francuzsky"],
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "test": {
+        "code": "test-lang",
+        "slug": "lang",
+        "variant": "fr"
+      }
+    },
+    "es": {
+      "code": "es",
+      "name": {
+        "sk": "Španielčina",
+        "en": "Spanish",
+        "de": "Spanisch"
+      },
+      "aliases": ["spanielcina", "spanish", "spa", "es", "spanielsky"],
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "test": {
+        "code": "test-lang",
+        "slug": "lang",
+        "variant": "es"
+      }
+    },
+    "it": {
+      "code": "it",
+      "name": {
+        "sk": "Taliančina",
+        "en": "Italian",
+        "de": "Italienisch"
+      },
+      "aliases": ["taliancina", "italian", "ita", "it", "taliansky"],
+      "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+      "test": {
+        "code": "test-lang",
+        "slug": "lang",
+        "variant": "it"
+      }
+    }
+  },
+  "level_aliases": {
+    "A1": ["a1", "zakladny", "beginner", "anfänger", "basic"],
+    "A2": ["a2", "mierne pokrocily", "elementary", "grundlegend"],
+    "B1": ["b1", "stredne pokrocily", "intermediate", "mittelstufe"],
+    "B2": ["b2", "pokrocily", "upper intermediate", "fortgeschritten"],
+    "C1": ["c1", "velmi pokrocily", "advanced", "sehr fortgeschritten"],
+    "C2": ["c2", "expertny", "proficient", "experte", "native"]
+  },
+  "policy": {
+    "missing_language": "skip",
+    "missing_level": "show_level_picker"
+  }
+}

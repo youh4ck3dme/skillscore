@@ -1,0 +1,303 @@
+export const studyFieldsData = {
+  sk: [
+    {
+      category: "Prírodné vedy",
+      fields: ["Matematika", "Fyzika", "Chémia", "Biológia", "Geológia", "Geografia", "Environmentálne vedy"],
+    },
+    {
+      category: "Technické a inžinierske vedy",
+      fields: [
+        "Informatika / Počítačové vedy",
+        "Elektrotechnika",
+        "Strojárstvo",
+        "Stavebníctvo",
+        "Architektúra a urbanizmus",
+        "Energetika",
+        "Mechatronika",
+        "Logistika",
+        "Chemické inžinierstvo",
+        "Materiálové inžinierstvo",
+        "Doprava a dopravné technológie",
+      ],
+    },
+    {
+      category: "Zdravotníctvo a lekárske vedy",
+      fields: [
+        "Všeobecné lekárstvo",
+        "Zubné lekárstvo",
+        "Farmácia",
+        "Ošetrovateľstvo",
+        "Verejné zdravotníctvo",
+        "Fyzioterapia a rehabilitácia",
+        "Veterinárne lekárstvo",
+      ],
+    },
+    {
+      category: "Poľnohospodárske a prírodné zdroje",
+      fields: ["Poľnohospodárstvo", "Lesníctvo", "Potravinárske technológie", "Záhradníctvo"],
+    },
+    {
+      category: "Spoločenské vedy",
+      fields: [
+        "Psychológia",
+        "Sociológia",
+        "Politológia",
+        "Medzinárodné vzťahy",
+        "Európske štúdiá",
+        "Filozofia",
+        "História",
+        "Kulturológia",
+      ],
+    },
+    {
+      category: "Ekonomické a obchodné vedy",
+      fields: [
+        "Ekonomika",
+        "Manažment",
+        "Marketing",
+        "Financie a bankovníctvo",
+        "Účtovníctvo",
+        "Podnikanie",
+        "Medzinárodný obchod",
+        "Logistika a doprava",
+      ],
+    },
+    {
+      category: "Právne vedy",
+      fields: ["Právo", "Európske právo", "Medzinárodné právo", "Obchodné právo"],
+    },
+    {
+      category: "Pedagogické vedy",
+      fields: [
+        "Predškolská pedagogika",
+        "Elementárna pedagogika",
+        "Špeciálna pedagogika",
+        "Sociálna pedagogika",
+        "Andragogika",
+      ],
+    },
+    {
+      category: "Humanitné vedy",
+      fields: [
+        "Filológia",
+        "Jazykoveda",
+        "Literárna veda",
+        "Prekladateľstvo a tlmočníctvo",
+        "Teológia",
+        "Religionistika",
+      ],
+    },
+    {
+      category: "Umenie a dizajn",
+      fields: [
+        "Výtvarné umenie",
+        "Grafický dizajn",
+        "Priemyselný dizajn",
+        "Architektúra",
+        "Hudba",
+        "Divadlo",
+        "Film a televízia",
+      ],
+    },
+  ],
+  en: [
+    {
+      category: "Natural Sciences",
+      fields: ["Mathematics", "Physics", "Chemistry", "Biology", "Geology", "Geography", "Environmental Sciences"],
+    },
+    {
+      category: "Technical and Engineering Sciences",
+      fields: [
+        "Computer Science / Information Technology",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Architecture and Urban Planning",
+        "Energy Engineering",
+        "Mechatronics",
+        "Logistics",
+        "Chemical Engineering",
+        "Materials Engineering",
+        "Transportation and Transport Technologies",
+      ],
+    },
+    {
+      category: "Healthcare and Medical Sciences",
+      fields: [
+        "General Medicine",
+        "Dentistry",
+        "Pharmacy",
+        "Nursing",
+        "Public Health",
+        "Physiotherapy and Rehabilitation",
+        "Veterinary Medicine",
+      ],
+    },
+    {
+      category: "Agricultural and Natural Resources",
+      fields: ["Agriculture", "Forestry", "Food Technology", "Horticulture"],
+    },
+    {
+      category: "Social Sciences",
+      fields: [
+        "Psychology",
+        "Sociology",
+        "Political Science",
+        "International Relations",
+        "European Studies",
+        "Philosophy",
+        "History",
+        "Cultural Studies",
+      ],
+    },
+    {
+      category: "Economic and Business Sciences",
+      fields: [
+        "Economics",
+        "Management",
+        "Marketing",
+        "Finance and Banking",
+        "Accounting",
+        "Entrepreneurship",
+        "International Business",
+        "Logistics and Transportation",
+      ],
+    },
+    {
+      category: "Legal Sciences",
+      fields: ["Law", "European Law", "International Law", "Business Law"],
+    },
+    {
+      category: "Educational Sciences",
+      fields: [
+        "Preschool Education",
+        "Elementary Education",
+        "Special Education",
+        "Social Education",
+        "Adult Education",
+      ],
+    },
+    {
+      category: "Humanities",
+      fields: [
+        "Philology",
+        "Linguistics",
+        "Literary Studies",
+        "Translation and Interpreting",
+        "Theology",
+        "Religious Studies",
+      ],
+    },
+    {
+      category: "Arts and Design",
+      fields: [
+        "Fine Arts",
+        "Graphic Design",
+        "Industrial Design",
+        "Architecture",
+        "Music",
+        "Theatre",
+        "Film and Television",
+      ],
+    },
+  ],
+  de: [
+    {
+      category: "Naturwissenschaften",
+      fields: ["Mathematik", "Physik", "Chemie", "Biologie", "Geologie", "Geographie", "Umweltwissenschaften"],
+    },
+    {
+      category: "Technische und Ingenieurwissenschaften",
+      fields: [
+        "Informatik / Computerwissenschaften",
+        "Elektrotechnik",
+        "Maschinenbau",
+        "Bauingenieurwesen",
+        "Architektur und Stadtplanung",
+        "Energietechnik",
+        "Mechatronik",
+        "Logistik",
+        "Chemieingenieurwesen",
+        "Materialwissenschaften",
+        "Verkehr und Transporttechnologien",
+      ],
+    },
+    {
+      category: "Gesundheitswesen und Medizinische Wissenschaften",
+      fields: [
+        "Allgemeinmedizin",
+        "Zahnmedizin",
+        "Pharmazie",
+        "Krankenpflege",
+        "Öffentliche Gesundheit",
+        "Physiotherapie und Rehabilitation",
+        "Veterinärmedizin",
+      ],
+    },
+    {
+      category: "Landwirtschaft und Natürliche Ressourcen",
+      fields: ["Landwirtschaft", "Forstwirtschaft", "Lebensmitteltechnologie", "Gartenbau"],
+    },
+    {
+      category: "Sozialwissenschaften",
+      fields: [
+        "Psychologie",
+        "Soziologie",
+        "Politikwissenschaft",
+        "Internationale Beziehungen",
+        "Europastudien",
+        "Philosophie",
+        "Geschichte",
+        "Kulturwissenschaften",
+      ],
+    },
+    {
+      category: "Wirtschafts- und Betriebswissenschaften",
+      fields: [
+        "Wirtschaftswissenschaften",
+        "Management",
+        "Marketing",
+        "Finanzen und Bankwesen",
+        "Rechnungswesen",
+        "Unternehmertum",
+        "Internationaler Handel",
+        "Logistik und Transport",
+      ],
+    },
+    {
+      category: "Rechtswissenschaften",
+      fields: ["Recht", "Europarecht", "Internationales Recht", "Wirtschaftsrecht"],
+    },
+    {
+      category: "Erziehungswissenschaften",
+      fields: ["Vorschulpädagogik", "Grundschulpädagogik", "Sonderpädagogik", "Sozialpädagogik", "Erwachsenenbildung"],
+    },
+    {
+      category: "Geisteswissenschaften",
+      fields: [
+        "Philologie",
+        "Sprachwissenschaft",
+        "Literaturwissenschaft",
+        "Übersetzen und Dolmetschen",
+        "Theologie",
+        "Religionswissenschaft",
+      ],
+    },
+    {
+      category: "Kunst und Design",
+      fields: [
+        "Bildende Kunst",
+        "Grafikdesign",
+        "Industriedesign",
+        "Architektur",
+        "Musik",
+        "Theater",
+        "Film und Fernsehen",
+      ],
+    },
+  ],
+}
+
+export const getStudyFieldsData = (locale: string) => {
+  return studyFieldsData[locale as keyof typeof studyFieldsData] || studyFieldsData.sk
+}

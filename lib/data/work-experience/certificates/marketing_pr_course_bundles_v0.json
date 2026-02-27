@@ -1,0 +1,137 @@
+{
+  "group_id": "marketing_pr",
+  "group_name": "Marketing & PR",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "marketing_pr__core_required",
+      "bundle_name": "CORE – Marketing základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "gdpr_marketing_consent",
+          "title": "GDPR v marketingu (súhlasy, cookies, e-mail marketing)",
+          "renewal_years": 2
+        },
+        {
+          "id": "brand_basics",
+          "title": "Brand & positioning – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "content_fundamentals",
+          "title": "Content marketing – základy (tone of voice, kalendár)",
+          "renewal_years": null
+        },
+        {
+          "id": "ohs_induction_office",
+          "title": "BOZP/PO – kancelárske prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "marketing_pr__performance_track",
+      "bundle_name": "Track – Performance marketing (digitál)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ga4_analytics",
+          "title": "Google Analytics 4 – základy merania",
+          "renewal_years": null
+        },
+        {
+          "id": "ads_basics",
+          "title": "Google Ads / Meta Ads – základy kampaní",
+          "renewal_years": null
+        },
+        {
+          "id": "seo_basics",
+          "title": "SEO – základy (on-page/technické/obsah)",
+          "renewal_years": null
+        },
+        {
+          "id": "marketing_automation_intro",
+          "title": "Marketing automation – úvod (segmentácia, scoring)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "marketing_pr__content_brand_track",
+      "bundle_name": "Track – Content & brand",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "copywriting_basics",
+          "title": "Copywriting – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "social_media_management",
+          "title": "Správa sociálnych sietí – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "design_tools_intro",
+          "title": "Základy grafiky (Canva/Figma) – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "marketing_pr__pr_events_addon",
+      "bundle_name": "Addon – PR & eventy",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "media_relations_basics",
+          "title": "Mediálne vzťahy – základy (tlačové správy, briefing)",
+          "renewal_years": null
+        },
+        {
+          "id": "event_management_intro",
+          "title": "Event management – plánovanie a realizácia",
+          "renewal_years": null
+        },
+        {
+          "id": "crisis_comms",
+          "title": "Krízová komunikácia – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "marketing_pr__analytics_addon",
+      "bundle_name": "Addon – Marketing analytics & atribúcia",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "data_visualization_basics",
+          "title": "Vizualizácia dát (Data Studio/Looker Studio) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "utm_tracking",
+          "title": "UTM, tagging & atribučné modely – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "privacy_updates_marketing",
+          "title": "Privacy & cookies – trendy a dopady na tracking",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "GDPR/cookies sú kľúčové; lokálne pravidlá pre reklamu na špecifické produkty (alkohol, lieky) rieš ako krajinský overlay.",
+    "country_overlays": []
+  }
+}

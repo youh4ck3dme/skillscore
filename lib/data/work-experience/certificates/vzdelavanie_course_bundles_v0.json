@@ -1,0 +1,127 @@
+{
+  "group_id": "vzdelavanie",
+  "group_name": "Vzdelávanie & Školstvo",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "vzdelavanie__core_required",
+      "bundle_name": "CORE – Pedagogické a prevádzkové základy",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "child_protection_safeguarding",
+          "title": "Ochrana detí / žiakov (safeguarding) – základy",
+          "renewal_years": 2
+        },
+        {
+          "id": "first_aid_school",
+          "title": "Prvá pomoc v školskom prostredí",
+          "renewal_years": 2
+        },
+        {
+          "id": "classroom_management_basics",
+          "title": "Riadenie triedy & disciplína – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_education",
+          "title": "GDPR v školstve (osobné údaje detí, fotenie, publikovanie)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_school",
+          "title": "BOZP/PO – školské zariadenia",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "vzdelavanie__teaching_methods_track",
+      "bundle_name": "Track – Didaktika & hodnotenie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "didactics_basics",
+          "title": "Didaktika – základy (ciele, metódy, diferenciácia)",
+          "renewal_years": null
+        },
+        {
+          "id": "assessment_methods",
+          "title": "Hodnotenie & spätná väzba – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "inclusive_education_intro",
+          "title": "Inkluzívne vzdelávanie – úvod (ŠVVP)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "vzdelavanie__digital_literacy_track",
+      "bundle_name": "Track – Digitálne nástroje pre učiteľov",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "lms_tools_basics",
+          "title": "LMS & e-learning nástroje – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "icdl_teacher_modules",
+          "title": "ICDL moduly pre učiteľov (Office, online)",
+          "renewal_years": null
+        },
+        {
+          "id": "online_safety_students",
+          "title": "Online bezpečnosť & ochrana žiakov – základy",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "vzdelavanie__special_needs_addon",
+      "bundle_name": "Addon – Špeciálna pedagogika (awareness)",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "autism_awareness",
+          "title": "Autizmus – awareness & podpora v triede",
+          "renewal_years": 2
+        },
+        {
+          "id": "adhd_awareness",
+          "title": "ADHD – awareness & triedne stratégie",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "vzdelavanie__sport_lab_addon",
+      "bundle_name": "Addon – Telesná výchova & laboratóriá (bezpečnosť)",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "pe_safety_basics",
+          "title": "Bezpečnosť na telesnej výchove – zásady",
+          "renewal_years": 2
+        },
+        {
+          "id": "school_lab_safety",
+          "title": "Bezpečnosť v školských laboratóriách (chem/bio) – zásady",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Pedagogické kvalifikácie sú národné; balíky sú pre všeobecné učiteľské a asistenčné roly. GDPR/safeguarding/BOZP plošne.",
+    "country_overlays": []
+  }
+}

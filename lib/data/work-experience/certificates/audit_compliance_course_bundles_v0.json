@@ -1,0 +1,160 @@
+{
+  "group_id": "audit_compliance",
+  "group_name": "Audit & Compliance",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "audit_compliance__core_required",
+      "bundle_name": "CORE – Audit & Compliance základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ethics_code_conduct",
+          "title": "Etický kódex & konflikt záujmov – základ",
+          "renewal_years": 1
+        },
+        {
+          "id": "risk_management_basics",
+          "title": "Riadenie rizík – základy (risk register, kontrolné aktivity)",
+          "renewal_years": null
+        },
+        {
+          "id": "internal_controls_basics",
+          "title": "Interné kontroly & ICFR – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "audit_basics",
+          "title": "Audit – základné princípy (plán, vykonanie, reporting)",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_compliance_intro",
+          "title": "GDPR – compliance pre ne-IT roly",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "audit_compliance__internal_audit_track",
+      "bundle_name": "Track – Interný audit",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "iia_standards_intro",
+          "title": "Štandardy IIA – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "process_auditing",
+          "title": "Procesný audit & testovanie kontrol",
+          "renewal_years": null
+        },
+        {
+          "id": "reporting_rootcause",
+          "title": "Reporting zistení & root-cause analýza",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "audit_compliance__external_audit_addon",
+      "bundle_name": "Addon – Externý audit (finančné výkazy)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "isa_intro",
+          "title": "ISA/ISAs – úvod do auditu výkazov",
+          "renewal_years": null
+        },
+        {
+          "id": "ifrs_awareness",
+          "title": "IFRS povedomie pre audítorov",
+          "renewal_years": null
+        },
+        {
+          "id": "sampling_techniques",
+          "title": "Vzorkovanie & analytické postupy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "audit_compliance__compliance_track",
+      "bundle_name": "Track – Compliance (AML, whistleblowing, SOX)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "aml_cft_intro",
+          "title": "AML/CFT – úvod & due diligence klienta",
+          "renewal_years": 1
+        },
+        {
+          "id": "whistleblowing_process",
+          "title": "Oznamovanie protispoločenskej činnosti – proces",
+          "renewal_years": null
+        },
+        {
+          "id": "sox_icfr_overview",
+          "title": "SOX/ICFR – prehľad požiadaviek (ak relevantné)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "audit_compliance__iso_controls_addon",
+      "bundle_name": "Addon – ISO & kontrolné rámce",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "iso9001_awareness",
+          "title": "ISO 9001 – awareness",
+          "renewal_years": 3
+        },
+        {
+          "id": "iso27001_awareness",
+          "title": "ISO/IEC 27001 – awareness (ISMS)",
+          "renewal_years": 3
+        },
+        {
+          "id": "cobit_overview",
+          "title": "COBIT/ITGC – prehľad IT kontrol",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "audit_compliance__tools_data_addon",
+      "bundle_name": "Addon – Nástroje & data analytics pre audit",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "data_analytics_for_audit",
+          "title": "Dátová analytika v audite (ACL/IDEA/Power BI) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "grc_tools_intro",
+          "title": "GRC nástroje – úvod (napr. ServiceNow GRC)",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_advanced_audit",
+          "title": "Excel pokročilý pre audítorov",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Licencie pre štatutárnych audítorov sú národne regulované. Tento balík slúži pre interný audit/compliance a všeobecný rámec.",
+    "country_overlays": []
+  }
+}

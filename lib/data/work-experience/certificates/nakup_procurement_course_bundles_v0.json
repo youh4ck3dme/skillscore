@@ -1,0 +1,137 @@
+{
+  "group_id": "nakup_procurement",
+  "group_name": "Nákup & Procurement",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "nakup_procurement__core_required",
+      "bundle_name": "CORE – Základy nákupu",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "procure_to_pay_basics",
+          "title": "Procure-to-Pay cyklus – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "supplier_management_basics",
+          "title": "Správa dodávateľov & due diligence – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "contracts_basics",
+          "title": "Zmluvné minimum pre nákup (NDA, SLA, sankcie)",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_vendor_data",
+          "title": "GDPR & zmluvní spracovatelia – prehľad",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_office_field",
+          "title": "BOZP/PO – kancelária/terén (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "nakup_procurement__strategic_procurement_track",
+      "bundle_name": "Track – Strategický nákup",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "category_management_intro",
+          "title": "Category management – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "negotiation_skills",
+          "title": "Vyjednávanie & cenotvorba – techniky",
+          "renewal_years": null
+        },
+        {
+          "id": "tco_analysis",
+          "title": "Total Cost of Ownership & analýza úspor",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "nakup_procurement__operational_procurement_track",
+      "bundle_name": "Track – Operatívny nákup / objednávky",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "rfq_rfp_basics",
+          "title": "RFQ/RFP – základy pripravy & hodnotenia",
+          "renewal_years": null
+        },
+        {
+          "id": "erp_procurement_basics",
+          "title": "ERP & nákupné moduly – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "supplier_performance_kpi",
+          "title": "Hodnotenie dodávateľov & KPI – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "nakup_procurement__compliance_risk_addon",
+      "bundle_name": "Addon – Compliance & riziká v nákupe",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "anti_corruption_bribery",
+          "title": "Antikorupcia & darčeková politika – zásady",
+          "renewal_years": 2
+        },
+        {
+          "id": "sanctions_export_controls",
+          "title": "Sankcie & exportné kontroly – awareness",
+          "renewal_years": null
+        },
+        {
+          "id": "esg_supply_chain_intro",
+          "title": "ESG & due diligence v dodávateľskom reťazci – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "nakup_procurement__logistics_proc_addon",
+      "bundle_name": "Addon – Nákup logistiky & služieb",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "incoterms_basics",
+          "title": "Incoterms – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "service_level_design",
+          "title": "SLA & penalizácie – návrh",
+          "renewal_years": null
+        },
+        {
+          "id": "tender_eauction_intro",
+          "title": "Elektronické aukcie & tendrovanie – úvod",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Compliance/ESG požiadavky sa líšia podľa krajiny; GDPR pre zmluvných spracovateľov plošne. Obsah ERP/RFP prispôsob nástrojom firmy.",
+    "country_overlays": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "test_code": "test-lang",
+  "test_name": "Jazykový test",
+  "test_duration_minutes": 30,
+  "total_questions": 30,
+  "passing_score_percent": 60,
+  "upgrade_threshold_percent": 85,
+  "languages": {
+    "english": "Angličtina",
+    "german": "Nemčina",
+    "french": "Francúzština",
+    "spanish": "Španielčina",
+    "italian": "Taliančina"
+  },
+  "levels": {
+    "a1": "A1 - Začiatočník",
+    "a2": "A2 - Pokročilý začiatočník",
+    "b1": "B1 - Stredne pokročilý",
+    "b2": "B2 - Vyššie stredne pokročilý",
+    "c1": "C1 - Pokročilý",
+    "c2": "C2 - Ovládanie na úrovni rodného hovoriaceho"
+  },
+  "prestart": {
+    "privacy_statements": [
+      "Váš test bude monitorovaný pomocou webkamery a mikrofónu.",
+      "Všetky aktivity počas testu budú zaznamenané.",
+      "Test musíte absolvovať sami bez pomoci iných osôb.",
+      "Používanie externých zdrojov (slovníky, prekladače) je zakázané.",
+      "Opustenie okna testu bude zaznamenané a môže viesť k diskvalifikácii."
+    ],
+    "checklist": [
+      {
+        "id": "quiet_environment",
+        "text": "Som v tichom prostredí bez rušenia",
+        "required": true
+      },
+      {
+        "id": "no_assistance",
+        "text": "Nemám v miestnosti inú osobu, ktorá by mi mohla pomôcť",
+        "required": true
+      },
+      {
+        "id": "no_external_resources",
+        "text": "Nebudem používať slovníky, prekladače ani iné pomôcky",
+        "required": true
+      },
+      {
+        "id": "stable_internet",
+        "text": "Mám stabilné internetové pripojenie",
+        "required": true
+      },
+      {
+        "id": "camera_microphone",
+        "text": "Moja webkamera a mikrofón fungujú správne",
+        "required": true
+      },
+      {
+        "id": "full_screen",
+        "text": "Budem mať test otvorený na celú obrazovku",
+        "required": true
+      }
+    ],
+    "proctoring_checks": [
+      {
+        "type": "camera",
+        "label": "Webkamera",
+        "description": "Skontrolujte, či vaša webkamera funguje správne"
+      },
+      {
+        "type": "microphone",
+        "label": "Mikrofón",
+        "description": "Skontrolujte, či váš mikrofón funguje správne"
+      },
+      {
+        "type": "screen",
+        "label": "Obrazovka",
+        "description": "Test sa otvorí na celú obrazovku"
+      }
+    ],
+    "instructions": [
+      "Test obsahuje 30 otázok s výberom z možností.",
+      "Máte 30 minút na dokončenie testu.",
+      "Každá otázka má 4 možnosti, z ktorých je správna len jedna.",
+      "Môžete sa vracať k predchádzajúcim otázkam a meniť odpovede.",
+      "Test sa automaticky odošle po uplynutí času.",
+      "Vaše skóre určí, či je zvolený level pre vás vhodný:",
+      "  • Menej ako 60% - odporúčame nižší level",
+      "  • 60-85% - level je pre vás vhodný",
+      "  • Viac ako 85% - odporúčame vyšší level"
+    ],
+    "start_button_text": "Začať test",
+    "cancel_button_text": "Zrušiť"
+  },
+  "results": {
+    "downgrade_message": "Váš výsledok naznačuje, že zvolený level je pre vás príliš náročný. Odporúčame absolvovať test na nižšom leveli.",
+    "correct_level_message": "Gratulujeme! Váš výsledok potvrdzuje, že zvolený level je pre vás vhodný.",
+    "upgrade_message": "Výborne! Váš výsledok naznačuje, že by ste mohli zvládnuť aj vyšší level. Odporúčame absolvovať test na vyššom leveli.",
+    "max_level_message": "Gratulujeme! Dosiahli ste výborný výsledok na najvyššom leveli."
+  }
+}

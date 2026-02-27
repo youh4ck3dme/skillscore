@@ -1,0 +1,122 @@
+{
+  "group_id": "gastro_hotely",
+  "group_name": "Gastro & Hotelierstvo",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "gastro_hotely__core_required",
+      "bundle_name": "CORE – Hygiena & obsluha",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "food_hygiene_basics",
+          "title": "Hygiena potravín – základy (HACCP awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_horeca_induction",
+          "title": "BOZP/PO – gastro prevádzka (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "customer_service_basics",
+          "title": "Zákaznícky servis – základy (obsluha, sťažnosti)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "gastro_hotely__kitchen_track",
+      "bundle_name": "Track – Kuchyňa (kuchár/pomocná sila)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "kitchen_safety_tools",
+          "title": "Bezpečnosť práce v kuchyni & náradie",
+          "renewal_years": null
+        },
+        {
+          "id": "allergens_awareness",
+          "title": "Alergény – awareness & značenie",
+          "renewal_years": 2
+        },
+        {
+          "id": "food_storage_temp",
+          "title": "Skladovanie & teplotné reťazce – zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "gastro_hotely__service_track",
+      "bundle_name": "Track – Obsluha (čašník/barman)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "serving_techniques",
+          "title": "Obsluha & servis – techniky",
+          "renewal_years": null
+        },
+        {
+          "id": "pos_basics",
+          "title": "POS systém & inventúry – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "responsible_service_awareness",
+          "title": "Zodpovedná obsluha alkoholu – awareness (lokálne pravidlá)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "gastro_hotely__housekeeping_addon",
+      "bundle_name": "Addon – Housekeeping",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "cleaning_chemicals_safety",
+          "title": "Chemikálie & bezpečné čistenie – zásady",
+          "renewal_years": 2
+        },
+        {
+          "id": "room_standards",
+          "title": "Štandardy upratovania & kontrolné zoznamy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "gastro_hotely__front_office_addon",
+      "bundle_name": "Addon – Front office (recepcia hotel)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "pms_tools_basics",
+          "title": "PMS nástroj (rezervácie/check-in) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_guests",
+          "title": "GDPR pre hotelových hostí (doklady, údaje)",
+          "renewal_years": 2
+        },
+        {
+          "id": "complaints_handling",
+          "title": "Riešenie sťažností & deeskalácia",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "HACCP/food hygiene rámce EÚ, detailné požiadavky sú národné. Alkohol/tabak licencie sú lokálne – rieš cez krajinský overlay.",
+    "country_overlays": []
+  }
+}

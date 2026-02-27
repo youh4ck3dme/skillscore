@@ -1,0 +1,155 @@
+{
+  "group_id": "pravne",
+  "group_name": "Právo & Regulácia",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "pravne__core_required",
+      "bundle_name": "CORE – Základy právneho prostredia",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "legal_system_overview_eu",
+          "title": "Prehľad právneho systému EÚ & členských štátov – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_advanced",
+          "title": "GDPR – pokročilé (právne základy spracúvania, práva dotknutých osôb)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ethics_confidentiality",
+          "title": "Etika, dôvernosť & konflikt záujmov",
+          "renewal_years": 1
+        },
+        {
+          "id": "ohs_office",
+          "title": "BOZP/PO – kancelárske prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "pravne__corporate_law_track",
+      "bundle_name": "Track – Korporátne právo & governance",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "company_law_basics",
+          "title": "Obchodné/korporátne právo – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "governance_basics",
+          "title": "Corporate governance & zápisnice – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "ubo_register",
+          "title": "Register UBO & povinnosti – prehľad",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "pravne__contracts_track",
+      "bundle_name": "Track – Zmluvy & vyjednávanie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "contracts_drafting_basics",
+          "title": "Tvorba zmlúv – základy (obchodné podmienky, NDA)",
+          "renewal_years": null
+        },
+        {
+          "id": "negotiation_skills_legal",
+          "title": "Vyjednávanie & revízia zmlúv – techniky",
+          "renewal_years": null
+        },
+        {
+          "id": "ip_it_clauses_intro",
+          "title": "IP/IT klauzuly – základný prehľad",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "pravne__compliance_track",
+      "bundle_name": "Track – Compliance & regulácia (nefinančná)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "whistleblowing_process",
+          "title": "Oznamovanie protispoločenskej činnosti – proces",
+          "renewal_years": null
+        },
+        {
+          "id": "competition_law_awareness",
+          "title": "Súťažné právo – awareness",
+          "renewal_years": 3
+        },
+        {
+          "id": "sanctions_export_controls",
+          "title": "Sankcie & exportné kontroly – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "pravne__dpo_addon",
+      "bundle_name": "Addon – DPO / ochrana osobných údajov",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "dpo_role_responsibilities",
+          "title": "Úloha a povinnosti DPO",
+          "renewal_years": 2
+        },
+        {
+          "id": "dpiA_records",
+          "title": "DPIA a záznamy o spracovaní – prax",
+          "renewal_years": 2
+        },
+        {
+          "id": "data_transfers",
+          "title": "Prenosy do tretích krajín & SCC – prehľad",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "pravne__paralegal_addon",
+      "bundle_name": "Addon – Paralegal / právny asistent",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "legal_research_tools",
+          "title": "Právny rešerš & práca s databázami",
+          "renewal_years": null
+        },
+        {
+          "id": "records_management",
+          "title": "Správa spisov & archivácia",
+          "renewal_years": null
+        },
+        {
+          "id": "court_filing_intro",
+          "title": "Podania & formálne náležitosti – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Advokátske/licenčné oprávnenia sú národne regulované (mimo rozsahu balíkov). Tieto balíky sú pre firemné právne/komerčné roly a paralegal.",
+    "country_overlays": []
+  }
+}

@@ -1,0 +1,4578 @@
+{
+  "module": "cv-to-group-map",
+  "version": "v1",
+  "generated_from": "skupiny_podskupiny.json",
+  "total_items": 651,
+  "low_confidence": 268,
+  "groups_distribution": {
+    "financna_admin": 39,
+    "office": 314,
+    "stavebnictvo": 32,
+    "udrzba": 60,
+    "vyroba": 88,
+    "klientska_podpora": 12,
+    "logistika": 55,
+    "zdravotnictvo": 26,
+    "horeca": 11,
+    "retail_prevadzka": 14
+  },
+  "mapping": [
+    {
+      "povolanie": "Account manažér",
+      "typ_prace": "Akvizícia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Account manažér",
+      "typ_prace": "Ponuky",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Account manažér",
+      "typ_prace": "Starostlivosť",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Accountant / Účtovník",
+      "typ_prace": "DPH/uzávierky (základy)",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Accountant / Účtovník",
+      "typ_prace": "Excel reporting",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Accountant / Účtovník",
+      "typ_prace": "Kontroling a odsúhlasovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Accountant / Účtovník",
+      "typ_prace": "Účtovné doklady a účtovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Admin systému / Sieťar",
+      "typ_prace": "AD/Identity",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Admin systému / Sieťar",
+      "typ_prace": "Monitoring/Backup",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Admin systému / Sieťar",
+      "typ_prace": "Security baseline",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Admin systému / Sieťar",
+      "typ_prace": "Sieťové zariadenia (L2/L3)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Admin systému / Sieťar",
+      "typ_prace": "Windows/Linux admin",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Architect / Architekt",
+      "typ_prace": "Detail a koordinácia profesií",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Architect / Architekt",
+      "typ_prace": "Koncept a štúdia",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Architect / Architekt",
+      "typ_prace": "Projekt pre povolenie",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Architect / Architekt",
+      "typ_prace": "Vizualizácie a prezentácia",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Asistent/Office manažér",
+      "typ_prace": "Administratíva a agenda",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Asistent/Office manažér",
+      "typ_prace": "Kalendáre a stretnutia",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Asistent/Office manažér",
+      "typ_prace": "Nákup/objednávky",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Asistent/Office manažér",
+      "typ_prace": "Podpora tímu",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "BMS (KNX/Modbus/BACnet) integrácie",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Dokumentácia a odovzdanie",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Montáž a zapojenie MaR",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Oživovanie a testy funkcie",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "PLC – diagnostika a drobné úpravy",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Snímače akčné členy rozvádzače MaR",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Základy frekvenčných meničov",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace": "Čítanie schém a P&I diagramov",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BI Developer / Power BI špecialista",
+      "typ_prace": "DAX miery a kalkulácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "BI Developer / Power BI špecialista",
+      "typ_prace": "Datamart/model v PBI",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BI Developer / Power BI špecialista",
+      "typ_prace": "Vizualizácie a UX dashboardu",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "BI Developer / Power BI špecialista",
+      "typ_prace": "Zdieľanie a bezpečnosť (RLS)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Dohľad OOPP a bezpečnosť",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Komunikácia s investorom a TDI",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Kontroly pracovísk a zápisy",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Koordinácia BOZP na stavbe",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Tvorba a kontrola PHSR",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Vyhodnocovanie rizík a opatrenia",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace": "Školenia BOZP pracovníkov",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Bezpečnostný pracovník (SBS)",
+      "typ_prace": "Obchôdzky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Bezpečnostný pracovník (SBS)",
+      "typ_prace": "Ochrana objektu",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Bezpečnostný pracovník (SBS)",
+      "typ_prace": "Recepcia/kontrola vstupov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Business Analyst / Obchodný analytik",
+      "typ_prace": "Analýza dopadu a prioritizácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Business Analyst / Obchodný analytik",
+      "typ_prace": "Reporting pre stakeholderov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Business Analyst / Obchodný analytik",
+      "typ_prace": "User stories / akceptačné kritériá",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Business Analyst / Obchodný analytik",
+      "typ_prace": "Zber požiadaviek a procesná mapa",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "CAM programovanie (Fusion/SolidCAM/Mastercam)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Editácia programov (Fanuc/Siemens/Heidenhain)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Frézovanie (3 osi)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Frézovanie 4.–5. os (naklápacia hlava rotačný stôl)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Meranie a kontrola kvality (mikrometre kalibre základy CMM)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Nastavenie strojov a nastrojenie (upínanie korekcie)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Sústruženie (2–3 osi poháňané nástroje)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Údržba 1. stupňa (výmeny diagnostika)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "CNC operátor / programátor",
+      "typ_prace": "Čítanie výkresov a tolerancií (ISO GPS)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Care Assistant / Opatrovateľ",
+      "typ_prace": "Hygiena a podpora ADL",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Care Assistant / Opatrovateľ",
+      "typ_prace": "Mobilita a prevencia dekubitov",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Care Assistant / Opatrovateľ",
+      "typ_prace": "Spolupráca so sestrou/lekárom",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Care Assistant / Opatrovateľ",
+      "typ_prace": "Starostlivosť o pacienta",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Civil Engineer / Stavebný inžinier",
+      "typ_prace": "Projektová dokumentácia",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Civil Engineer / Stavebný inžinier",
+      "typ_prace": "Rozpočty a výkaz výmer",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Civil Engineer / Stavebný inžinier",
+      "typ_prace": "Statika a materiály (základy)",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Civil Engineer / Stavebný inžinier",
+      "typ_prace": "Stavebný dozor a TDI",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Copywriter",
+      "typ_prace": "Korektúry",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Copywriter",
+      "typ_prace": "Reklamný text",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Copywriter",
+      "typ_prace": "Web/SEO",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Copywriter / Editor",
+      "typ_prace": "Reklamné texty",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Copywriter / Editor",
+      "typ_prace": "Web/SEO texty",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Copywriter / Editor",
+      "typ_prace": "Štylistika a korektúry",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace": "Eskalácie a sťažnosti",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace": "KPI a coaching",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace": "SLA a plán smien",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace": "Zlepšovanie procesov",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Support",
+      "typ_prace": "Reklamácie",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Support",
+      "typ_prace": "Telefón/e‑mail/chat",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Customer Support",
+      "typ_prace": "Ticketing",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Data Analyst / Dátový analytik",
+      "typ_prace": "A/B testy a štatistika (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Analyst / Dátový analytik",
+      "typ_prace": "Automatizácia reportingu (PowerQuery)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Analyst / Dátový analytik",
+      "typ_prace": "Power BI / Tableau dashboardy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Analyst / Dátový analytik",
+      "typ_prace": "SQL a Excel/Pivoty",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Engineer / Inžinier dát",
+      "typ_prace": "Batch vs. streaming (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Engineer / Inžinier dát",
+      "typ_prace": "Dátové modelovanie (star/snowflake)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Engineer / Inžinier dát",
+      "typ_prace": "ETL/ELT pipeline (SQL/DBT)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Data Engineer / Inžinier dát",
+      "typ_prace": "Verzionovanie a CI/CD pre dáta",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Doctor / Lekár",
+      "typ_prace": "Diagnostika a liečba (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Doctor / Lekár",
+      "typ_prace": "Indikácie a konzíliá",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Doctor / Lekár",
+      "typ_prace": "Klinická dokumentácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Doctor / Lekár",
+      "typ_prace": "Komunikácia s pacientom",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Driver / Vodič",
+      "typ_prace": "Bezpečná jazda a BOZP",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Driver / Vodič",
+      "typ_prace": "Dodržiavanie predpisov a tachograf",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Driver / Vodič",
+      "typ_prace": "Nakládka/vykládka (základy)",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Driver / Vodič",
+      "typ_prace": "Základná údržba vozidla",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Electrical Engineer / Elektrotechnik",
+      "typ_prace": "Bezpečnosť a EMC (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Electrical Engineer / Elektrotechnik",
+      "typ_prace": "Meranie a diagnostika",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Electrical Engineer / Elektrotechnik",
+      "typ_prace": "Rozvádzače a istenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Electrical Engineer / Elektrotechnik",
+      "typ_prace": "Schémy a normy (EN/IEC)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Bleskozvody / LPS",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Bytové/komerčné inštalácie NN",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Káblové trasy (žľaby lávky chráničky)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Merania a revízie NN",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Montáž a zapojenie rozvádzačov NN",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Priemyselné inštalácie NN",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Pripojenie strojov a motorov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – silnoprúd",
+      "typ_prace": "Údržba / Servis",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "ACS (prístupové systémy)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "CCTV (IP/analóg)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "EPS (požiarna signalizácia)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "EZS (zabezpečovacie systémy)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "Interkomy / videotelefóny",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "MaR / BMS / KNX / Modbus",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "Optické vlákna (spájanie merania)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektrikár – slaboprúd",
+      "typ_prace": "Štruktúrovaná kabeláž (Cat.5e/6/6A/7)",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "DC rozvody a stringy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "DC/AC rozvádzače a istenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Merania a revízie DC/AC",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Montáž FV panelov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Montáž striedačov a DC/AC ochrany",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Montáže na šikmých/rovných strechách",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Pozemné FVE – konštrukcie zemnenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Elektromontér FVE",
+      "typ_prace": "Uvedenie do prevádzky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Farmaceut",
+      "typ_prace": "Príprava liekov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Farmaceut",
+      "typ_prace": "Sklad a objednávky",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Farmaceut",
+      "typ_prace": "Výdaj a poradenstvo",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Farmaceut / Asistent",
+      "typ_prace": "Expedícia a poradenstvo",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Farmaceut / Asistent",
+      "typ_prace": "Sklad farmácie",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Farmaceut / Asistent",
+      "typ_prace": "Výdaj liekov",
+      "group": "office",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Analyst / Finančný analytik",
+      "typ_prace": "Excel model a scenáre",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Analyst / Finančný analytik",
+      "typ_prace": "KPI a variancia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Analyst / Finančný analytik",
+      "typ_prace": "P&L/BS/CF – interpretácia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Analyst / Finančný analytik",
+      "typ_prace": "Reporting manažmentu",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Controller / Finančný kontrolór",
+      "typ_prace": "P&L/BS/CF – interpretácia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Controller / Finančný kontrolór",
+      "typ_prace": "Reportovanie manažmentu",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Controller / Finančný kontrolór",
+      "typ_prace": "Rozpočty a forecasty",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Financial Controller / Finančný kontrolór",
+      "typ_prace": "Variance analýza",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný analytik",
+      "typ_prace": "Cash‑flow",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný analytik",
+      "typ_prace": "Excel/BI modely",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný analytik",
+      "typ_prace": "Nákladové analýzy",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný analytik",
+      "typ_prace": "Reporting a plánovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný manažér",
+      "typ_prace": "Cash-flow",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný manažér",
+      "typ_prace": "Plánovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Finančný manažér",
+      "typ_prace": "Reporting",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Fotograf",
+      "typ_prace": "Event/Reportáž",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fotograf",
+      "typ_prace": "Portrét",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fotograf",
+      "typ_prace": "Produkt",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fotograf / Video maker",
+      "typ_prace": "Produkt/portrét",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fotograf / Video maker",
+      "typ_prace": "Reportáže",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fotograf / Video maker",
+      "typ_prace": "Strih videa",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fyzioterapeut",
+      "typ_prace": "Ambulantná rehabilitácia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Fyzioterapeut",
+      "typ_prace": "Neurológia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Fyzioterapeut",
+      "typ_prace": "Ortopédia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Geodet",
+      "typ_prace": "Kontrolné merania a protokoly",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Geodet",
+      "typ_prace": "Mapovanie a zameriavanie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Geodet",
+      "typ_prace": "Spracovanie v softvéri (CAD/GIS)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Geodet",
+      "typ_prace": "Vytyčovanie stavieb a sietí",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Geodet",
+      "typ_prace": "Zber dát GNSS/RTK",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Grafik / DTP",
+      "typ_prace": "Branding",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Grafik / DTP",
+      "typ_prace": "Layout",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Grafik / DTP",
+      "typ_prace": "Tlačová príprava",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Graphic Designer / Grafik",
+      "typ_prace": "Brand a layout",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Graphic Designer / Grafik",
+      "typ_prace": "Práca s vektorom/bitmapou",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Graphic Designer / Grafik",
+      "typ_prace": "Príprava do tlače/digitál",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Graphic Designer / Grafik",
+      "typ_prace": "Spolupráca s marketingom",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HR Specialist / HR špecialista",
+      "typ_prace": "Employer branding (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR Specialist / HR špecialista",
+      "typ_prace": "HR administratíva",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HR Specialist / HR špecialista",
+      "typ_prace": "Onboarding a školenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR Specialist / HR špecialista",
+      "typ_prace": "Recruitment a screening",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR manažér",
+      "typ_prace": "L&D",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR manažér",
+      "typ_prace": "Policy/Compliance",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR manažér",
+      "typ_prace": "Recruitment",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR špecialista / Recruiter",
+      "typ_prace": "Employer branding",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR špecialista / Recruiter",
+      "typ_prace": "HR administratíva",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HR špecialista / Recruiter",
+      "typ_prace": "Nábor a pohovory",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HR špecialista / Recruiter",
+      "typ_prace": "Onboarding",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Elektrické pripojenie a regulácia",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Medené rozvody – spájkovanie vákuovanie",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Meranie tlakov doplnenie chladiva",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Montáž VRF/VRS systémov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Montáž a servis rekuperácií",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Montáž split/multi-split klimatizácií",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Servis a diagnostika chladiacich okruhov",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "HVAC / Chladiar",
+      "typ_prace": "Údržba jednotiek (čistenie dezinfekcia)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Hlavný účtovník",
+      "typ_prace": "Kontrola",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Hlavný účtovník",
+      "typ_prace": "Uzávierky a metodika",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Hlavný účtovník",
+      "typ_prace": "Vedenie tímu",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Housekeeping",
+      "typ_prace": "Kontroly",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Housekeeping",
+      "typ_prace": "Práčovňa",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Housekeeping",
+      "typ_prace": "Upratovanie izieb",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "IT Support Specialist / Technická podpora",
+      "typ_prace": "Bezpečnosť: phishing a heslá",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "IT Support Specialist / Technická podpora",
+      "typ_prace": "Outlook/Teams/OneDrive podpora",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "IT Support Specialist / Technická podpora",
+      "typ_prace": "Ticketing a SLA",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "IT Support Specialist / Technická podpora",
+      "typ_prace": "Základy siete a VPN",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Kotle a kotolne (plynové/elektrické/TP odovzdávacie stanice)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Kúrenie – rozvody a montáž (radiátory podlahové stúpačky)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Odvody a kanalizácia (HT/PP/PVC zvody odpad)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Plyn – rozvody a spotrebiče (montáž skúšky tesnosti uvedenie do prevádzky)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Sanita / kúpeľne (zariadenia armatúry montáže)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Servis a údržba",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Skúšky a merania (tlakové skúšky vyregulovanie sústav)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Tepelné čerpadlá (montáž a spustenie)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Inštalatér / Kúrenár",
+      "typ_prace": "Voda – rozvody a montáž (PP/PE/PPR medené lisované systémy)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Detailovanie atík/prestupov/vpustí",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Hydroizolácie spodných stavieb (PVC/HDPE/bentonit)",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Hydroizolácie striech (PVC/TPO/EPDM)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Meranie a skúšky tesnosti (vol.)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Parozábrany a parobrzdy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Sanácie a opravy izolácií",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Izolatér (hydro/tepelná)",
+      "typ_prace": "Tepelné izolácie (EPS/XPS/minerálna vlna)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Junior manažér",
+      "typ_prace": "Koordinácia tímu",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Junior manažér",
+      "typ_prace": "Operatíva",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Junior manažér",
+      "typ_prace": "Projektová podpora",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Junior manažér",
+      "typ_prace": "Reporting",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kaderník",
+      "typ_prace": "Fúkaná/úprava",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kaderník",
+      "typ_prace": "Keratín/špec. techniky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kaderník",
+      "typ_prace": "Strih/farbenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Demontáže rekonštrukcie a sanácie",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Fasádne oplechovania a obklady (kazety lamely)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Fóliové systémy (PVC/TPO/EPDM – atiky prestupy vpuste)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Montáž strešných krytín (plech/škridla/bitumen/šindle)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Odvodnenie striech (žľaby zvody kotlíky vyhrievanie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Plechové strechy a oplechovania (falcovanie stojatá drážka)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Príprava podkladu (latovanie záklopy parozábrany)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Strešné okná svetlíky prestupy (montáž izolácia detailov)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Zabezpečenie proti pádu snehu (snehové zachytávače lávky)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Klampiar / Pokrývač",
+      "typ_prace": "Čítanie detailov a kladačských plánov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kozmetik / Manikér",
+      "typ_prace": "Kozmetické ošetrenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kozmetik / Manikér",
+      "typ_prace": "Manikúra/gél",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kozmetik / Manikér",
+      "typ_prace": "Pedikúra",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Krajčír / Šička",
+      "typ_prace": "Priemyselné šitie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Krajčír / Šička",
+      "typ_prace": "Strih a konštrukcia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Krajčír / Šička",
+      "typ_prace": "Úpravy odevov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Kuchár",
+      "typ_prace": "Menu",
+      "group": "horeca",
+      "role": "kuchar_kucharka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kuchár",
+      "typ_prace": "Príprava pokrmov",
+      "group": "horeca",
+      "role": "kuchar_kucharka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kuchár",
+      "typ_prace": "Štandardy",
+      "group": "horeca",
+      "role": "kuchar_kucharka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Dohľad nad postupmi a normami",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Evidencia a protokolácia skúšok",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Komunikácia s TDI/investorom",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Kontrola kvality realizácie",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Správa neshôd a reklamácií",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Uvoľňovanie etáp a odovzdanie",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace": "Vstupná/kusová kontrola materiálov",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalitár (QC/QA)",
+      "typ_prace": "8D/PDCA",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalitár (QC/QA)",
+      "typ_prace": "Kontrola",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Kvalitár (QC/QA)",
+      "typ_prace": "Merania",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár (všeobecný/špecialista)",
+      "typ_prace": "Ambulantná prax",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár (všeobecný/špecialista)",
+      "typ_prace": "Nemocničná prax",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár (všeobecný/špecialista)",
+      "typ_prace": "Pohotovosť",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – anestéziológ",
+      "typ_prace": "ARO/JIS",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – anestéziológ",
+      "typ_prace": "Anestézie na sálach",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – anestéziológ",
+      "typ_prace": "Intenzívna medicína",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – chirurg",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – chirurg",
+      "typ_prace": "Plánované operácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – chirurg",
+      "typ_prace": "Urgentná chirurgia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – dermatológ",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – dermatológ",
+      "typ_prace": "Chirurgické zákroky drobné",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – dermatológ",
+      "typ_prace": "Dermatokozmetika (vol.)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – gynekológ",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – gynekológ",
+      "typ_prace": "Operačná činnosť",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – gynekológ",
+      "typ_prace": "Pôrodnica",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – internista",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – internista",
+      "typ_prace": "Konzíliá",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – internista",
+      "typ_prace": "Oddelenie vnútorného lekárstva",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – ortopéd",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – ortopéd",
+      "typ_prace": "Operačná sála",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – ortopéd",
+      "typ_prace": "Traumatológia (spolupráca)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – pediater",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – pediater",
+      "typ_prace": "Novorodenecká starostlivosť",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – pediater",
+      "typ_prace": "Oddelenie",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – psychiater",
+      "typ_prace": "Ambulancia",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – psychiater",
+      "typ_prace": "Krizová intervencia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – psychiater",
+      "typ_prace": "Lôžkové oddelenie",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – rádiológ",
+      "typ_prace": "CT/MR diagnostika",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – rádiológ",
+      "typ_prace": "Intervenčná rádiológia (vol.)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – rádiológ",
+      "typ_prace": "Röntgen/USG",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – všeobecný",
+      "typ_prace": "Ambulantná starostlivosť",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lekár – všeobecný",
+      "typ_prace": "Chronické ochorenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lekár – všeobecný",
+      "typ_prace": "Preventívne prehliadky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Kontrola a odovzdanie lešenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Koordinácia s inými profesiami",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Kotvenie a zabezpečenie lešenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Montáž/demontáž rámových lešení",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Trubkové a priestorové lešenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Zastrešenie a plachty",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Lešenár",
+      "typ_prace": "Závesné lešenia a pojazdné veže",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Logistický dispečer",
+      "typ_prace": "Komunikácia s vodičmi",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistický dispečer",
+      "typ_prace": "Plánovanie trás",
+      "group": "logistika",
+      "role": "dispecer",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistický dispečer",
+      "typ_prace": "Zákaznícka linka",
+      "group": "logistika",
+      "role": "dispecer",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace": "Komunikácia s dopravcami",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace": "Plánovanie dopravy",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace": "Reklamácie a škody",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace": "Reporting logistiky",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Antikorózne systémy (príprava povrchu)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Aplikácia striekaním (airless/HVLP)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Epoxidové/PU podlahy (základ liata vrstva)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Exteriérové nátery (fasády sokle)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Interiérové nátery (penetrácie vyrovnávky striekanie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Maskovanie a ochrana plôch",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Meranie a príprava (vlhkosť rosný bod)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Priemyselné nátery (oceľové konštrukcie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Tapety a dekoratívne techniky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Maliar / Natierač",
+      "typ_prace": "Tmelenie a stierky (Q1–Q4)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace": "CRM a e‑mailing",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace": "Content a social",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace": "Kampane a rozpočty",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace": "Performance a analytics",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing špecialista",
+      "typ_prace": "E-mail kampane",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing špecialista",
+      "typ_prace": "SEO/SEM",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Marketing špecialista",
+      "typ_prace": "Social media",
+      "group": "udrzba",
+      "role": "elektrikar_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace": "Kreslenie a tolerancie (ISO GPS)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace": "Spolupráca s výrobou (DFM)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace": "Výpočty a pevnosť (základy)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace": "Výrobná dokumentácia",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Koordinácia so žeriavom a viazačom",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Kotvenie a chemické kotvy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Montáž a zoskrutkovanie konštrukcií",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Nitovanie a dočasné spoje",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Presné lícovanie dielcov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Práce na výškach a plošinách",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér oceľových konštrukcií",
+      "typ_prace": "Čítanie výkresov (EN 1090)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Kotvenie a vyrovnanie (pásky kotvy montážne peny)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Meranie a príprava stavebných otvorov",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Montáž okien a dverí (plast/hliník/drevo)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Osadenie parapetov a doplnkov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Parotesné a paropriepustné pásky (i3 štandardy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Servis a reklamácie",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér okien / dverí",
+      "typ_prace": "Zasklievanie a nastavenie kovania",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Káblovanie a pneumatika podľa schém",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Montáž a oživovanie zariadení a liniek",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Prenastavenia a sprievodná dokumentácia",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Skúšky funkčnosti a bezpečnosti",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Zarovnávanie a ukotvenie strojov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Montér technológií",
+      "typ_prace": "Školenie obsluhy a odovzdanie",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Hrubá stavba (základy murovanie preklady vencovanie)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Hydroizolácie kúpeľní/terás",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Montáž zárubní a osadzovanie prvkov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Obklady a dlažby (interiér/exteriér veľkoformát)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Omietky (strojové/ručné štuk stierky sieťkovanie)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Potery a nivelácie (cementové/anhydrit)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "SDK doplnky (špalety detaily pri kúpeľniach)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Servis/opravy (lokálne sanácie)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Zatepľovanie fasád (ETICS – lepenie kotvenie výstuž finál)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Murár / Obkladač",
+      "typ_prace": "Čítanie výkresov a výmer",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mzdový účtovník",
+      "typ_prace": "Dochádzka",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mzdový účtovník",
+      "typ_prace": "Mzdy a odvody",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Mzdový účtovník",
+      "typ_prace": "Ročné zúčtovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Nurse / Zdravotná sestra",
+      "typ_prace": "Dokumentácia pacienta",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Nurse / Zdravotná sestra",
+      "typ_prace": "Hygiena a BOZP v zdravotníctve",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Nurse / Zdravotná sestra",
+      "typ_prace": "Ošetrovateľská starostlivosť",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Nurse / Zdravotná sestra",
+      "typ_prace": "Podávanie liekov (základy)",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Office manažér",
+      "typ_prace": "BOZP/PO koordinácia",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Office manažér",
+      "typ_prace": "Dodávatelia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Office manažér",
+      "typ_prace": "Office chod",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Opatrovateľ/ka",
+      "typ_prace": "Domáca starostlivosť",
+      "group": "zdravotnictvo",
+      "role": "osetrovatel",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Opatrovateľ/ka",
+      "typ_prace": "Mobilita a hygiena",
+      "group": "zdravotnictvo",
+      "role": "osetrovatel",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Opatrovateľ/ka",
+      "typ_prace": "Podávanie liekov (základy)",
+      "group": "zdravotnictvo",
+      "role": "osetrovatel",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Opatrovateľ/ka",
+      "typ_prace": "Starostlivosť o seniorov",
+      "group": "zdravotnictvo",
+      "role": "osetrovatel",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Operations manažér",
+      "typ_prace": "KPIs",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Operations manažér",
+      "typ_prace": "Optimalizácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Operations manažér",
+      "typ_prace": "Procesy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Operátor výroby",
+      "typ_prace": "Kvalita",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Operátor výroby",
+      "typ_prace": "Montáž",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Operátor výroby",
+      "typ_prace": "Obsluha strojov",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace": "Dochádzka a príplatky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace": "Legislatíva (základy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace": "Mzdy a odvody",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace": "Reporty pre účtovníctvo",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pekár / Cukrár",
+      "typ_prace": "Cukrárska výroba",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pekár / Cukrár",
+      "typ_prace": "Výroba pečiva",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pekár / Cukrár",
+      "typ_prace": "Výzdoba a balenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Dilatácie a detaily",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Liate epoxidové/PU podlahy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Meranie vlhkosti podkladu",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Penetrácia a opravy (stierky opravné malty)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Polyaspartické rýchlotuhnúce systémy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Priemyselné/komerčné podlahy – prevádzka",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Príprava podkladu (frézovanie brúsenie vysávanie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Vinyl/laminát – kladenie a sokle",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace": "Vsypové systémy a dekor",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Pokladník",
+      "typ_prace": "Pokladničné operácie",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pokladník",
+      "typ_prace": "Pokladničný protokol",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pokladník",
+      "typ_prace": "Uzávierky dňa",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Demontáže a balenie (označovanie čistenie)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Pomoc pri lešeniach (bez oprávnenia)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Pomocné murárske/tesárske/SDK práce (pod dohľadom)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Signalizácia a asistované prenášanie bremien",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Sklad a logistika (príjem/výdaj balenie etiketovanie)",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Stavenisko – pomocné práce (miešanie prenášanie drážkovanie)",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Upratovanie a triedenie (odvoz odpadu separácia)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Zriadenie pracoviska (zábrany zakrytie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Pomocný pracovník",
+      "typ_prace": "Základná obsluha náradia (po zaškolení)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Poľnohospodár / Chovateľ",
+      "typ_prace": "Rastlinná výroba",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Poľnohospodár / Chovateľ",
+      "typ_prace": "Stroje a mechanizácia",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Poľnohospodár / Chovateľ",
+      "typ_prace": "Živočíšna výroba",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca (retail)",
+      "typ_prace": "Doplňovanie",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca (retail)",
+      "typ_prace": "Obsluha/predaj",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca (retail)",
+      "typ_prace": "Pokladňa",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca / Account manager",
+      "typ_prace": "Akvizícia",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca / Account manager",
+      "typ_prace": "CRM práca",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca / Account manager",
+      "typ_prace": "Ponuky a vyjednávanie",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Predajca / Account manager",
+      "typ_prace": "Starostlivosť o klientov",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Prekladateľ / Tlmočník",
+      "typ_prace": "Lokalizácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Prekladateľ / Tlmočník",
+      "typ_prace": "Preklady",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Prekladateľ / Tlmočník",
+      "typ_prace": "Tlmočenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Prekladateľ/Tlmočník",
+      "typ_prace": "Lokalizácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Prekladateľ/Tlmočník",
+      "typ_prace": "Preklady",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Prekladateľ/Tlmočník",
+      "typ_prace": "Tlmočenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Product manažér",
+      "typ_prace": "Analytika",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Product manažér",
+      "typ_prace": "Discovery/Delivery",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Product manažér",
+      "typ_prace": "Roadmapa",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Project Engineer / Projektový inžinier",
+      "typ_prace": "Dokumentácia a reporty",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Project Engineer / Projektový inžinier",
+      "typ_prace": "Koordinácia technických profesií",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Project Engineer / Projektový inžinier",
+      "typ_prace": "Plánovanie a harmonogram",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Project Engineer / Projektový inžinier",
+      "typ_prace": "Riešenie problémov a zmeny",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Project Manager / Projektový manažér (office)",
+      "typ_prace": "Plán/rozpočet (Gantt, burndown)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Project Manager / Projektový manažér (office)",
+      "typ_prace": "Reportovanie stavu projektu",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Project Manager / Projektový manažér (office)",
+      "typ_prace": "Riziká a mitigácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Project Manager / Projektový manažér (office)",
+      "typ_prace": "Stakeholder manažment",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Projektový manažér",
+      "typ_prace": "Plán/rozpočet",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Projektový manažér",
+      "typ_prace": "Riziká",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Projektový manažér",
+      "typ_prace": "Stakeholder manažment",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Recepčná / Front desk",
+      "typ_prace": "Agenda kancelárie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Recepčná / Front desk",
+      "typ_prace": "Príjem návštev",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Recepčná / Front desk",
+      "typ_prace": "Telefón/e‑mail komunikácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Recepčný",
+      "typ_prace": "Check-in/out",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Recepčný",
+      "typ_prace": "Komunikácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Recepčný",
+      "typ_prace": "Rezervácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sales Representative / Obchodný zástupca",
+      "typ_prace": "Akvizícia a pipeline",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sales Representative / Obchodný zástupca",
+      "typ_prace": "CRM a reporting",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sales Representative / Obchodný zástupca",
+      "typ_prace": "Obchodné rokovania",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sales Representative / Obchodný zástupca",
+      "typ_prace": "Péče o zákazníka",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sanitár",
+      "typ_prace": "Materiál/logistika",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sanitár",
+      "typ_prace": "Podpora oddelenia",
+      "group": "zdravotnictvo",
+      "role": "sanitar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sanitár",
+      "typ_prace": "Prevoz pacientov",
+      "group": "zdravotnictvo",
+      "role": "sanitar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Senior účtovník",
+      "typ_prace": "DPH/Dane",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Senior účtovník",
+      "typ_prace": "Mesačné uzávierky",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Senior účtovník",
+      "typ_prace": "Reporting",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník",
+      "typ_prace": "Inventúra",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník",
+      "typ_prace": "Príjem/výdaj",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník",
+      "typ_prace": "Skenery",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník / Logistika",
+      "typ_prace": "Balenie/Etiketovanie",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník / Logistika",
+      "typ_prace": "Inventúry",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník / Logistika",
+      "typ_prace": "Práca so skenerom",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Skladník / Logistika",
+      "typ_prace": "Príjem/Výdaj",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Manipulácia s tabuľami skla",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Meranie a príprava otvorov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Montáž hliníkových systémov (ALU fasády)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Osadzovanie parapetov a doplnkov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Servis a nastavenie kovania",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Tesnenie a tmelenie detailov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace": "Zasklievanie okien a fasád",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Social Media Manager",
+      "typ_prace": "Ads a reporting",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Social Media Manager",
+      "typ_prace": "Content plán",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Social Media Manager",
+      "typ_prace": "Komunita a moderácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Social Media Manager",
+      "typ_prace": "Spolupráca s influencermi",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "Backend (Java/.NET/Node/Python)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "Data/ML",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "DevOps/Cloud",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "Frontend (React/Angular/Vue)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "Full‑stack",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Softvér / Vývojár",
+      "typ_prace": "Mobil (Android/iOS/Flutter)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Software Developer / Softvérový vývojár",
+      "typ_prace": "API (REST) a JSON",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Software Developer / Softvérový vývojár",
+      "typ_prace": "Git workflow a PR review",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Software Developer / Softvérový vývojár",
+      "typ_prace": "SQL základy a migrácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Software Developer / Softvérový vývojár",
+      "typ_prace": "Základy testovania a CI",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Dohľad nad BOZP a kvalitou",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Komunikácia so subdodávateľmi",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Kontrola výkazov/výmer",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Koordinácia stavby (HMG rozpočet)",
+      "group": "office",
+      "role": "koordinator",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Preberacie konania a odovzdanie",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Riešenie kolízií a zmien",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace": "Zápisy do stavebného denníka",
+      "group": "stavebnictvo",
+      "role": "elektrikar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "CNC nábytkárstvo (formátovačka olepovačka CNC vŕtanie)",
+      "group": "vyroba",
+      "role": "operator_vyroby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Interiérové prvky (dvere zárubne obklady parapety)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Kovanie a mechanizmy (Blum/Häfele/Hettich)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Montáže u zákazníka (osadenie kotvenie dilatácie)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Okna a dvere (tesnenia kovanie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Opravy a servis (závesy vedenia)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Povrchové úpravy (lakovanie morenie olejovanie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Výroba nábytku (lamino/MDF/masív)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Stolár",
+      "typ_prace": "Čítanie výkresov a kusovníkov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Store manažér",
+      "typ_prace": "Plán smien",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Store manažér",
+      "typ_prace": "Tovar/logistika",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Store manažér",
+      "typ_prace": "Vedenie predajne",
+      "group": "retail_prevadzka",
+      "role": "predajca",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "System Administrator / Správca systému",
+      "typ_prace": "AD/Identity a oprávnenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "System Administrator / Správca systému",
+      "typ_prace": "Monitoring/Backup postupy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "System Administrator / Správca systému",
+      "typ_prace": "Patch manažment a hardening",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "System Administrator / Správca systému",
+      "typ_prace": "Sieťové prvky (L2/L3) – základy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Akustické systémy (akustické dosky perforácie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Konštrukčné detaily a dilatácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Montáž revíznych dvierok/svetiel/prvkov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Opláštenie šikmín a podkroví",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Požiarne systémy (dosky prestupy utesnenia)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "SDK podhľady (zavesené/kazetové viacúrovňové)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "SDK priečky (CW/UW 1×/2× opláštenie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Tmelenie Q1–Q4 (pásky rohovníky)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Sádrokartonista",
+      "typ_prace": "Čítanie výkresov a kladačských plánov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Teacher / Učiteľ",
+      "typ_prace": "Digitálne nástroje vo výučbe",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Teacher / Učiteľ",
+      "typ_prace": "Hodnotenie a spätná väzba",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Teacher / Učiteľ",
+      "typ_prace": "Práca s triedou",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Teacher / Učiteľ",
+      "typ_prace": "Príprava a vedenie hodiny",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tester / QA (IT)",
+      "typ_prace": "API testy (Postman)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tester / QA (IT)",
+      "typ_prace": "Automatizácia (Selenium/Cypress)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tester / QA (IT)",
+      "typ_prace": "Manuálne testy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tester / QA (IT)",
+      "typ_prace": "Performance testy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tester / QA (IT)",
+      "typ_prace": "Test analýza",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Debnenie (stropy/stĺpy/steny – systémové/klasické)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Drevené stropy a rámové konštrukcie",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Impregnácie a protipožiarne nátery",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Krovové konštrukcie (väzníky tradičné krovy opravy)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Montované drevostavby (CLT/KVH/BSH)",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Presahy latovanie príprava podkladu pre klampiara",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Schodiská a zábradlia (hrubá montáž)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Servis/opravy konštrukcií",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Terasy prístrešky pergoly fasádne obklady",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tesár",
+      "typ_prace": "Čítanie výkresov výkaz reziva detaily",
+      "group": "stavebnictvo",
+      "role": "murar",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Tréner / Inštruktor",
+      "typ_prace": "Individuálne tréningy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tréner / Inštruktor",
+      "typ_prace": "Skupinové lekcie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Tréner / Inštruktor",
+      "typ_prace": "Športové školy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "UX/UI dizajnér",
+      "typ_prace": "UI knižnice",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "UX/UI dizajnér",
+      "typ_prace": "Výskum používateľov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "UX/UI dizajnér",
+      "typ_prace": "Wireframy/prototypy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Upratovač/ka",
+      "typ_prace": "Denné/nočné smeny",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Upratovač/ka",
+      "typ_prace": "Kancelárie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Upratovač/ka",
+      "typ_prace": "Ubytovanie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Upratovač/ka",
+      "typ_prace": "Výroba",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Učiteľ / Lektor",
+      "typ_prace": "Jazyková výučba",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ / Lektor",
+      "typ_prace": "Odborné predmety",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ / Lektor",
+      "typ_prace": "Online výučba",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ / Lektor",
+      "typ_prace": "ZŠ/SŠ/VŠ",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ SŠ",
+      "typ_prace": "Maturitné ročníky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ SŠ",
+      "typ_prace": "Odborné predmety",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ SŠ",
+      "typ_prace": "Všeobecné predmety",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ VŠ",
+      "typ_prace": "Cvičenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ VŠ",
+      "typ_prace": "Prednášky",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ VŠ",
+      "typ_prace": "Výskum a publikácie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ ZŠ",
+      "typ_prace": "1. stupeň",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ ZŠ",
+      "typ_prace": "2. stupeň – predmety",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Učiteľ ZŠ",
+      "typ_prace": "Triednictvo",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Video maker / Strihač",
+      "typ_prace": "Natáčanie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Video maker / Strihač",
+      "typ_prace": "Postprodukcia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Video maker / Strihač",
+      "typ_prace": "Strih",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Vodič B (kurier)",
+      "typ_prace": "Mestské rozvozy",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič B (kurier)",
+      "typ_prace": "Zákazníci",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič B (kurier)",
+      "typ_prace": "Základy údržby",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič B (kurier/doručovanie)",
+      "typ_prace": "Medzimestské",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič B (kurier/doručovanie)",
+      "typ_prace": "Mestské rozvozy",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič B (kurier/doručovanie)",
+      "typ_prace": "Zákaznícka komunikácia",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Dodržiavanie tacho a predpisov",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Doprava strojov na podvalníkoch",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Doprava sypkých materiálov",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Jazdy so sklápacími vozidlami",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Nakládky/vykládky (spolupráca so žeriavom)",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Obsluha hydraulickej ruky (ak je)",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C / CE (stavebná doprava)",
+      "typ_prace": "Údržba vozidla a denné záznamy",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE",
+      "typ_prace": "Medzinárodná",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE",
+      "typ_prace": "Nákladná doprava",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE",
+      "typ_prace": "Stavebná doprava",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE (nákladná doprava)",
+      "typ_prace": "Doprava materiálu",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE (nákladná doprava)",
+      "typ_prace": "Medzinárodná doprava",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič C/CE (nákladná doprava)",
+      "typ_prace": "Stavebná doprava",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič D (autobusár)",
+      "typ_prace": "Diaľkové linky",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič D (autobusár)",
+      "typ_prace": "MHD",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Vodič D (autobusár)",
+      "typ_prace": "Prímestská doprava",
+      "group": "logistika",
+      "role": "vodic",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Warehouse Operative / Skladník",
+      "typ_prace": "Balenie a expedícia",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Warehouse Operative / Skladník",
+      "typ_prace": "Inventúra a 5S",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Warehouse Operative / Skladník",
+      "typ_prace": "Práca so skenerom/WMS",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Warehouse Operative / Skladník",
+      "typ_prace": "Príjem a výdaj tovaru",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zdravotná sestra",
+      "typ_prace": "Ambulantná starostlivosť",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zdravotná sestra",
+      "typ_prace": "Lôžkové oddelenie",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zdravotná sestra",
+      "typ_prace": "Špecializovaná starostlivosť",
+      "group": "zdravotnictvo",
+      "role": "asistent",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zubár (stomatológ)",
+      "typ_prace": "Chirurgia/Endodoncia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zubár (stomatológ)",
+      "typ_prace": "Konzervatíva",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zubár (stomatológ)",
+      "typ_prace": "Protetika",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "MIG/MAG (131/135/136) – oceľové konštrukcie nosníky dielce",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "MMA (111) – montáže v teréne potrubia opravy",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "Montáž a zvarovanie oceľových konštrukcií (EN 1090)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "Orbitálne TIG (voliteľné)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "Príprava materiálu a zvarov (úkosy lícovanie) polohy PA–PF",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "TIG (141) – nerez/uhlík/hliník tenkostenné potrubia hygienické zvarenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "Zváranie potrubí – nerez/uhlíková oceľ (koreň + krycia izometrie)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Zvárač",
+      "typ_prace": "Čítanie výkresov práca podľa WPS",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Záhradník / Zelené práce",
+      "typ_prace": "Sadové úpravy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Záhradník / Zelené práce",
+      "typ_prace": "Závlahy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Záhradník / Zelené práce",
+      "typ_prace": "Údržba zelene",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zákaznícka podpora (CS)",
+      "typ_prace": "Reklamácie",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zákaznícka podpora (CS)",
+      "typ_prace": "Retention",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zákaznícka podpora (CS)",
+      "typ_prace": "Telefonická/e‑mail/chat podpora",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zákaznícka podpora (CS)",
+      "typ_prace": "Ticketing (Zendesk/Jira)",
+      "group": "klientska_podpora",
+      "role": "agent_podpory",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Demontáže a relokácie strojov",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Hydraulika a pneumatika (zapájanie výmeny tesnenia)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Meranie a kontrola (posuvné meradlá mikrometre)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Montáž výrobných liniek / technológií",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Práca v teréne (servis u zákazníka)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Strojárenské montáže (zostavovanie dielcov lícovanie skrutkové spoje)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Výroba a úprava konštrukcií (rezanie vŕtanie závity ohýbanie)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Základné zváranie a brúsenie (MMA/MAG tacking opravy)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Údržba a opravy strojov (ložiská remeňe spojky)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Zámočník / Mechanik",
+      "typ_prace": "Čítanie výkresov a dokumentácie",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Údržbár (údržba strojov)",
+      "typ_prace": "Náhradné diely",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Údržbár (údržba strojov)",
+      "typ_prace": "Poruchy",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Údržbár (údržba strojov)",
+      "typ_prace": "Preventívna údržba",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník",
+      "typ_prace": "DPH a uzávierky",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník",
+      "typ_prace": "Fakturácia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník",
+      "typ_prace": "Mzdy a personalistika",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník",
+      "typ_prace": "Podvojné účtovníctvo",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník",
+      "typ_prace": "Pokladňa a banka",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník junior",
+      "typ_prace": "Fakturácia",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník junior",
+      "typ_prace": "Pokladňa/banka",
+      "group": "retail_prevadzka",
+      "role": "pokladnik",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Účtovník junior",
+      "typ_prace": "Primárne účtovanie",
+      "group": "financna_admin",
+      "role": "uctovnik_ap",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barista",
+      "typ_prace": "Kasa a účty",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barista",
+      "typ_prace": "Káva a nápoje",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barista",
+      "typ_prace": "Obsluha hostí",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barman",
+      "typ_prace": "Kasa",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barman",
+      "typ_prace": "Nápoje/káva",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Čašník / Barman",
+      "typ_prace": "Obsluha",
+      "group": "horeca",
+      "role": "casnik_servirka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Školský psychológ",
+      "typ_prace": "Diagnostika",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský psychológ",
+      "typ_prace": "Poradenstvo",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský psychológ",
+      "typ_prace": "Prevencia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace": "Komunikácia s rodičmi a zriaďovateľom",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace": "Pedagogické vedenie",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace": "Prevádzka a rozpočet",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace": "Strategické vedenie školy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Špeciálny pedagóg",
+      "typ_prace": "Individuálne plány",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Špeciálny pedagóg",
+      "typ_prace": "Integrácia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Špeciálny pedagóg",
+      "typ_prace": "Poruchy učenia",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Šéfkuchár",
+      "typ_prace": "Foodcost",
+      "group": "horeca",
+      "role": "kuchar_kucharka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Šéfkuchár",
+      "typ_prace": "Tovar a kvalita",
+      "group": "vyroba",
+      "role": "nastavovac_strojov",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Šéfkuchár",
+      "typ_prace": "Tím/rozpisy",
+      "group": "horeca",
+      "role": "kuchar_kucharka",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Bagrista – rýpadlá (pásové/kolesové)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Mini mechanizácia (minirýpadlá manipulátory)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Nakladač – UNC/kolové",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Nakládky/vykládky materiálu",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Zhutňovacie stroje (valce/dusadlá)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Základy nivelácie a profilovania",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace": "Údržba a denné prehliadky",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Betonáž a zhutňovanie (vibrátory)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Debnenie a príprava betonáže",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Demontáž debnenia",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Ohýbanie a viazanie výstuže",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Opravy betónu a sanácie",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Ošetrovanie betónu a rezy",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Železiar (armovač) / Betonár",
+      "typ_prace": "Ukladanie výstuže podľa výkresov",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Autožeriavy (stabilizácia komunikácia so signalistom)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Denné revízie a údržba 1. stupňa (vizuál skúšky)",
+      "group": "udrzba",
+      "role": "mechanik_udrzby",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Logistické operácie (nakládky/vykládky)",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Manipulácia s nadrozmerným bremenom (traverzy vaky závesy)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Mostové žeriavy (kabína/visací/rádio viazanie bremien)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Práca podľa pokynov viazača/signalistu",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "VZV – čelný / reach truck / skladové manipulátory",
+      "group": "logistika",
+      "role": "sklad",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Vežové žeriavy (montáž/demontáž v tíme)",
+      "group": "vyroba",
+      "role": "technik_kvality",
+      "confidence": "high"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Viazanie a upevňovanie bremien (reťaze laná pásy svorky)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    },
+    {
+      "povolanie": "Žeriavnik / VZV",
+      "typ_prace": "Záznamy o prevádzke (kniha jázd)",
+      "group": "office",
+      "role": "admin",
+      "confidence": "low"
+    }
+  ]
+}

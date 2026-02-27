@@ -1,0 +1,145 @@
+{
+  "group_id": "kvalita_qaqc",
+  "group_name": "Kvalita (QA/QC)",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "kvalita_qaqc__core_required",
+      "bundle_name": "CORE – Základy kvality",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "quality_principles",
+          "title": "Princípy kvality & PDCA – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "documentation_control",
+          "title": "Riadenie dokumentácie & záznamov",
+          "renewal_years": null
+        },
+        {
+          "id": "nonconformities_basics",
+          "title": "Neshody & nápravné opatrenia – základy (CAPA)",
+          "renewal_years": null
+        },
+        {
+          "id": "ohs_induction_industrial",
+          "title": "BOZP/PO – výrobná prevádzka (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "kvalita_qaqc__qc_inspection_track",
+      "bundle_name": "Track – Kontrola kvality (QC/Incoming/In-process/Final)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "measurement_tools_basics",
+          "title": "Meradlá & metódy merania – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "sampling_plans_intro",
+          "title": "Vzorkovanie & kontrolné plány – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "visual_inspection_standards",
+          "title": "Vizuálna kontrola & hodnotiace kritériá – zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kvalita_qaqc__qa_systems_track",
+      "bundle_name": "Track – Systémy kvality (QA)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "iso9001_awareness",
+          "title": "ISO 9001 – awareness",
+          "renewal_years": 3
+        },
+        {
+          "id": "auditing_basics_iso",
+          "title": "Interný audit systému – základy (ISO 19011)",
+          "renewal_years": 3
+        },
+        {
+          "id": "process_mapping_basics",
+          "title": "Mapovanie procesov & riziká – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kvalita_qaqc__metrology_addon",
+      "bundle_name": "Addon – Metrológia & MSA",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "msa_intro",
+          "title": "MSA – úvod (GR&R)",
+          "renewal_years": null
+        },
+        {
+          "id": "calibration_basics",
+          "title": "Kalibrácia & evidencia meradiel – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kvalita_qaqc__automotive_addon",
+      "bundle_name": "Addon – Automotive kvalita (ak relevantné)",
+      "type": "optional_addon",
+      "renewal_years": 3,
+      "items": [
+        {
+          "id": "iats16949_awareness",
+          "title": "IATF 16949 – awareness",
+          "renewal_years": 3
+        },
+        {
+          "id": "apqp_ppap_intro",
+          "title": "APQP/PPAP – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "8d_problem_solving",
+          "title": "8D problémové riešenie – prax",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kvalita_qaqc__lean_sixsigma_addon",
+      "bundle_name": "Addon – Lean Six Sigma (základy)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "lss_yellow_belt",
+          "title": "Lean Six Sigma – Yellow Belt (awareness)",
+          "renewal_years": null
+        },
+        {
+          "id": "root_cause_advanced",
+          "title": "Root Cause & štatistické nástroje – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Normy ISO/IATF sú dobrovoľné certifikačné rámce; detailné požiadavky na metrológiu a audit podľa odvetvia.",
+    "country_overlays": []
+  }
+}

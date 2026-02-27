@@ -1,0 +1,150 @@
+{
+  "group_id": "doprava_vodici",
+  "group_name": "Doprava & Vodiči",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "doprava_vodici__core_required",
+      "bundle_name": "CORE – Bezpečná jazda & pravidlá EÚ",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "road_safety_ohs",
+          "title": "Bezpečná jazda & BOZP na ceste (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "tachograph_rules_eu",
+          "title": "Tachograf & časy jazdy/odpočinku – EÚ pravidlá (561/2006)",
+          "renewal_years": 2
+        },
+        {
+          "id": "load_securing_basics",
+          "title": "Zabezpečenie nákladu – zásady (EN 12195-1 awareness)",
+          "renewal_years": null
+        },
+        {
+          "id": "first_aid_driver",
+          "title": "Prvá pomoc pre vodičov – základy",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "doprava_vodici__courier_van_track",
+      "bundle_name": "Track – Kurier/Van (sk. B)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "eco_driving_basics",
+          "title": "Eko-jazda – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "customer_service_delivery",
+          "title": "Doručovanie & komunikácia so zákazníkom",
+          "renewal_years": null
+        },
+        {
+          "id": "route_planning_basics",
+          "title": "Plánovanie trás & navigácia – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "doprava_vodici__truck_c_ce_required",
+      "bundle_name": "Required – Nákladné vozidlá (C/CE)",
+      "type": "required",
+      "renewal_years": 5,
+      "items": [
+        {
+          "id": "driver_cpc_initial_periodic",
+          "title": "Driver CPC – počiatočná kvalifikácia + pravidelné školenia",
+          "renewal_years": 5
+        },
+        {
+          "id": "digital_tachograph_card",
+          "title": "Digitálny tachograf – karta vodiča & sťahy dát",
+          "renewal_years": null
+        },
+        {
+          "id": "load_securing_heavy",
+          "title": "Zabezpečenie nákladu pre ťažké vozidlá – prax",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "doprava_vodici__bus_d_required",
+      "bundle_name": "Required – Autobusy (D)",
+      "type": "required",
+      "renewal_years": 5,
+      "items": [
+        {
+          "id": "driver_cpc_bus",
+          "title": "Driver CPC – počiatočná kvalifikácia + periodické (autobus)",
+          "renewal_years": 5
+        },
+        {
+          "id": "passenger_safety",
+          "title": "Bezpečnosť cestujúcich & evakuácia",
+          "renewal_years": null
+        },
+        {
+          "id": "tachograph_rules_passenger",
+          "title": "Tachograf & časy pre osobnú dopravu",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "doprava_vodici__adr_driver_addon",
+      "bundle_name": "Addon – ADR vodič (nebezpečný tovar)",
+      "type": "optional_addon",
+      "renewal_years": 5,
+      "items": [
+        {
+          "id": "adr_driver_basic",
+          "title": "ADR vodič – základný kurz & skúška",
+          "renewal_years": 5
+        },
+        {
+          "id": "adr_tank_specialization",
+          "title": "ADR špecializácia – cisterny (ak relevantné)",
+          "renewal_years": 5
+        },
+        {
+          "id": "hazmat_incident_response",
+          "title": "Postupy pri nehode s nebezpečným tovarom – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "doprava_vodici__special_machines_addon",
+      "bundle_name": "Addon – Špeciálna technika (VZV, nakladače)",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "forklift_license_local",
+          "title": "Oprávnenie na obsluhu VZV (národné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "loader_excavator_local",
+          "title": "Oprávnenie – nakladače/rypadlá (národné)",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Driver CPC je EÚ rámec (2003/59/ES). ADR vodič podľa Európskej dohody ADR. Oprávnenia na stroje sú národné. Tachograf a 561/2006 platia EÚ-wide.",
+    "country_overlays": []
+  }
+}

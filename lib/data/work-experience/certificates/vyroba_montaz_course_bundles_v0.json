@@ -1,0 +1,132 @@
+{
+  "group_id": "vyroba_montaz",
+  "group_name": "Výroba – Montáž & Operátori",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "vyroba_montaz__core_required",
+      "bundle_name": "CORE – Bezpečná výroba",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ohs_production_induction",
+          "title": "BOZP pre výrobu (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_production",
+          "title": "Požiarna ochrana – výroba",
+          "renewal_years": 2
+        },
+        {
+          "id": "ppe_usage",
+          "title": "OOPP – používanie & údržba",
+          "renewal_years": 1
+        },
+        {
+          "id": "first_aid_basics",
+          "title": "Prvá pomoc – základy",
+          "renewal_years": 2
+        },
+        {
+          "id": "5s_basics",
+          "title": "5S & housekeeping – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "vyroba_montaz__assembly_track",
+      "bundle_name": "Track – Montáž & linka",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "standard_work_instructions",
+          "title": "Štandardné pracovné postupy (SOP) – čítanie & vykonanie",
+          "renewal_years": null
+        },
+        {
+          "id": "ergonomics_repetitive_tasks",
+          "title": "Ergonómia pri opakovaných činnostiach",
+          "renewal_years": 2
+        },
+        {
+          "id": "quality_checks_inprocess",
+          "title": "Priebežné kontroly kvality – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "vyroba_montaz__machine_operator_track",
+      "bundle_name": "Track – Operátor strojov",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "machine_safety_lockout",
+          "title": "Bezpečnosť strojov & LOTO – základy",
+          "renewal_years": 1
+        },
+        {
+          "id": "basic_maintenance_care",
+          "title": "Základná údržba & TPM – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "measurement_tools_basics",
+          "title": "Meradlá & tolerancie – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "vyroba_montaz__chemicals_addon",
+      "bundle_name": "Addon – Chemikálie & REACH/CLP",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "chemical_safety_msds",
+          "title": "Bezpečnosť chemikálií & MSDS (REACH/CLP awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "spill_response_basics",
+          "title": "Zásahy pri úniku – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "vyroba_montaz__lean_improvement_addon",
+      "bundle_name": "Addon – Lean & zlepšovanie",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "lean_basics",
+          "title": "Lean základy (waste, flow)",
+          "renewal_years": null
+        },
+        {
+          "id": "problem_solving_tools",
+          "title": "Problémové riešenie (5xWhy, Ishikawa) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "kpi_shopfloor",
+          "title": "KPI na linke & vizuálny manažment – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "LOTO/chemická bezpečnosť sa riadia rámcami EÚ a národnými predpismi; podrobný obsah prispôsob lokálnej legislatíve a typu výroby.",
+    "country_overlays": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "group_id": "zdravotnictvo_social",
+  "group_name": "Zdravotníctvo & Sociálna starostlivosť",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "zdravotnictvo_social__core_required",
+      "bundle_name": "CORE – Hygiena, bezpečnosť & ochrana údajov",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "infection_control_basics",
+          "title": "Kontrola infekcií & hygiena rúk – základy",
+          "renewal_years": 1
+        },
+        {
+          "id": "first_aid_bls",
+          "title": "Prvá pomoc / BLS – základná život zachraňujúca podpora",
+          "renewal_years": 2
+        },
+        {
+          "id": "manual_handling_care",
+          "title": "Manipulácia s pacientom / zdvíhanie – bezpečne",
+          "renewal_years": 2
+        },
+        {
+          "id": "gdpr_health_data",
+          "title": "GDPR – zdravotné a citlivé údaje (mlčanlivosť, prístupy)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_healthcare",
+          "title": "BOZP/PO – zdravotnícke a sociálne zariadenia",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "zdravotnictvo_social__healthcare_assistant_track",
+      "bundle_name": "Track – Zdravotnícky asistent / sanitár",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "patient_care_basics",
+          "title": "Základy starostlivosti o pacienta (hygiena, komfort, mobilita)",
+          "renewal_years": null
+        },
+        {
+          "id": "vital_signs_intro",
+          "title": "Meranie vitálnych funkcií – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "documentation_basics",
+          "title": "Dokumentácia & hlásenia – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zdravotnictvo_social__social_care_track",
+      "bundle_name": "Track – Opatrovateľ/ka (sociálne služby)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "elderly_care_basics",
+          "title": "Základy starostlivosti o seniorov (ADL)",
+          "renewal_years": null
+        },
+        {
+          "id": "dementia_awareness",
+          "title": "Demencia – awareness & komunikácia",
+          "renewal_years": null
+        },
+        {
+          "id": "safeguarding_intro",
+          "title": "Ochrana zraniteľných osôb (safeguarding) – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zdravotnictvo_social__clinical_lab_awareness",
+      "bundle_name": "Awareness – Klinické & laboratórne prostredie",
+      "type": "awareness",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "biosafety_basics",
+          "title": "Biosafety – základy (PPE, označenia, odpady)",
+          "renewal_years": 2
+        },
+        {
+          "id": "sharps_safety",
+          "title": "Bezpečná manipulácia s ostrými predmetmi",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "zdravotnictvo_social__medication_awareness_addon",
+      "bundle_name": "Addon – Lieková agenda (nelekári) – awareness",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "medication_safety_awareness",
+          "title": "Bezpečnosť liekov & základné pravidlá podávania – awareness",
+          "renewal_years": null
+        },
+        {
+          "id": "cold_chain_basics",
+          "title": "Chladový reťazec – základy (skladovanie, transport)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "zdravotnictvo_social__mental_health_addon",
+      "bundle_name": "Addon – Duševné zdravie & komunikácia",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "mhfa_awareness",
+          "title": "Mental Health First Aid – awareness",
+          "renewal_years": null
+        },
+        {
+          "id": "deescalation_care",
+          "title": "Deeskalácia & zvládanie náročného správania",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Licencované zdravotnícke povolania (lekár, sestra atď.) podliehajú národným a EÚ rámcom uznávania; tento balík je pre podporné roly a všeobecné školenia.",
+    "country_overlays": []
+  }
+}

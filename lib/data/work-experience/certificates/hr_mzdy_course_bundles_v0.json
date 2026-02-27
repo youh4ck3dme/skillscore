@@ -1,0 +1,132 @@
+{
+  "group_id": "hr_mzdy",
+  "group_name": "HR & Mzdy",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "hr_mzdy__core_required",
+      "bundle_name": "CORE – HR základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "hr_admin_basics",
+          "title": "HR administratíva – osobné spisy, zmluvy, evidencie",
+          "renewal_years": null
+        },
+        {
+          "id": "labor_law_intro",
+          "title": "Základy pracovného práva (lokálne)",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_hr",
+          "title": "GDPR v HR (citlivé údaje, retenčné lehoty, prístupy)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_induction_office",
+          "title": "BOZP/PO – kancelárske prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "hr_mzdy__recruitment_track",
+      "bundle_name": "Track – Nábor (Recruitment)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "sourcing_basics",
+          "title": "Sourcing & inzerovanie pozícií – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "interviewing_skills",
+          "title": "Interview & hodnotenie kandidátov (legálne otázky)",
+          "renewal_years": null
+        },
+        {
+          "id": "ats_tools_intro",
+          "title": "ATS nástroje – základy (workflow, GDPR v nábore)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "hr_mzdy__payroll_track",
+      "bundle_name": "Track – Mzdy & dochádzka",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "payroll_local",
+          "title": "Mzdová agenda – lokálna legislatíva",
+          "renewal_years": null
+        },
+        {
+          "id": "time_attendance_basics",
+          "title": "Dochádzka & pracovný čas – pravidlá",
+          "renewal_years": null
+        },
+        {
+          "id": "benefits_admin",
+          "title": "Benefity & stravovanie – administrácia",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "hr_mzdy__learning_dev_addon",
+      "bundle_name": "Addon – L&D (vzdelávanie)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "training_needs_analysis",
+          "title": "Analýza potrieb školení (TNA)",
+          "renewal_years": null
+        },
+        {
+          "id": "content_authoring_intro",
+          "title": "Tvorba obsahu & e‑learning – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "evaluation_kirkpatrick",
+          "title": "Hodnotenie efektivity školení (Kirkpatrick)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "hr_mzdy__employee_relations_addon",
+      "bundle_name": "Addon – Employee Relations & well‑being",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "er_cases_basics",
+          "title": "Riešenie prípadov ER (upozornenia, rozviazanie PP) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "whistleblowing_process",
+          "title": "Oznamovanie protispoločenskej činnosti – proces",
+          "renewal_years": null
+        },
+        {
+          "id": "wellbeing_basics",
+          "title": "Well‑being & prevencia vyhorenia – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Legislatíva HR/miezd je národná; GDPR/BOZP plošne. Mzdové špecifiká rieš cez lokálny obsah.",
+    "country_overlays": []
+  }
+}

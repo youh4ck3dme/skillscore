@@ -1,0 +1,160 @@
+{
+  "group_id": "ucetnictvo_dane",
+  "group_name": "Účtovníctvo & Dane",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "ucetnictvo_dane__core_required",
+      "bundle_name": "CORE – Základy účtovníctva",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "accounting_basics_local",
+          "title": "Finančné účtovníctvo – základy (lokálne účtovné postupy)",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_intermediate",
+          "title": "Excel pre účtovníkov – tabuľky, funkcie, kontingenčné tabuľky",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_finance",
+          "title": "GDPR pre finančné oddelenie (osobné údaje, mzdy, faktúry)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_induction_office",
+          "title": "BOZP/PO – kancelárske prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "ucetnictvo_dane__ap_ar_recommended",
+      "bundle_name": "Doporučené – AP/AR (faktúry, pohľadávky, záväzky)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ap_process",
+          "title": "Procurement-to-Pay / účtovanie záväzkov (AP)",
+          "renewal_years": null
+        },
+        {
+          "id": "ar_process",
+          "title": "Order-to-Cash / účtovanie pohľadávok (AR)",
+          "renewal_years": null
+        },
+        {
+          "id": "vat_basics_local",
+          "title": "DPH – základy (lokálna legislatíva)",
+          "renewal_years": null
+        },
+        {
+          "id": "erp_finance_basics",
+          "title": "ERP/účtovný softvér – základy (napr. SAP/Helios/ABRA)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "ucetnictvo_dane__payroll_addon",
+      "bundle_name": "Addon – Mzdy & personalistika",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "payroll_local",
+          "title": "Mzdové účtovníctvo – lokálna legislatíva",
+          "renewal_years": null
+        },
+        {
+          "id": "labor_law_intro",
+          "title": "Základy pracovného práva",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_hr",
+          "title": "GDPR v HR (osobné spisy, súhlasy, retenčné lehoty)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "ucetnictvo_dane__tax_addon",
+      "bundle_name": "Addon – Dane",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "corporate_tax_intro",
+          "title": "Daň z príjmov právnických osôb – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "withholding_tax_basics",
+          "title": "Zrážková daň / medzinárodné zmluvy – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "transfer_pricing_intro",
+          "title": "Transferové oceňovanie – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "ucetnictvo_dane__reporting_ifrs_addon",
+      "bundle_name": "Addon – Reporting & IFRS",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ifrs_fundamentals",
+          "title": "IFRS – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "closing_process",
+          "title": "Mesačné/ročné uzávierky – proces & kontroly",
+          "renewal_years": null
+        },
+        {
+          "id": "internal_controls_basics",
+          "title": "Interné kontroly & reconciliácie – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "ucetnictvo_dane__senior_lead_addon",
+      "bundle_name": "Addon – Senior/Lead účtovník",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "team_leadership",
+          "title": "Vedenie tímu & mentoring",
+          "renewal_years": null
+        },
+        {
+          "id": "process_improvement",
+          "title": "Zlepšovanie procesov (Lean základy pre finance)",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_powerquery",
+          "title": "Excel Power Query / Power Pivot – reporting",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Konkrétne daňové/účtovné požiadavky sú národné. Pre auditora sú zvlášť regulované licencie (mimo rozsah tejto rodiny).",
+    "country_overlays": []
+  }
+}

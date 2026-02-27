@@ -1,0 +1,117 @@
+{
+  "group_id": "bezpecnost_sbs",
+  "group_name": "Bezpečnosť & SBS",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "bezpecnost_sbs__core_required",
+      "bundle_name": "CORE – Strážna služba základy",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "ohs_security_induction",
+          "title": "BOZP/PO – bezpečnostná služba (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "legal_basics_guard",
+          "title": "Právne minimum pre SBS (oprávnenia, zadržiavanie, osobné údaje)",
+          "renewal_years": 2
+        },
+        {
+          "id": "deescalation_conflict",
+          "title": "Deeskalácia & komunikácia v konflikte",
+          "renewal_years": null
+        },
+        {
+          "id": "first_aid_security",
+          "title": "Prvá pomoc – zásahy na mieste (základy)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "bezpecnost_sbs__object_guard_track",
+      "bundle_name": "Track – Ochrana objektov & obsluha",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "access_control_basics",
+          "title": "Kontrola vstupov & evidencie – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "patrol_rounds_procedures",
+          "title": "Obchôdzky & protokoly – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "incident_reporting",
+          "title": "Hlásenia incidentov & dokumentácia",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "bezpecnost_sbs__cctv_operator_addon",
+      "bundle_name": "Addon – CCTV & monitorovanie",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "cctv_operation_basics",
+          "title": "Prevádzka CCTV – zásady & GDPR",
+          "renewal_years": 2
+        },
+        {
+          "id": "alarm_response_basics",
+          "title": "Poplachy & zásahové postupy – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "bezpecnost_sbs__retail_loss_prevention_addon",
+      "bundle_name": "Addon – Retail & prevencia strát",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "loss_prevention_basics",
+          "title": "Prevencia strát – techniky & spolupráca s personálom",
+          "renewal_years": null
+        },
+        {
+          "id": "customer_interaction_rules",
+          "title": "Interakcia so zákazníkom – pravidlá & bezpečnosť",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "bezpecnost_sbs__events_crowd_addon",
+      "bundle_name": "Addon – Podujatia & crowd management",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "crowd_management_basics",
+          "title": "Riadenie davu & bezpečnosť podujatí – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "emergency_evacuations",
+          "title": "Núdzové situácie & evakuácia – postupy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Licencie/odborná spôsobilosť SBS sú národné; tento balík je nelegislatívny rámec + GDPR. Povolenia na zbrane nie sú súčasťou.",
+    "country_overlays": []
+  }
+}

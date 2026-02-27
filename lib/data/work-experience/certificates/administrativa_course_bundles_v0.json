@@ -1,0 +1,114 @@
+{
+  "group_id": "administrativa",
+  "group_name": "Administratíva & Office manažment",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "administrativa__core_required",
+      "bundle_name": "CORE – Základy administratívy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "gdpr_fundamentals",
+          "title": "GDPR – základné školenie",
+          "renewal_years": 2
+        },
+        {
+          "id": "icdl_office_basics",
+          "title": "ICDL/Office – základy (Word, Excel, e‑mail)",
+          "renewal_years": null
+        },
+        {
+          "id": "ohs_induction",
+          "title": "BOZP vstupné školenie",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_intro",
+          "title": "Požiarna ochrana – základ",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "administrativa__recommended_admin",
+      "bundle_name": "Doporučené – kancelária",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "excel_intermediate",
+          "title": "Excel – pokročilý (tabuľky, funkcie)",
+          "renewal_years": null
+        },
+        {
+          "id": "communication_basics",
+          "title": "Komunikácia & business etiketa",
+          "renewal_years": null
+        },
+        {
+          "id": "time_task_mgmt",
+          "title": "Time management & organizácia",
+          "renewal_years": null
+        },
+        {
+          "id": "records_management",
+          "title": "Správa dokumentov & archivácia",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "administrativa__frontdesk_addon",
+      "bundle_name": "Addon – Front desk / Recepcia",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "customer_service",
+          "title": "Zákaznícka starostlivosť – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "conflict_deescalation",
+          "title": "Deeskalácia & sťažnosti",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_frontdesk",
+          "title": "GDPR pre recepciu (návštevné knihy, bezpečnosť)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "administrativa__office_manager_addon",
+      "bundle_name": "Addon – Office manažment",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "event_coordination",
+          "title": "Organizácia podujatí & meetingov",
+          "renewal_years": null
+        },
+        {
+          "id": "vendor_management",
+          "title": "Správa dodávateľov & objednávok",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_powerquery",
+          "title": "Excel – Power Query základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "GDPR platí v celej EÚ/EHP; BOZP/PO sú národné – nechaj na lokálny obsah poskytovateľa. V tejto verzii overlaye nedefinujeme, iba placeholder.",
+    "country_overlays": []
+  }
+}

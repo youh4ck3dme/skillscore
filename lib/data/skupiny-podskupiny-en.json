@@ -1,0 +1,3910 @@
+{
+  "roles_and_tasks_en": [
+    {
+      "occupation": "Account Manager",
+      "work_type": "Acquisition",
+      "povolanie_sk": "Account manažér",
+      "typ_prace_sk": "Akvizícia"
+    },
+    {
+      "occupation": "Account Manager",
+      "work_type": "Proposals",
+      "povolanie_sk": "Account manažér",
+      "typ_prace_sk": "Ponuky"
+    },
+    {
+      "occupation": "Account Manager",
+      "work_type": "Care",
+      "povolanie_sk": "Account manažér",
+      "typ_prace_sk": "Starostlivosť"
+    },
+    {
+      "occupation": "Accountant",
+      "work_type": "VAT/closings (basics)",
+      "povolanie_sk": "Accountant / Účtovník",
+      "typ_prace_sk": "DPH/uzávierky (základy)"
+    },
+    {
+      "occupation": "Accountant",
+      "work_type": "Excel reporting",
+      "povolanie_sk": "Accountant / Účtovník",
+      "typ_prace_sk": "Excel reporting"
+    },
+    {
+      "occupation": "Accountant",
+      "work_type": "Controlling and reconciliations",
+      "povolanie_sk": "Accountant / Účtovník",
+      "typ_prace_sk": "Kontroling a odsúhlasovanie"
+    },
+    {
+      "occupation": "Accountant",
+      "work_type": "Accounting documents and posting",
+      "povolanie_sk": "Accountant / Účtovník",
+      "typ_prace_sk": "Účtovné doklady a účtovanie"
+    },
+    {
+      "occupation": "System Administrator / Network Engineer",
+      "work_type": "AD/Identity",
+      "povolanie_sk": "Admin systému / Sieťar",
+      "typ_prace_sk": "AD/Identity"
+    },
+    {
+      "occupation": "System Administrator / Network Engineer",
+      "work_type": "Monitoring/Backup",
+      "povolanie_sk": "Admin systému / Sieťar",
+      "typ_prace_sk": "Monitoring/Backup"
+    },
+    {
+      "occupation": "System Administrator / Network Engineer",
+      "work_type": "Security baseline",
+      "povolanie_sk": "Admin systému / Sieťar",
+      "typ_prace_sk": "Security baseline"
+    },
+    {
+      "occupation": "System Administrator / Network Engineer",
+      "work_type": "Sieťové zariadenia (L2/L3)",
+      "povolanie_sk": "Admin systému / Sieťar",
+      "typ_prace_sk": "Sieťové zariadenia (L2/L3)"
+    },
+    {
+      "occupation": "System Administrator / Network Engineer",
+      "work_type": "Windows/Linux admin",
+      "povolanie_sk": "Admin systému / Sieťar",
+      "typ_prace_sk": "Windows/Linux admin"
+    },
+    {
+      "occupation": "Architect",
+      "work_type": "Detail a koordinácia profesií",
+      "povolanie_sk": "Architect / Architekt",
+      "typ_prace_sk": "Detail a koordinácia profesií"
+    },
+    {
+      "occupation": "Architect",
+      "work_type": "Koncept a štúdia",
+      "povolanie_sk": "Architect / Architekt",
+      "typ_prace_sk": "Koncept a štúdia"
+    },
+    {
+      "occupation": "Architect",
+      "work_type": "Projekt pre povolenie",
+      "povolanie_sk": "Architect / Architekt",
+      "typ_prace_sk": "Projekt pre povolenie"
+    },
+    {
+      "occupation": "Architect",
+      "work_type": "Vizualizácie a prezentácia",
+      "povolanie_sk": "Architect / Architekt",
+      "typ_prace_sk": "Vizualizácie a prezentácia"
+    },
+    {
+      "occupation": "Assistant / Office Manager",
+      "work_type": "Administration and agenda",
+      "povolanie_sk": "Asistent/Office manažér",
+      "typ_prace_sk": "Administratíva a agenda"
+    },
+    {
+      "occupation": "Assistant / Office Manager",
+      "work_type": "Calendars and meetings",
+      "povolanie_sk": "Asistent/Office manažér",
+      "typ_prace_sk": "Kalendáre a stretnutia"
+    },
+    {
+      "occupation": "Assistant / Office Manager",
+      "work_type": "Procurement / orders",
+      "povolanie_sk": "Asistent/Office manažér",
+      "typ_prace_sk": "Nákup/objednávky"
+    },
+    {
+      "occupation": "Assistant / Office Manager",
+      "work_type": "Team support",
+      "povolanie_sk": "Asistent/Office manažér",
+      "typ_prace_sk": "Podpora tímu"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "BMS (KNX/Modbus/BACnet) integrácie",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "BMS (KNX/Modbus/BACnet) integrácie"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Documentation and handover",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Dokumentácia a odovzdanie"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Installation and wiring MaR",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Montáž a zapojenie MaR"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Oživovanie a testy funkcie",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Oživovanie a testy funkcie"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "PLC - diagnostika a drobné úpravy",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "PLC – diagnostika a drobné úpravy"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Snímače akčné členy rozvádzače MaR",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Snímače akčné členy rozvádzače MaR"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Základy frekvenčných meničov",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Základy frekvenčných meničov"
+    },
+    {
+      "occupation": "Automation / Instrumentation (PLC/BMS)",
+      "work_type": "Reading schematics and P&IDs",
+      "povolanie_sk": "Automatizácia / MaR (PLC/BMS)",
+      "typ_prace_sk": "Čítanie schém a P&I diagramov"
+    },
+    {
+      "occupation": "BI Developer / Power BI Specialist",
+      "work_type": "DAX measures and calculations",
+      "povolanie_sk": "BI Developer / Power BI špecialista",
+      "typ_prace_sk": "DAX miery a kalkulácie"
+    },
+    {
+      "occupation": "BI Developer / Power BI Specialist",
+      "work_type": "Datamart/model in PBI",
+      "povolanie_sk": "BI Developer / Power BI špecialista",
+      "typ_prace_sk": "Datamart/model v PBI"
+    },
+    {
+      "occupation": "BI Developer / Power BI Specialist",
+      "work_type": "Vizualizácie a UX dashboardu",
+      "povolanie_sk": "BI Developer / Power BI špecialista",
+      "typ_prace_sk": "Vizualizácie a UX dashboardu"
+    },
+    {
+      "occupation": "BI Developer / Power BI Specialist",
+      "work_type": "Sharing and security (RLS)",
+      "povolanie_sk": "BI Developer / Power BI špecialista",
+      "typ_prace_sk": "Zdieľanie a bezpečnosť (RLS)"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Dohľad OOPP a bezpečnosť",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Dohľad OOPP a bezpečnosť"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Communication with investorom a TDI",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Komunikácia s investorom a TDI"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Kontroly pracovísk a zápisy",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Kontroly pracovísk a zápisy"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "OHS coordination on site",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Koordinácia BOZP na stavbe"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Tvorba a kontrola PHSR",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Tvorba a kontrola PHSR"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Vyhodnocovanie rizík a opatrenia",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Vyhodnocovanie rizík a opatrenia"
+    },
+    {
+      "occupation": "OHS / H&S Coordinator (Construction)",
+      "work_type": "Školenia BOZP pracovníkov",
+      "povolanie_sk": "BOZP / Koordinátor BOZP (stavby)",
+      "typ_prace_sk": "Školenia BOZP pracovníkov"
+    },
+    {
+      "occupation": "Security Guard (SBS)",
+      "work_type": "Patrols",
+      "povolanie_sk": "Bezpečnostný pracovník (SBS)",
+      "typ_prace_sk": "Obchôdzky"
+    },
+    {
+      "occupation": "Security Guard (SBS)",
+      "work_type": "Site protection",
+      "povolanie_sk": "Bezpečnostný pracovník (SBS)",
+      "typ_prace_sk": "Ochrana objektu"
+    },
+    {
+      "occupation": "Security Guard (SBS)",
+      "work_type": "Reception/access control",
+      "povolanie_sk": "Bezpečnostný pracovník (SBS)",
+      "typ_prace_sk": "Recepcia/kontrola vstupov"
+    },
+    {
+      "occupation": "Business Analyst",
+      "work_type": "Impact analysis and prioritization",
+      "povolanie_sk": "Business Analyst / Obchodný analytik",
+      "typ_prace_sk": "Analýza dopadu a prioritizácia"
+    },
+    {
+      "occupation": "Business Analyst",
+      "work_type": "Reporting pre stakeholderov",
+      "povolanie_sk": "Business Analyst / Obchodný analytik",
+      "typ_prace_sk": "Reporting pre stakeholderov"
+    },
+    {
+      "occupation": "Business Analyst",
+      "work_type": "User stories / acceptance criteria",
+      "povolanie_sk": "Business Analyst / Obchodný analytik",
+      "typ_prace_sk": "User stories / akceptačné kritériá"
+    },
+    {
+      "occupation": "Business Analyst",
+      "work_type": "Requirements gathering a procesná mapa",
+      "povolanie_sk": "Business Analyst / Obchodný analytik",
+      "typ_prace_sk": "Zber požiadaviek a procesná mapa"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "CAM programovanie (Fusion/SolidCAM/Mastercam)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "CAM programovanie (Fusion/SolidCAM/Mastercam)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Editácia programov (Fanuc/Siemens/Heidenhain)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Editácia programov (Fanuc/Siemens/Heidenhain)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Frézovanie (3 osi)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Frézovanie (3 osi)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Frézovanie 4.-5. os (naklápacia hlava rotačný stôl)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Frézovanie 4.–5. os (naklápacia hlava rotačný stôl)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Meranie a kontrola kvality (mikrometre kalibre základy CMM)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Meranie a kontrola kvality (mikrometre kalibre základy CMM)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Nastavenie strojov a nastrojenie (upínanie korekcie)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Nastavenie strojov a nastrojenie (upínanie korekcie)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Sústruženie (2-3 osi poháňané nástroje)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Sústruženie (2–3 osi poháňané nástroje)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Údržba 1. stupňa (výmeny diagnostika)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Údržba 1. stupňa (výmeny diagnostika)"
+    },
+    {
+      "occupation": "CNC Operator / Programmer",
+      "work_type": "Reading drawings and tolerances (ISO GPS)",
+      "povolanie_sk": "CNC operátor / programátor",
+      "typ_prace_sk": "Čítanie výkresov a tolerancií (ISO GPS)"
+    },
+    {
+      "occupation": "Care Assistant",
+      "work_type": "Hygiene and ADL support",
+      "povolanie_sk": "Care Assistant / Opatrovateľ",
+      "typ_prace_sk": "Hygiena a podpora ADL"
+    },
+    {
+      "occupation": "Care Assistant",
+      "work_type": "Mobility and pressure ulcer prevention",
+      "povolanie_sk": "Care Assistant / Opatrovateľ",
+      "typ_prace_sk": "Mobilita a prevencia dekubitov"
+    },
+    {
+      "occupation": "Care Assistant",
+      "work_type": "Cooperation with nurse/doctor",
+      "povolanie_sk": "Care Assistant / Opatrovateľ",
+      "typ_prace_sk": "Spolupráca so sestrou/lekárom"
+    },
+    {
+      "occupation": "Care Assistant",
+      "work_type": "Care o pacienta",
+      "povolanie_sk": "Care Assistant / Opatrovateľ",
+      "typ_prace_sk": "Starostlivosť o pacienta"
+    },
+    {
+      "occupation": "Civil Engineer",
+      "work_type": "Project documentation",
+      "povolanie_sk": "Civil Engineer / Stavebný inžinier",
+      "typ_prace_sk": "Projektová dokumentácia"
+    },
+    {
+      "occupation": "Civil Engineer",
+      "work_type": "Rozpočty a výkaz výmer",
+      "povolanie_sk": "Civil Engineer / Stavebný inžinier",
+      "typ_prace_sk": "Rozpočty a výkaz výmer"
+    },
+    {
+      "occupation": "Civil Engineer",
+      "work_type": "Statika a materiály (basics)",
+      "povolanie_sk": "Civil Engineer / Stavebný inžinier",
+      "typ_prace_sk": "Statika a materiály (základy)"
+    },
+    {
+      "occupation": "Civil Engineer",
+      "work_type": "Stavebný dozor a TDI",
+      "povolanie_sk": "Civil Engineer / Stavebný inžinier",
+      "typ_prace_sk": "Stavebný dozor a TDI"
+    },
+    {
+      "occupation": "Copywriter",
+      "work_type": "Proofreading",
+      "povolanie_sk": "Copywriter",
+      "typ_prace_sk": "Korektúry"
+    },
+    {
+      "occupation": "Copywriter",
+      "work_type": "Ad copy",
+      "povolanie_sk": "Copywriter",
+      "typ_prace_sk": "Reklamný text"
+    },
+    {
+      "occupation": "Copywriter",
+      "work_type": "Web/SEO",
+      "povolanie_sk": "Copywriter",
+      "typ_prace_sk": "Web/SEO"
+    },
+    {
+      "occupation": "Copywriter / Editor",
+      "work_type": "Ad copy",
+      "povolanie_sk": "Copywriter / Editor",
+      "typ_prace_sk": "Reklamné texty"
+    },
+    {
+      "occupation": "Copywriter / Editor",
+      "work_type": "Web/SEO copy",
+      "povolanie_sk": "Copywriter / Editor",
+      "typ_prace_sk": "Web/SEO texty"
+    },
+    {
+      "occupation": "Copywriter / Editor",
+      "work_type": "Stylistics and proofreading",
+      "povolanie_sk": "Copywriter / Editor",
+      "typ_prace_sk": "Štylistika a korektúry"
+    },
+    {
+      "occupation": "Customer Service Manager",
+      "work_type": "Escalations and complaints",
+      "povolanie_sk": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace_sk": "Eskalácie a sťažnosti"
+    },
+    {
+      "occupation": "Customer Service Manager",
+      "work_type": "KPIs a coaching",
+      "povolanie_sk": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace_sk": "KPI a coaching"
+    },
+    {
+      "occupation": "Customer Service Manager",
+      "work_type": "SLAs and shift planning",
+      "povolanie_sk": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace_sk": "SLA a plán smien"
+    },
+    {
+      "occupation": "Customer Service Manager",
+      "work_type": "Process improvement",
+      "povolanie_sk": "Customer Service Manager / Vedúci zákazníckeho servisu",
+      "typ_prace_sk": "Zlepšovanie procesov"
+    },
+    {
+      "occupation": "Customer Support",
+      "work_type": "Claims",
+      "povolanie_sk": "Customer Support",
+      "typ_prace_sk": "Reklamácie"
+    },
+    {
+      "occupation": "Customer Support",
+      "work_type": "Phone/email/chat",
+      "povolanie_sk": "Customer Support",
+      "typ_prace_sk": "Telefón/e-mail/chat"
+    },
+    {
+      "occupation": "Customer Support",
+      "work_type": "Ticketing",
+      "povolanie_sk": "Customer Support",
+      "typ_prace_sk": "Ticketing"
+    },
+    {
+      "occupation": "Data Analyst",
+      "work_type": "A/B testing and statistics (basics)",
+      "povolanie_sk": "Data Analyst / Dátový analytik",
+      "typ_prace_sk": "A/B testy a štatistika (základy)"
+    },
+    {
+      "occupation": "Data Analyst",
+      "work_type": "Reporting automation (PowerQuery)",
+      "povolanie_sk": "Data Analyst / Dátový analytik",
+      "typ_prace_sk": "Automatizácia reportingu (PowerQuery)"
+    },
+    {
+      "occupation": "Data Analyst",
+      "work_type": "Power BI / Tableau dashboards",
+      "povolanie_sk": "Data Analyst / Dátový analytik",
+      "typ_prace_sk": "Power BI / Tableau dashboardy"
+    },
+    {
+      "occupation": "Data Analyst",
+      "work_type": "SQL and Excel/Pivots",
+      "povolanie_sk": "Data Analyst / Dátový analytik",
+      "typ_prace_sk": "SQL a Excel/Pivoty"
+    },
+    {
+      "occupation": "Data Engineer",
+      "work_type": "Batch vs streaming (basics)",
+      "povolanie_sk": "Data Engineer / Inžinier dát",
+      "typ_prace_sk": "Batch vs. streaming (základy)"
+    },
+    {
+      "occupation": "Data Engineer",
+      "work_type": "Data modeling (star/snowflake) (star/snowflake)",
+      "povolanie_sk": "Data Engineer / Inžinier dát",
+      "typ_prace_sk": "Dátové modelovanie (star/snowflake)"
+    },
+    {
+      "occupation": "Data Engineer",
+      "work_type": "ETL/ELT pipeline (SQL/DBT)",
+      "povolanie_sk": "Data Engineer / Inžinier dát",
+      "typ_prace_sk": "ETL/ELT pipeline (SQL/DBT)"
+    },
+    {
+      "occupation": "Data Engineer",
+      "work_type": "Versioning and CI/CD pre dáta",
+      "povolanie_sk": "Data Engineer / Inžinier dát",
+      "typ_prace_sk": "Verzionovanie a CI/CD pre dáta"
+    },
+    {
+      "occupation": "Doctor",
+      "work_type": "Diagnostics and treatment (basics)",
+      "povolanie_sk": "Doctor / Lekár",
+      "typ_prace_sk": "Diagnostika a liečba (základy)"
+    },
+    {
+      "occupation": "Doctor",
+      "work_type": "Indications and consultations",
+      "povolanie_sk": "Doctor / Lekár",
+      "typ_prace_sk": "Indikácie a konzíliá"
+    },
+    {
+      "occupation": "Doctor",
+      "work_type": "Clinical documentation",
+      "povolanie_sk": "Doctor / Lekár",
+      "typ_prace_sk": "Klinická dokumentácia"
+    },
+    {
+      "occupation": "Doctor",
+      "work_type": "Communication with pacientom",
+      "povolanie_sk": "Doctor / Lekár",
+      "typ_prace_sk": "Komunikácia s pacientom"
+    },
+    {
+      "occupation": "Driver",
+      "work_type": "Bezpečná jazda a BOZP",
+      "povolanie_sk": "Driver / Vodič",
+      "typ_prace_sk": "Bezpečná jazda a BOZP"
+    },
+    {
+      "occupation": "Driver",
+      "work_type": "Dodržiavanie predpisov a tachograf",
+      "povolanie_sk": "Driver / Vodič",
+      "typ_prace_sk": "Dodržiavanie predpisov a tachograf"
+    },
+    {
+      "occupation": "Driver",
+      "work_type": "Nakládka/vykládka (basics)",
+      "povolanie_sk": "Driver / Vodič",
+      "typ_prace_sk": "Nakládka/vykládka (základy)"
+    },
+    {
+      "occupation": "Driver",
+      "work_type": "Basic maintenance vozidla",
+      "povolanie_sk": "Driver / Vodič",
+      "typ_prace_sk": "Základná údržba vozidla"
+    },
+    {
+      "occupation": "Electrical Engineer",
+      "work_type": "Safety and EMC (basics)",
+      "povolanie_sk": "Electrical Engineer / Elektrotechnik",
+      "typ_prace_sk": "Bezpečnosť a EMC (základy)"
+    },
+    {
+      "occupation": "Electrical Engineer",
+      "work_type": "Measurement and diagnostics",
+      "povolanie_sk": "Electrical Engineer / Elektrotechnik",
+      "typ_prace_sk": "Meranie a diagnostika"
+    },
+    {
+      "occupation": "Electrical Engineer",
+      "work_type": "Switchboards and protection",
+      "povolanie_sk": "Electrical Engineer / Elektrotechnik",
+      "typ_prace_sk": "Rozvádzače a istenie"
+    },
+    {
+      "occupation": "Electrical Engineer",
+      "work_type": "Diagrams and standards (EN/IEC)",
+      "povolanie_sk": "Electrical Engineer / Elektrotechnik",
+      "typ_prace_sk": "Schémy a normy (EN/IEC)"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Lightning protection / LPS",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Bleskozvody / LPS"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Residential/commercial LV installations",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Bytové/komerčné inštalácie NN"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Cable routes (žľaby lávky chráničky)",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Káblové trasy (žľaby lávky chráničky)"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Measurements and inspections NN",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Merania a revízie NN"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Installation and wiring rozvádzačov NN",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Montáž a zapojenie rozvádzačov NN"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Industrial LV installations",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Priemyselné inštalácie NN"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Connecting machines and motors",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Pripojenie strojov a motorov"
+    },
+    {
+      "occupation": "Electrician – Power (LV)",
+      "work_type": "Maintenance / Service",
+      "povolanie_sk": "Elektrikár – silnoprúd",
+      "typ_prace_sk": "Údržba / Servis"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "ACS (access control systems)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "ACS (prístupové systémy)"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "CCTV (IP/analóg)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "CCTV (IP/analóg)"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "EPS (fire alarm)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "EPS (požiarna signalizácia)"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "EZS (security systems)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "EZS (zabezpečovacie systémy)"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "Intercoms / video phones",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "Interkomy / videotelefóny"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "Instrumentation / BMS / KNX / Modbus",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "MaR / BMS / KNX / Modbus"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "Optical fibers (spájanie merania)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "Optické vlákna (spájanie merania)"
+    },
+    {
+      "occupation": "Electrician – Low-Voltage (ELV)",
+      "work_type": "Structured cabling (Cat.5e/6/6A/7)",
+      "povolanie_sk": "Elektrikár – slaboprúd",
+      "typ_prace_sk": "Štruktúrovaná kabeláž (Cat.5e/6/6A/7)"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "DC wiring and strings",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "DC rozvody a stringy"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "DC/AC switchboards and protection",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "DC/AC rozvádzače a istenie"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "Measurements and inspections DC/AC",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Merania a revízie DC/AC"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "PV panel installation",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Montáž FV panelov"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "Inverter installation a DC/AC ochrany",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Montáž striedačov a DC/AC ochrany"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "Installations on pitched/flat roofs",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Montáže na šikmých/rovných strechách"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "Ground-mounted PV plants - konštrukcie zemnenie",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Pozemné FVE – konštrukcie zemnenie"
+    },
+    {
+      "occupation": "PV Electrician (Photovoltaics)",
+      "work_type": "Commissioning",
+      "povolanie_sk": "Elektromontér FVE",
+      "typ_prace_sk": "Uvedenie do prevádzky"
+    },
+    {
+      "occupation": "Pharmacist",
+      "work_type": "Príprava liekov",
+      "povolanie_sk": "Farmaceut",
+      "typ_prace_sk": "Príprava liekov"
+    },
+    {
+      "occupation": "Pharmacist",
+      "work_type": "Sklad a objednávky",
+      "povolanie_sk": "Farmaceut",
+      "typ_prace_sk": "Sklad a objednávky"
+    },
+    {
+      "occupation": "Pharmacist",
+      "work_type": "Výdaj a poradenstvo",
+      "povolanie_sk": "Farmaceut",
+      "typ_prace_sk": "Výdaj a poradenstvo"
+    },
+    {
+      "occupation": "Pharmacist / Assistant",
+      "work_type": "Expedícia a poradenstvo",
+      "povolanie_sk": "Farmaceut / Asistent",
+      "typ_prace_sk": "Expedícia a poradenstvo"
+    },
+    {
+      "occupation": "Pharmacist / Assistant",
+      "work_type": "Sklad farmácie",
+      "povolanie_sk": "Farmaceut / Asistent",
+      "typ_prace_sk": "Sklad farmácie"
+    },
+    {
+      "occupation": "Pharmacist / Assistant",
+      "work_type": "Výdaj liekov",
+      "povolanie_sk": "Farmaceut / Asistent",
+      "typ_prace_sk": "Výdaj liekov"
+    },
+    {
+      "occupation": "Financial Analyst",
+      "work_type": "Excel model a scenáre",
+      "povolanie_sk": "Financial Analyst / Finančný analytik",
+      "typ_prace_sk": "Excel model a scenáre"
+    },
+    {
+      "occupation": "Financial Analyst",
+      "work_type": "KPIs a variancia",
+      "povolanie_sk": "Financial Analyst / Finančný analytik",
+      "typ_prace_sk": "KPI a variancia"
+    },
+    {
+      "occupation": "Financial Analyst",
+      "work_type": "P&L/BS/CF - interpretácia",
+      "povolanie_sk": "Financial Analyst / Finančný analytik",
+      "typ_prace_sk": "P&L/BS/CF – interpretácia"
+    },
+    {
+      "occupation": "Financial Analyst",
+      "work_type": "Reporting manažmentu",
+      "povolanie_sk": "Financial Analyst / Finančný analytik",
+      "typ_prace_sk": "Reporting manažmentu"
+    },
+    {
+      "occupation": "Financial Controller",
+      "work_type": "P&L/BS/CF - interpretácia",
+      "povolanie_sk": "Financial Controller / Finančný kontrolór",
+      "typ_prace_sk": "P&L/BS/CF – interpretácia"
+    },
+    {
+      "occupation": "Financial Controller",
+      "work_type": "Reporting manažmentu",
+      "povolanie_sk": "Financial Controller / Finančný kontrolór",
+      "typ_prace_sk": "Reportovanie manažmentu"
+    },
+    {
+      "occupation": "Financial Controller",
+      "work_type": "Budgets and forecasts",
+      "povolanie_sk": "Financial Controller / Finančný kontrolór",
+      "typ_prace_sk": "Rozpočty a forecasty"
+    },
+    {
+      "occupation": "Financial Controller",
+      "work_type": "Variance analysis",
+      "povolanie_sk": "Financial Controller / Finančný kontrolór",
+      "typ_prace_sk": "Variance analýza"
+    },
+    {
+      "occupation": "Finance Analyst",
+      "work_type": "Cash‑flow",
+      "povolanie_sk": "Finančný analytik",
+      "typ_prace_sk": "Cash‑flow"
+    },
+    {
+      "occupation": "Finance Analyst",
+      "work_type": "Excel/BI modely",
+      "povolanie_sk": "Finančný analytik",
+      "typ_prace_sk": "Excel/BI modely"
+    },
+    {
+      "occupation": "Finance Analyst",
+      "work_type": "Nákladové analýzy",
+      "povolanie_sk": "Finančný analytik",
+      "typ_prace_sk": "Nákladové analýzy"
+    },
+    {
+      "occupation": "Finance Analyst",
+      "work_type": "Reporting a plánovanie",
+      "povolanie_sk": "Finančný analytik",
+      "typ_prace_sk": "Reporting a plánovanie"
+    },
+    {
+      "occupation": "Finance Manager",
+      "work_type": "Cash-flow",
+      "povolanie_sk": "Finančný manažér",
+      "typ_prace_sk": "Cash-flow"
+    },
+    {
+      "occupation": "Finance Manager",
+      "work_type": "Planning",
+      "povolanie_sk": "Finančný manažér",
+      "typ_prace_sk": "Plánovanie"
+    },
+    {
+      "occupation": "Finance Manager",
+      "work_type": "Reporting",
+      "povolanie_sk": "Finančný manažér",
+      "typ_prace_sk": "Reporting"
+    },
+    {
+      "occupation": "Photographer",
+      "work_type": "Event/Reportage",
+      "povolanie_sk": "Fotograf",
+      "typ_prace_sk": "Event/Reportáž"
+    },
+    {
+      "occupation": "Photographer",
+      "work_type": "Portrait",
+      "povolanie_sk": "Fotograf",
+      "typ_prace_sk": "Portrét"
+    },
+    {
+      "occupation": "Photographer",
+      "work_type": "Product",
+      "povolanie_sk": "Fotograf",
+      "typ_prace_sk": "Produkt"
+    },
+    {
+      "occupation": "Photographer / Videographer",
+      "work_type": "Product/portrait",
+      "povolanie_sk": "Fotograf / Video maker",
+      "typ_prace_sk": "Produkt/portrét"
+    },
+    {
+      "occupation": "Photographer / Videographer",
+      "work_type": "Reportage",
+      "povolanie_sk": "Fotograf / Video maker",
+      "typ_prace_sk": "Reportáže"
+    },
+    {
+      "occupation": "Photographer / Videographer",
+      "work_type": "Video editing",
+      "povolanie_sk": "Fotograf / Video maker",
+      "typ_prace_sk": "Strih videa"
+    },
+    {
+      "occupation": "Physiotherapist",
+      "work_type": "Ambulantná rehabilitácia",
+      "povolanie_sk": "Fyzioterapeut",
+      "typ_prace_sk": "Ambulantná rehabilitácia"
+    },
+    {
+      "occupation": "Physiotherapist",
+      "work_type": "Neurológia",
+      "povolanie_sk": "Fyzioterapeut",
+      "typ_prace_sk": "Neurológia"
+    },
+    {
+      "occupation": "Physiotherapist",
+      "work_type": "Ortopédia",
+      "povolanie_sk": "Fyzioterapeut",
+      "typ_prace_sk": "Ortopédia"
+    },
+    {
+      "occupation": "Surveyor",
+      "work_type": "Kontrolné merania a protokoly",
+      "povolanie_sk": "Geodet",
+      "typ_prace_sk": "Kontrolné merania a protokoly"
+    },
+    {
+      "occupation": "Surveyor",
+      "work_type": "Mapovanie a zameriavanie",
+      "povolanie_sk": "Geodet",
+      "typ_prace_sk": "Mapovanie a zameriavanie"
+    },
+    {
+      "occupation": "Surveyor",
+      "work_type": "Spracovanie v softvéri (CAD/GIS)",
+      "povolanie_sk": "Geodet",
+      "typ_prace_sk": "Spracovanie v softvéri (CAD/GIS)"
+    },
+    {
+      "occupation": "Surveyor",
+      "work_type": "Vytyčovanie stavieb a sietí",
+      "povolanie_sk": "Geodet",
+      "typ_prace_sk": "Vytyčovanie stavieb a sietí"
+    },
+    {
+      "occupation": "Surveyor",
+      "work_type": "Zber dát GNSS/RTK",
+      "povolanie_sk": "Geodet",
+      "typ_prace_sk": "Zber dát GNSS/RTK"
+    },
+    {
+      "occupation": "Graphic Designer / DTP Operator",
+      "work_type": "Branding",
+      "povolanie_sk": "Grafik / DTP",
+      "typ_prace_sk": "Branding"
+    },
+    {
+      "occupation": "Graphic Designer / DTP Operator",
+      "work_type": "Layout",
+      "povolanie_sk": "Grafik / DTP",
+      "typ_prace_sk": "Layout"
+    },
+    {
+      "occupation": "Graphic Designer / DTP Operator",
+      "work_type": "Tlačová príprava",
+      "povolanie_sk": "Grafik / DTP",
+      "typ_prace_sk": "Tlačová príprava"
+    },
+    {
+      "occupation": "Graphic Designer",
+      "work_type": "Brand a layout",
+      "povolanie_sk": "Graphic Designer / Grafik",
+      "typ_prace_sk": "Brand a layout"
+    },
+    {
+      "occupation": "Graphic Designer",
+      "work_type": "Práca s vektorom/bitmapou",
+      "povolanie_sk": "Graphic Designer / Grafik",
+      "typ_prace_sk": "Práca s vektorom/bitmapou"
+    },
+    {
+      "occupation": "Graphic Designer",
+      "work_type": "Príprava do tlače/digitál",
+      "povolanie_sk": "Graphic Designer / Grafik",
+      "typ_prace_sk": "Príprava do tlače/digitál"
+    },
+    {
+      "occupation": "Graphic Designer",
+      "work_type": "Spolupráca s marketingom",
+      "povolanie_sk": "Graphic Designer / Grafik",
+      "typ_prace_sk": "Spolupráca s marketingom"
+    },
+    {
+      "occupation": "HR Specialist",
+      "work_type": "Employer branding (basics)",
+      "povolanie_sk": "HR Specialist / HR špecialista",
+      "typ_prace_sk": "Employer branding (základy)"
+    },
+    {
+      "occupation": "HR Specialist",
+      "work_type": "HR administratíva",
+      "povolanie_sk": "HR Specialist / HR špecialista",
+      "typ_prace_sk": "HR administratíva"
+    },
+    {
+      "occupation": "HR Specialist",
+      "work_type": "Onboarding and training",
+      "povolanie_sk": "HR Specialist / HR špecialista",
+      "typ_prace_sk": "Onboarding a školenia"
+    },
+    {
+      "occupation": "HR Specialist",
+      "work_type": "Recruitment and screening",
+      "povolanie_sk": "HR Specialist / HR špecialista",
+      "typ_prace_sk": "Recruitment a screening"
+    },
+    {
+      "occupation": "HR Manager",
+      "work_type": "Learning & Development",
+      "povolanie_sk": "HR manažér",
+      "typ_prace_sk": "L&D"
+    },
+    {
+      "occupation": "HR Manager",
+      "work_type": "Policy/Compliance",
+      "povolanie_sk": "HR manažér",
+      "typ_prace_sk": "Policy/Compliance"
+    },
+    {
+      "occupation": "HR Manager",
+      "work_type": "Recruitment",
+      "povolanie_sk": "HR manažér",
+      "typ_prace_sk": "Recruitment"
+    },
+    {
+      "occupation": "HR Specialist / Recruiter",
+      "work_type": "Employer branding",
+      "povolanie_sk": "HR špecialista / Recruiter",
+      "typ_prace_sk": "Employer branding"
+    },
+    {
+      "occupation": "HR Specialist / Recruiter",
+      "work_type": "HR administratíva",
+      "povolanie_sk": "HR špecialista / Recruiter",
+      "typ_prace_sk": "HR administratíva"
+    },
+    {
+      "occupation": "HR Specialist / Recruiter",
+      "work_type": "Nábor a pohovory",
+      "povolanie_sk": "HR špecialista / Recruiter",
+      "typ_prace_sk": "Nábor a pohovory"
+    },
+    {
+      "occupation": "HR Specialist / Recruiter",
+      "work_type": "Onboarding",
+      "povolanie_sk": "HR špecialista / Recruiter",
+      "typ_prace_sk": "Onboarding"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Elektrické pripojenie a regulácia",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Elektrické pripojenie a regulácia"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Medené rozvody - spájkovanie vákuovanie",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Medené rozvody – spájkovanie vákuovanie"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Meranie tlakov doplnenie chladiva",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Meranie tlakov doplnenie chladiva"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Montáž VRF/VRS systémov",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Montáž VRF/VRS systémov"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Installation and service rekuperácií",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Montáž a servis rekuperácií"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Montáž split/multi-split klimatizácií",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Montáž split/multi-split klimatizácií"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Servis a diagnostika chladiacich okruhov",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Servis a diagnostika chladiacich okruhov"
+    },
+    {
+      "occupation": "HVAC Technician / Refrigeration",
+      "work_type": "Unit maintenance (čistenie dezinfekcia)",
+      "povolanie_sk": "HVAC / Chladiar",
+      "typ_prace_sk": "Údržba jednotiek (čistenie dezinfekcia)"
+    },
+    {
+      "occupation": "Chief Accountant",
+      "work_type": "Kontrola",
+      "povolanie_sk": "Hlavný účtovník",
+      "typ_prace_sk": "Kontrola"
+    },
+    {
+      "occupation": "Chief Accountant",
+      "work_type": "Uzávierky a metodika",
+      "povolanie_sk": "Hlavný účtovník",
+      "typ_prace_sk": "Uzávierky a metodika"
+    },
+    {
+      "occupation": "Chief Accountant",
+      "work_type": "Vedenie tímu",
+      "povolanie_sk": "Hlavný účtovník",
+      "typ_prace_sk": "Vedenie tímu"
+    },
+    {
+      "occupation": "Housekeeping",
+      "work_type": "Kontroly",
+      "povolanie_sk": "Housekeeping",
+      "typ_prace_sk": "Kontroly"
+    },
+    {
+      "occupation": "Housekeeping",
+      "work_type": "Práčovňa",
+      "povolanie_sk": "Housekeeping",
+      "typ_prace_sk": "Práčovňa"
+    },
+    {
+      "occupation": "Housekeeping",
+      "work_type": "Upratovanie izieb",
+      "povolanie_sk": "Housekeeping",
+      "typ_prace_sk": "Upratovanie izieb"
+    },
+    {
+      "occupation": "IT Support Specialist",
+      "work_type": "Security: phishing and passwords",
+      "povolanie_sk": "IT Support Specialist / Technická podpora",
+      "typ_prace_sk": "Bezpečnosť: phishing a heslá"
+    },
+    {
+      "occupation": "IT Support Specialist",
+      "work_type": "Outlook/Teams/OneDrive support",
+      "povolanie_sk": "IT Support Specialist / Technická podpora",
+      "typ_prace_sk": "Outlook/Teams/OneDrive podpora"
+    },
+    {
+      "occupation": "IT Support Specialist",
+      "work_type": "Ticketing and SLAs",
+      "povolanie_sk": "IT Support Specialist / Technická podpora",
+      "typ_prace_sk": "Ticketing a SLA"
+    },
+    {
+      "occupation": "IT Support Specialist",
+      "work_type": "Network basics a VPN",
+      "povolanie_sk": "IT Support Specialist / Technická podpora",
+      "typ_prace_sk": "Základy siete a VPN"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Kotle a kotolne (plynové/elektrické/TP odovzdávacie stanice)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Kotle a kotolne (plynové/elektrické/TP odovzdávacie stanice)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Kúrenie - rozvody a montáž (radiátory podlahové stúpačky)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Kúrenie – rozvody a montáž (radiátory podlahové stúpačky)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Odvody a kanalizácia (HT/PP/PVC zvody odpad)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Odvody a kanalizácia (HT/PP/PVC zvody odpad)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Plyn - rozvody a spotrebiče (montáž skúšky tesnosti uvedenie do prevádzky)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Plyn – rozvody a spotrebiče (montáž skúšky tesnosti uvedenie do prevádzky)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Sanita / kúpeľne (zariadenia armatúry montáže)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Sanita / kúpeľne (zariadenia armatúry montáže)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Service and maintenance",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Servis a údržba"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Tests and measurements (tlakové skúšky vyregulovanie sústav)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Skúšky a merania (tlakové skúšky vyregulovanie sústav)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Tepelné čerpadlá (montáž a spustenie)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Tepelné čerpadlá (montáž a spustenie)"
+    },
+    {
+      "occupation": "Plumber / Heating Technician",
+      "work_type": "Voda - rozvody a montáž (PP/PE/PPR medené lisované systémy)",
+      "povolanie_sk": "Inštalatér / Kúrenár",
+      "typ_prace_sk": "Voda – rozvody a montáž (PP/PE/PPR medené lisované systémy)"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Detailing parapets/penetrations/drains",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Detailovanie atík/prestupov/vpustí"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Below-ground waterproofing (PVC/HDPE/bentonit)",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Hydroizolácie spodných stavieb (PVC/HDPE/bentonit)"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Roof waterproofing (PVC/TPO/EPDM)",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Hydroizolácie striech (PVC/TPO/EPDM)"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Meranie a skúšky tesnosti (vol.)",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Meranie a skúšky tesnosti (vol.)"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Vapour barriers and retarders",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Parozábrany a parobrzdy"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Remediation and repairs of insulation",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Sanácie a opravy izolácií"
+    },
+    {
+      "occupation": "Insulation Worker (Waterproofing/Thermal)",
+      "work_type": "Thermal insulation (EPS/XPS/minerálna vlna)",
+      "povolanie_sk": "Izolatér (hydro/tepelná)",
+      "typ_prace_sk": "Tepelné izolácie (EPS/XPS/minerálna vlna)"
+    },
+    {
+      "occupation": "Junior Manager",
+      "work_type": "Coordination tímu",
+      "povolanie_sk": "Junior manažér",
+      "typ_prace_sk": "Koordinácia tímu"
+    },
+    {
+      "occupation": "Junior Manager",
+      "work_type": "Operatíva",
+      "povolanie_sk": "Junior manažér",
+      "typ_prace_sk": "Operatíva"
+    },
+    {
+      "occupation": "Junior Manager",
+      "work_type": "Projektová podpora",
+      "povolanie_sk": "Junior manažér",
+      "typ_prace_sk": "Projektová podpora"
+    },
+    {
+      "occupation": "Junior Manager",
+      "work_type": "Reporting",
+      "povolanie_sk": "Junior manažér",
+      "typ_prace_sk": "Reporting"
+    },
+    {
+      "occupation": "Hairdresser",
+      "work_type": "Fúkaná/úprava",
+      "povolanie_sk": "Kaderník",
+      "typ_prace_sk": "Fúkaná/úprava"
+    },
+    {
+      "occupation": "Hairdresser",
+      "work_type": "Keratín/špec. techniky",
+      "povolanie_sk": "Kaderník",
+      "typ_prace_sk": "Keratín/špec. techniky"
+    },
+    {
+      "occupation": "Hairdresser",
+      "work_type": "Strih/farbenie",
+      "povolanie_sk": "Kaderník",
+      "typ_prace_sk": "Strih/farbenie"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Demontáže rekonštrukcie a sanácie",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Demontáže rekonštrukcie a sanácie"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Fasádne oplechovania a obklady (kazety lamely)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Fasádne oplechovania a obklady (kazety lamely)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Fóliové systémy (PVC/TPO/EPDM - atiky prestupy vpuste)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Fóliové systémy (PVC/TPO/EPDM – atiky prestupy vpuste)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Roof covering installation (plech/škridla/bitumen/šindle)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Montáž strešných krytín (plech/škridla/bitumen/šindle)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Odvodnenie striech (žľaby zvody kotlíky vyhrievanie)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Odvodnenie striech (žľaby zvody kotlíky vyhrievanie)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Plechové strechy a oplechovania (falcovanie stojatá drážka)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Plechové strechy a oplechovania (falcovanie stojatá drážka)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Substrate preparation (latovanie záklopy parozábrany)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Príprava podkladu (latovanie záklopy parozábrany)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Strešné okná svetlíky prestupy (montáž izolácia detailov)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Strešné okná svetlíky prestupy (montáž izolácia detailov)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Zabezpečenie proti pádu snehu (snehové zachytávače lávky)",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Zabezpečenie proti pádu snehu (snehové zachytávače lávky)"
+    },
+    {
+      "occupation": "Sheet Metal Roofer / Roofer",
+      "work_type": "Reading details and laying plans",
+      "povolanie_sk": "Klampiar / Pokrývač",
+      "typ_prace_sk": "Čítanie detailov a kladačských plánov"
+    },
+    {
+      "occupation": "Cosmetician / Manicurist",
+      "work_type": "Kozmetické ošetrenia",
+      "povolanie_sk": "Kozmetik / Manikér",
+      "typ_prace_sk": "Kozmetické ošetrenia"
+    },
+    {
+      "occupation": "Cosmetician / Manicurist",
+      "work_type": "Manikúra/gél",
+      "povolanie_sk": "Kozmetik / Manikér",
+      "typ_prace_sk": "Manikúra/gél"
+    },
+    {
+      "occupation": "Cosmetician / Manicurist",
+      "work_type": "Pedikúra",
+      "povolanie_sk": "Kozmetik / Manikér",
+      "typ_prace_sk": "Pedikúra"
+    },
+    {
+      "occupation": "Tailor / Seamstress",
+      "work_type": "Priemyselné šitie",
+      "povolanie_sk": "Krajčír / Šička",
+      "typ_prace_sk": "Priemyselné šitie"
+    },
+    {
+      "occupation": "Tailor / Seamstress",
+      "work_type": "Strih a konštrukcia",
+      "povolanie_sk": "Krajčír / Šička",
+      "typ_prace_sk": "Strih a konštrukcia"
+    },
+    {
+      "occupation": "Tailor / Seamstress",
+      "work_type": "Úpravy odevov",
+      "povolanie_sk": "Krajčír / Šička",
+      "typ_prace_sk": "Úpravy odevov"
+    },
+    {
+      "occupation": "Cook / Chef",
+      "work_type": "Menu",
+      "povolanie_sk": "Kuchár",
+      "typ_prace_sk": "Menu"
+    },
+    {
+      "occupation": "Cook / Chef",
+      "work_type": "Food preparation",
+      "povolanie_sk": "Kuchár",
+      "typ_prace_sk": "Príprava pokrmov"
+    },
+    {
+      "occupation": "Cook / Chef",
+      "work_type": "Standards",
+      "povolanie_sk": "Kuchár",
+      "typ_prace_sk": "Štandardy"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Dohľad nad postupmi a normami",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Dohľad nad postupmi a normami"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Evidencia a protokolácia skúšok",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Evidencia a protokolácia skúšok"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Communication with TDI/investorom",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Komunikácia s TDI/investorom"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Kontrola kvality realizácie",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Kontrola kvality realizácie"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Správa neshôd a reklamácií",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Správa neshôd a reklamácií"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Uvoľňovanie etáp a odovzdanie",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Uvoľňovanie etáp a odovzdanie"
+    },
+    {
+      "occupation": "Quality (QA/QC) – Construction",
+      "work_type": "Vstupná/kusová kontrola materiálov",
+      "povolanie_sk": "Kvalita (QA/QC) – stavebníctvo",
+      "typ_prace_sk": "Vstupná/kusová kontrola materiálov"
+    },
+    {
+      "occupation": "Quality Specialist (QC/QA)",
+      "work_type": "8D/PDCA",
+      "povolanie_sk": "Kvalitár (QC/QA)",
+      "typ_prace_sk": "8D/PDCA"
+    },
+    {
+      "occupation": "Quality Specialist (QC/QA)",
+      "work_type": "Kontrola",
+      "povolanie_sk": "Kvalitár (QC/QA)",
+      "typ_prace_sk": "Kontrola"
+    },
+    {
+      "occupation": "Quality Specialist (QC/QA)",
+      "work_type": "Merania",
+      "povolanie_sk": "Kvalitár (QC/QA)",
+      "typ_prace_sk": "Merania"
+    },
+    {
+      "occupation": "Physician (General/Specialist)",
+      "work_type": "Ambulantná prax",
+      "povolanie_sk": "Lekár (všeobecný/špecialista)",
+      "typ_prace_sk": "Ambulantná prax"
+    },
+    {
+      "occupation": "Physician (General/Specialist)",
+      "work_type": "Nemocničná prax",
+      "povolanie_sk": "Lekár (všeobecný/špecialista)",
+      "typ_prace_sk": "Nemocničná prax"
+    },
+    {
+      "occupation": "Physician (General/Specialist)",
+      "work_type": "Pohotovosť",
+      "povolanie_sk": "Lekár (všeobecný/špecialista)",
+      "typ_prace_sk": "Pohotovosť"
+    },
+    {
+      "occupation": "Anesthesiologist",
+      "work_type": "ARO/JIS",
+      "povolanie_sk": "Lekár – anestéziológ",
+      "typ_prace_sk": "ARO/JIS"
+    },
+    {
+      "occupation": "Anesthesiologist",
+      "work_type": "Anestézie na sálach",
+      "povolanie_sk": "Lekár – anestéziológ",
+      "typ_prace_sk": "Anestézie na sálach"
+    },
+    {
+      "occupation": "Anesthesiologist",
+      "work_type": "Intenzívna medicína",
+      "povolanie_sk": "Lekár – anestéziológ",
+      "typ_prace_sk": "Intenzívna medicína"
+    },
+    {
+      "occupation": "Surgeon",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – chirurg",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Surgeon",
+      "work_type": "Elective surgeries",
+      "povolanie_sk": "Lekár – chirurg",
+      "typ_prace_sk": "Plánované operácie"
+    },
+    {
+      "occupation": "Surgeon",
+      "work_type": "Emergency surgery",
+      "povolanie_sk": "Lekár – chirurg",
+      "typ_prace_sk": "Urgentná chirurgia"
+    },
+    {
+      "occupation": "Dermatologist",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – dermatológ",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Dermatologist",
+      "work_type": "Chirurgické zákroky drobné",
+      "povolanie_sk": "Lekár – dermatológ",
+      "typ_prace_sk": "Chirurgické zákroky drobné"
+    },
+    {
+      "occupation": "Dermatologist",
+      "work_type": "Dermatokozmetika (vol.)",
+      "povolanie_sk": "Lekár – dermatológ",
+      "typ_prace_sk": "Dermatokozmetika (vol.)"
+    },
+    {
+      "occupation": "Gynecologist",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – gynekológ",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Gynecologist",
+      "work_type": "Operačná činnosť",
+      "povolanie_sk": "Lekár – gynekológ",
+      "typ_prace_sk": "Operačná činnosť"
+    },
+    {
+      "occupation": "Gynecologist",
+      "work_type": "Maternity ward",
+      "povolanie_sk": "Lekár – gynekológ",
+      "typ_prace_sk": "Pôrodnica"
+    },
+    {
+      "occupation": "Internist",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – internista",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Internist",
+      "work_type": "Konzíliá",
+      "povolanie_sk": "Lekár – internista",
+      "typ_prace_sk": "Konzíliá"
+    },
+    {
+      "occupation": "Internist",
+      "work_type": "Oddelenie vnútorného lekárstva",
+      "povolanie_sk": "Lekár – internista",
+      "typ_prace_sk": "Oddelenie vnútorného lekárstva"
+    },
+    {
+      "occupation": "Orthopedic Surgeon",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – ortopéd",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Orthopedic Surgeon",
+      "work_type": "Operating theatre",
+      "povolanie_sk": "Lekár – ortopéd",
+      "typ_prace_sk": "Operačná sála"
+    },
+    {
+      "occupation": "Orthopedic Surgeon",
+      "work_type": "Traumatológia (spolupráca)",
+      "povolanie_sk": "Lekár – ortopéd",
+      "typ_prace_sk": "Traumatológia (spolupráca)"
+    },
+    {
+      "occupation": "Pediatrician",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – pediater",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Pediatrician",
+      "work_type": "Neonatal care",
+      "povolanie_sk": "Lekár – pediater",
+      "typ_prace_sk": "Novorodenecká starostlivosť"
+    },
+    {
+      "occupation": "Pediatrician",
+      "work_type": "Oddelenie",
+      "povolanie_sk": "Lekár – pediater",
+      "typ_prace_sk": "Oddelenie"
+    },
+    {
+      "occupation": "Psychiatrist",
+      "work_type": "Clinic",
+      "povolanie_sk": "Lekár – psychiater",
+      "typ_prace_sk": "Ambulancia"
+    },
+    {
+      "occupation": "Psychiatrist",
+      "work_type": "Crisis intervention",
+      "povolanie_sk": "Lekár – psychiater",
+      "typ_prace_sk": "Krizová intervencia"
+    },
+    {
+      "occupation": "Psychiatrist",
+      "work_type": "Inpatient ward",
+      "povolanie_sk": "Lekár – psychiater",
+      "typ_prace_sk": "Lôžkové oddelenie"
+    },
+    {
+      "occupation": "Radiologist",
+      "work_type": "CT/MRI diagnostics",
+      "povolanie_sk": "Lekár – rádiológ",
+      "typ_prace_sk": "CT/MR diagnostika"
+    },
+    {
+      "occupation": "Radiologist",
+      "work_type": "Intervenčná rádiológia (vol.)",
+      "povolanie_sk": "Lekár – rádiológ",
+      "typ_prace_sk": "Intervenčná rádiológia (vol.)"
+    },
+    {
+      "occupation": "Radiologist",
+      "work_type": "X-ray/Ultrasound",
+      "povolanie_sk": "Lekár – rádiológ",
+      "typ_prace_sk": "Röntgen/USG"
+    },
+    {
+      "occupation": "General Practitioner",
+      "work_type": "Outpatient care",
+      "povolanie_sk": "Lekár – všeobecný",
+      "typ_prace_sk": "Ambulantná starostlivosť"
+    },
+    {
+      "occupation": "General Practitioner",
+      "work_type": "Chronic diseases",
+      "povolanie_sk": "Lekár – všeobecný",
+      "typ_prace_sk": "Chronické ochorenia"
+    },
+    {
+      "occupation": "General Practitioner",
+      "work_type": "Preventive check-ups",
+      "povolanie_sk": "Lekár – všeobecný",
+      "typ_prace_sk": "Preventívne prehliadky"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Kontrola a odovzdanie lešenia",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Kontrola a odovzdanie lešenia"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Coordination s inými profesiami",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Koordinácia s inými profesiami"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Kotvenie a zabezpečenie lešenia",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Kotvenie a zabezpečenie lešenia"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Montáž/demontáž rámových lešení",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Montáž/demontáž rámových lešení"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Trubkové a priestorové lešenia",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Trubkové a priestorové lešenia"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Zastrešenie a plachty",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Zastrešenie a plachty"
+    },
+    {
+      "occupation": "Scaffolder",
+      "work_type": "Závesné lešenia a pojazdné veže",
+      "povolanie_sk": "Lešenár",
+      "typ_prace_sk": "Závesné lešenia a pojazdné veže"
+    },
+    {
+      "occupation": "Logistics Dispatcher",
+      "work_type": "Communication with vodičmi",
+      "povolanie_sk": "Logistický dispečer",
+      "typ_prace_sk": "Komunikácia s vodičmi"
+    },
+    {
+      "occupation": "Logistics Dispatcher",
+      "work_type": "Planning trás",
+      "povolanie_sk": "Logistický dispečer",
+      "typ_prace_sk": "Plánovanie trás"
+    },
+    {
+      "occupation": "Logistics Dispatcher",
+      "work_type": "Customer line",
+      "povolanie_sk": "Logistický dispečer",
+      "typ_prace_sk": "Zákaznícka linka"
+    },
+    {
+      "occupation": "Logistics Coordinator",
+      "work_type": "Communication with dopravcami",
+      "povolanie_sk": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace_sk": "Komunikácia s dopravcami"
+    },
+    {
+      "occupation": "Logistics Coordinator",
+      "work_type": "Planning dopravy",
+      "povolanie_sk": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace_sk": "Plánovanie dopravy"
+    },
+    {
+      "occupation": "Logistics Coordinator",
+      "work_type": "Claims a škody",
+      "povolanie_sk": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace_sk": "Reklamácie a škody"
+    },
+    {
+      "occupation": "Logistics Coordinator",
+      "work_type": "Logistics reporting",
+      "povolanie_sk": "Logistics Coordinator / Koordinátor logistiky",
+      "typ_prace_sk": "Reporting logistiky"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Anti-corrosion systems (príprava povrchu)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Antikorózne systémy (príprava povrchu)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Aplikácia striekaním (airless/HVLP)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Aplikácia striekaním (airless/HVLP)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Epoxy/PU floors (základ liata vrstva)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Epoxidové/PU podlahy (základ liata vrstva)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Exterior coatings (fasády sokle)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Exteriérové nátery (fasády sokle)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Interior coatings (penetrácie vyrovnávky striekanie)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Interiérové nátery (penetrácie vyrovnávky striekanie)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Masking and surface protection",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Maskovanie a ochrana plôch"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Measurement and preparation (vlhkosť rosný bod)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Meranie a príprava (vlhkosť rosný bod)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Industrial coatings (oceľové konštrukcie)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Priemyselné nátery (oceľové konštrukcie)"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Wallpapers and decorative techniques",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Tapety a dekoratívne techniky"
+    },
+    {
+      "occupation": "Painter / Coater",
+      "work_type": "Filling and skim coats (Q1-Q4)",
+      "povolanie_sk": "Maliar / Natierač",
+      "typ_prace_sk": "Tmelenie a stierky (Q1–Q4)"
+    },
+    {
+      "occupation": "Marketing Specialist",
+      "work_type": "CRM and emailing",
+      "povolanie_sk": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace_sk": "CRM a e‑mailing"
+    },
+    {
+      "occupation": "Marketing Specialist",
+      "work_type": "Content a social",
+      "povolanie_sk": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace_sk": "Content a social"
+    },
+    {
+      "occupation": "Marketing Specialist",
+      "work_type": "Campaigns and budgets",
+      "povolanie_sk": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace_sk": "Kampane a rozpočty"
+    },
+    {
+      "occupation": "Marketing Specialist",
+      "work_type": "Performance and analytics",
+      "povolanie_sk": "Marketing Specialist / Marketingový špecialista",
+      "typ_prace_sk": "Performance a analytics"
+    },
+    {
+      "occupation": "Marketing Specialist (General)",
+      "work_type": "Email campaigns",
+      "povolanie_sk": "Marketing špecialista",
+      "typ_prace_sk": "E-mail kampane"
+    },
+    {
+      "occupation": "Marketing Specialist (General)",
+      "work_type": "SEO/SEM",
+      "povolanie_sk": "Marketing špecialista",
+      "typ_prace_sk": "SEO/SEM"
+    },
+    {
+      "occupation": "Marketing Specialist (General)",
+      "work_type": "Social media",
+      "povolanie_sk": "Marketing špecialista",
+      "typ_prace_sk": "Social media"
+    },
+    {
+      "occupation": "Mechanical Engineer",
+      "work_type": "Kreslenie a tolerancie (ISO GPS)",
+      "povolanie_sk": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace_sk": "Kreslenie a tolerancie (ISO GPS)"
+    },
+    {
+      "occupation": "Mechanical Engineer",
+      "work_type": "Spolupráca s výrobou (DFM)",
+      "povolanie_sk": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace_sk": "Spolupráca s výrobou (DFM)"
+    },
+    {
+      "occupation": "Mechanical Engineer",
+      "work_type": "Výpočty a pevnosť (basics)",
+      "povolanie_sk": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace_sk": "Výpočty a pevnosť (základy)"
+    },
+    {
+      "occupation": "Mechanical Engineer",
+      "work_type": "Výrobná dokumentácia",
+      "povolanie_sk": "Mechanical Engineer / Strojársky inžinier",
+      "typ_prace_sk": "Výrobná dokumentácia"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Coordination so žeriavom a viazačom",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Koordinácia so žeriavom a viazačom"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Kotvenie a chemické kotvy",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Kotvenie a chemické kotvy"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Montáž a zoskrutkovanie konštrukcií",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Montáž a zoskrutkovanie konštrukcií"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Nitovanie a dočasné spoje",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Nitovanie a dočasné spoje"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Presné lícovanie dielcov",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Presné lícovanie dielcov"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Práce na výškach a plošinách",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Práce na výškach a plošinách"
+    },
+    {
+      "occupation": "Steel Structure Assembler",
+      "work_type": "Reading drawings (EN 1090)",
+      "povolanie_sk": "Montér oceľových konštrukcií",
+      "typ_prace_sk": "Čítanie výkresov (EN 1090)"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Anchoring and alignment (pásky kotvy montážne peny)",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Kotvenie a vyrovnanie (pásky kotvy montážne peny)"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Measurement and preparation stavebných otvorov",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Meranie a príprava stavebných otvorov"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Window and door installation (plast/hliník/drevo)",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Montáž okien a dverí (plast/hliník/drevo)"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Installing window sills and accessories",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Osadenie parapetov a doplnkov"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Vapour-tight and breathable tapes (i3 štandardy)",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Parotesné a paropriepustné pásky (i3 štandardy)"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Servis a reklamácie",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Servis a reklamácie"
+    },
+    {
+      "occupation": "Window/Door Installer",
+      "work_type": "Glazing and hardware adjustment",
+      "povolanie_sk": "Montér okien / dverí",
+      "typ_prace_sk": "Zasklievanie a nastavenie kovania"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Káblovanie a pneumatika podľa schém",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Káblovanie a pneumatika podľa schém"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Installation and commissioning zariadení a liniek",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Montáž a oživovanie zariadení a liniek"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Prenastavenia a sprievodná dokumentácia",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Prenastavenia a sprievodná dokumentácia"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Function and safety tests",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Skúšky funkčnosti a bezpečnosti"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Zarovnávanie a ukotvenie strojov",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Zarovnávanie a ukotvenie strojov"
+    },
+    {
+      "occupation": "Machinery/Technology Installer",
+      "work_type": "Školenie obsluhy a odovzdanie",
+      "povolanie_sk": "Montér technológií",
+      "typ_prace_sk": "Školenie obsluhy a odovzdanie"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Structural work (základy murovanie preklady vencovanie)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Hrubá stavba (základy murovanie preklady vencovanie)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Hydroizolácie kúpeľní/terás",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Hydroizolácie kúpeľní/terás"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Montáž zárubní a osadzovanie prvkov",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Montáž zárubní a osadzovanie prvkov"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Tiling and floor tiling (interiér/exteriér veľkoformát)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Obklady a dlažby (interiér/exteriér veľkoformát)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Plastering (strojové/ručné štuk stierky sieťkovanie)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Omietky (strojové/ručné štuk stierky sieťkovanie)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Screeds and levelling (cementové/anhydrit)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Potery a nivelácie (cementové/anhydrit)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Drywall accessories (špalety detaily pri kúpeľniach)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "SDK doplnky (špalety detaily pri kúpeľniach)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Service/repairs (lokálne sanácie)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Servis/opravy (lokálne sanácie)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "External thermal insulation (ETICS) (ETICS - lepenie kotvenie výstuž finál)",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Zatepľovanie fasád (ETICS – lepenie kotvenie výstuž finál)"
+    },
+    {
+      "occupation": "Bricklayer / Tiler",
+      "work_type": "Reading drawings a výmer",
+      "povolanie_sk": "Murár / Obkladač",
+      "typ_prace_sk": "Čítanie výkresov a výmer"
+    },
+    {
+      "occupation": "Payroll Accountant",
+      "work_type": "Attendance",
+      "povolanie_sk": "Mzdový účtovník",
+      "typ_prace_sk": "Dochádzka"
+    },
+    {
+      "occupation": "Payroll Accountant",
+      "work_type": "Payroll and contributions",
+      "povolanie_sk": "Mzdový účtovník",
+      "typ_prace_sk": "Mzdy a odvody"
+    },
+    {
+      "occupation": "Payroll Accountant",
+      "work_type": "Annual payroll settlement",
+      "povolanie_sk": "Mzdový účtovník",
+      "typ_prace_sk": "Ročné zúčtovanie"
+    },
+    {
+      "occupation": "Nurse",
+      "work_type": "Patient documentation",
+      "povolanie_sk": "Nurse / Zdravotná sestra",
+      "typ_prace_sk": "Dokumentácia pacienta"
+    },
+    {
+      "occupation": "Nurse",
+      "work_type": "Hygiene and OHS in healthcare",
+      "povolanie_sk": "Nurse / Zdravotná sestra",
+      "typ_prace_sk": "Hygiena a BOZP v zdravotníctve"
+    },
+    {
+      "occupation": "Nurse",
+      "work_type": "Ošetrovateľská starostlivosť",
+      "povolanie_sk": "Nurse / Zdravotná sestra",
+      "typ_prace_sk": "Ošetrovateľská starostlivosť"
+    },
+    {
+      "occupation": "Nurse",
+      "work_type": "Administering medication (basics)",
+      "povolanie_sk": "Nurse / Zdravotná sestra",
+      "typ_prace_sk": "Podávanie liekov (základy)"
+    },
+    {
+      "occupation": "Office Manager",
+      "work_type": "OHS/Fire safety coordination",
+      "povolanie_sk": "Office manažér",
+      "typ_prace_sk": "BOZP/PO koordinácia"
+    },
+    {
+      "occupation": "Office Manager",
+      "work_type": "Vendors",
+      "povolanie_sk": "Office manažér",
+      "typ_prace_sk": "Dodávatelia"
+    },
+    {
+      "occupation": "Office Manager",
+      "work_type": "Office operations",
+      "povolanie_sk": "Office manažér",
+      "typ_prace_sk": "Office chod"
+    },
+    {
+      "occupation": "Caregiver",
+      "work_type": "Domáca starostlivosť",
+      "povolanie_sk": "Opatrovateľ/ka",
+      "typ_prace_sk": "Domáca starostlivosť"
+    },
+    {
+      "occupation": "Caregiver",
+      "work_type": "Mobilita a hygiena",
+      "povolanie_sk": "Opatrovateľ/ka",
+      "typ_prace_sk": "Mobilita a hygiena"
+    },
+    {
+      "occupation": "Caregiver",
+      "work_type": "Administering medication (basics)",
+      "povolanie_sk": "Opatrovateľ/ka",
+      "typ_prace_sk": "Podávanie liekov (základy)"
+    },
+    {
+      "occupation": "Caregiver",
+      "work_type": "Care o seniorov",
+      "povolanie_sk": "Opatrovateľ/ka",
+      "typ_prace_sk": "Starostlivosť o seniorov"
+    },
+    {
+      "occupation": "Operations Manager",
+      "work_type": "KPIss",
+      "povolanie_sk": "Operations manažér",
+      "typ_prace_sk": "KPIs"
+    },
+    {
+      "occupation": "Operations Manager",
+      "work_type": "Optimizations",
+      "povolanie_sk": "Operations manažér",
+      "typ_prace_sk": "Optimalizácie"
+    },
+    {
+      "occupation": "Operations Manager",
+      "work_type": "Procesy",
+      "povolanie_sk": "Operations manažér",
+      "typ_prace_sk": "Procesy"
+    },
+    {
+      "occupation": "Production Operator",
+      "work_type": "Kvalita",
+      "povolanie_sk": "Operátor výroby",
+      "typ_prace_sk": "Kvalita"
+    },
+    {
+      "occupation": "Production Operator",
+      "work_type": "Montáž",
+      "povolanie_sk": "Operátor výroby",
+      "typ_prace_sk": "Montáž"
+    },
+    {
+      "occupation": "Production Operator",
+      "work_type": "Obsluha strojov",
+      "povolanie_sk": "Operátor výroby",
+      "typ_prace_sk": "Obsluha strojov"
+    },
+    {
+      "occupation": "Payroll Administrator",
+      "work_type": "Attendance and allowances",
+      "povolanie_sk": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace_sk": "Dochádzka a príplatky"
+    },
+    {
+      "occupation": "Payroll Administrator",
+      "work_type": "Legislatíva (basics)",
+      "povolanie_sk": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace_sk": "Legislatíva (základy)"
+    },
+    {
+      "occupation": "Payroll Administrator",
+      "work_type": "Payroll and contributions",
+      "povolanie_sk": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace_sk": "Mzdy a odvody"
+    },
+    {
+      "occupation": "Payroll Administrator",
+      "work_type": "Reports for accounting",
+      "povolanie_sk": "Payroll Administrator / Mzdový účtovník",
+      "typ_prace_sk": "Reporty pre účtovníctvo"
+    },
+    {
+      "occupation": "Baker / Confectioner",
+      "work_type": "Cukrárska výroba",
+      "povolanie_sk": "Pekár / Cukrár",
+      "typ_prace_sk": "Cukrárska výroba"
+    },
+    {
+      "occupation": "Baker / Confectioner",
+      "work_type": "Výroba pečiva",
+      "povolanie_sk": "Pekár / Cukrár",
+      "typ_prace_sk": "Výroba pečiva"
+    },
+    {
+      "occupation": "Baker / Confectioner",
+      "work_type": "Výzdoba a balenie",
+      "povolanie_sk": "Pekár / Cukrár",
+      "typ_prace_sk": "Výzdoba a balenie"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Expansion joints and details",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Dilatácie a detaily"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Liate epoxidové/PU podlahy",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Liate epoxidové/PU podlahy"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Substrate moisture measurement",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Meranie vlhkosti podkladu"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Priming and repairs (stierky opravné malty)",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Penetrácia a opravy (stierky opravné malty)"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Polyaspartic fast-curing systems",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Polyaspartické rýchlotuhnúce systémy"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Industrial/commercial floors - operation",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Priemyselné/komerčné podlahy – prevádzka"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Substrate preparation (frézovanie brúsenie vysávanie)",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Príprava podkladu (frézovanie brúsenie vysávanie)"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Vinyl/laminate - laying and skirtings",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Vinyl/laminát – kladenie a sokle"
+    },
+    {
+      "occupation": "Flooring Installer (epoxy/PU/vinyl)",
+      "work_type": "Broadcast systems and decor",
+      "povolanie_sk": "Podlahár (epoxid/PU/vinyl)",
+      "typ_prace_sk": "Vsypové systémy a dekor"
+    },
+    {
+      "occupation": "Cashier",
+      "work_type": "Cash register operations",
+      "povolanie_sk": "Pokladník",
+      "typ_prace_sk": "Pokladničné operácie"
+    },
+    {
+      "occupation": "Cashier",
+      "work_type": "Cash register protocol",
+      "povolanie_sk": "Pokladník",
+      "typ_prace_sk": "Pokladničný protokol"
+    },
+    {
+      "occupation": "Cashier",
+      "work_type": "End-of-day closing",
+      "povolanie_sk": "Pokladník",
+      "typ_prace_sk": "Uzávierky dňa"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Demontáže a balenie (označovanie čistenie)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Demontáže a balenie (označovanie čistenie)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Pomoc pri lešeniach (bez oprávnenia)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Pomoc pri lešeniach (bez oprávnenia)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Pomocné murárske/tesárske/SDK práce (pod dohľadom)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Pomocné murárske/tesárske/SDK práce (pod dohľadom)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Signalizácia a asistované prenášanie bremien",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Signalizácia a asistované prenášanie bremien"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Sklad a logistika (príjem/výdaj balenie etiketovanie)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Sklad a logistika (príjem/výdaj balenie etiketovanie)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Stavenisko - pomocné práce (miešanie prenášanie drážkovanie)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Stavenisko – pomocné práce (miešanie prenášanie drážkovanie)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Upratovanie a triedenie (odvoz odpadu separácia)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Upratovanie a triedenie (odvoz odpadu separácia)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Zriadenie pracoviska (zábrany zakrytie)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Zriadenie pracoviska (zábrany zakrytie)"
+    },
+    {
+      "occupation": "General Laborer",
+      "work_type": "Základná obsluha náradia (po zaškolení)",
+      "povolanie_sk": "Pomocný pracovník",
+      "typ_prace_sk": "Základná obsluha náradia (po zaškolení)"
+    },
+    {
+      "occupation": "Farmer / Breeder",
+      "work_type": "Crop production",
+      "povolanie_sk": "Poľnohospodár / Chovateľ",
+      "typ_prace_sk": "Rastlinná výroba"
+    },
+    {
+      "occupation": "Farmer / Breeder",
+      "work_type": "Machines and mechanization",
+      "povolanie_sk": "Poľnohospodár / Chovateľ",
+      "typ_prace_sk": "Stroje a mechanizácia"
+    },
+    {
+      "occupation": "Farmer / Breeder",
+      "work_type": "Animal production",
+      "povolanie_sk": "Poľnohospodár / Chovateľ",
+      "typ_prace_sk": "Živočíšna výroba"
+    },
+    {
+      "occupation": "Sales Assistant (Retail)",
+      "work_type": "Replenishment",
+      "povolanie_sk": "Predajca (retail)",
+      "typ_prace_sk": "Doplňovanie"
+    },
+    {
+      "occupation": "Sales Assistant (Retail)",
+      "work_type": "Service/Sales",
+      "povolanie_sk": "Predajca (retail)",
+      "typ_prace_sk": "Obsluha/predaj"
+    },
+    {
+      "occupation": "Sales Assistant (Retail)",
+      "work_type": "Cash desk",
+      "povolanie_sk": "Predajca (retail)",
+      "typ_prace_sk": "Pokladňa"
+    },
+    {
+      "occupation": "Salesperson / Account Manager",
+      "work_type": "Acquisition",
+      "povolanie_sk": "Predajca / Account manager",
+      "typ_prace_sk": "Akvizícia"
+    },
+    {
+      "occupation": "Salesperson / Account Manager",
+      "work_type": "CRM work",
+      "povolanie_sk": "Predajca / Account manager",
+      "typ_prace_sk": "CRM práca"
+    },
+    {
+      "occupation": "Salesperson / Account Manager",
+      "work_type": "Proposals and negotiation",
+      "povolanie_sk": "Predajca / Account manager",
+      "typ_prace_sk": "Ponuky a vyjednávanie"
+    },
+    {
+      "occupation": "Salesperson / Account Manager",
+      "work_type": "Client care",
+      "povolanie_sk": "Predajca / Account manager",
+      "typ_prace_sk": "Starostlivosť o klientov"
+    },
+    {
+      "occupation": "Translator / Interpreter",
+      "work_type": "Lokalizácia",
+      "povolanie_sk": "Prekladateľ / Tlmočník",
+      "typ_prace_sk": "Lokalizácia"
+    },
+    {
+      "occupation": "Translator / Interpreter",
+      "work_type": "Preklady",
+      "povolanie_sk": "Prekladateľ / Tlmočník",
+      "typ_prace_sk": "Preklady"
+    },
+    {
+      "occupation": "Translator / Interpreter",
+      "work_type": "Tlmočenie",
+      "povolanie_sk": "Prekladateľ / Tlmočník",
+      "typ_prace_sk": "Tlmočenie"
+    },
+    {
+      "occupation": "Interpreter / Translator",
+      "work_type": "Lokalizácia",
+      "povolanie_sk": "Prekladateľ/Tlmočník",
+      "typ_prace_sk": "Lokalizácia"
+    },
+    {
+      "occupation": "Interpreter / Translator",
+      "work_type": "Preklady",
+      "povolanie_sk": "Prekladateľ/Tlmočník",
+      "typ_prace_sk": "Preklady"
+    },
+    {
+      "occupation": "Interpreter / Translator",
+      "work_type": "Tlmočenie",
+      "povolanie_sk": "Prekladateľ/Tlmočník",
+      "typ_prace_sk": "Tlmočenie"
+    },
+    {
+      "occupation": "Product Manager",
+      "work_type": "Analytika",
+      "povolanie_sk": "Product manažér",
+      "typ_prace_sk": "Analytika"
+    },
+    {
+      "occupation": "Product Manager",
+      "work_type": "Discovery/Delivery",
+      "povolanie_sk": "Product manažér",
+      "typ_prace_sk": "Discovery/Delivery"
+    },
+    {
+      "occupation": "Product Manager",
+      "work_type": "Roadmapa",
+      "povolanie_sk": "Product manažér",
+      "typ_prace_sk": "Roadmapa"
+    },
+    {
+      "occupation": "Project Engineer",
+      "work_type": "Documentation and reporting",
+      "povolanie_sk": "Project Engineer / Projektový inžinier",
+      "typ_prace_sk": "Dokumentácia a reporty"
+    },
+    {
+      "occupation": "Project Engineer",
+      "work_type": "Coordination of technical trades",
+      "povolanie_sk": "Project Engineer / Projektový inžinier",
+      "typ_prace_sk": "Koordinácia technických profesií"
+    },
+    {
+      "occupation": "Project Engineer",
+      "work_type": "Planning and scheduling",
+      "povolanie_sk": "Project Engineer / Projektový inžinier",
+      "typ_prace_sk": "Plánovanie a harmonogram"
+    },
+    {
+      "occupation": "Project Engineer",
+      "work_type": "Riešenie problémov a zmeny",
+      "povolanie_sk": "Project Engineer / Projektový inžinier",
+      "typ_prace_sk": "Riešenie problémov a zmeny"
+    },
+    {
+      "occupation": "Project Manager (Office)",
+      "work_type": "Plan/Budget (Gantt, burndown)",
+      "povolanie_sk": "Project Manager / Projektový manažér (office)",
+      "typ_prace_sk": "Plán/rozpočet (Gantt, burndown)"
+    },
+    {
+      "occupation": "Project Manager (Office)",
+      "work_type": "Reporting stavu projektu",
+      "povolanie_sk": "Project Manager / Projektový manažér (office)",
+      "typ_prace_sk": "Reportovanie stavu projektu"
+    },
+    {
+      "occupation": "Project Manager (Office)",
+      "work_type": "Risks and mitigations",
+      "povolanie_sk": "Project Manager / Projektový manažér (office)",
+      "typ_prace_sk": "Riziká a mitigácie"
+    },
+    {
+      "occupation": "Project Manager (Office)",
+      "work_type": "Stakeholder manažment",
+      "povolanie_sk": "Project Manager / Projektový manažér (office)",
+      "typ_prace_sk": "Stakeholder manažment"
+    },
+    {
+      "occupation": "Project Manager",
+      "work_type": "Plan/Budget",
+      "povolanie_sk": "Projektový manažér",
+      "typ_prace_sk": "Plán/rozpočet"
+    },
+    {
+      "occupation": "Project Manager",
+      "work_type": "Risks",
+      "povolanie_sk": "Projektový manažér",
+      "typ_prace_sk": "Riziká"
+    },
+    {
+      "occupation": "Project Manager",
+      "work_type": "Stakeholder manažment",
+      "povolanie_sk": "Projektový manažér",
+      "typ_prace_sk": "Stakeholder manažment"
+    },
+    {
+      "occupation": "Receptionist / Front Desk",
+      "work_type": "Office administration",
+      "povolanie_sk": "Recepčná / Front desk",
+      "typ_prace_sk": "Agenda kancelárie"
+    },
+    {
+      "occupation": "Receptionist / Front Desk",
+      "work_type": "Visitor reception",
+      "povolanie_sk": "Recepčná / Front desk",
+      "typ_prace_sk": "Príjem návštev"
+    },
+    {
+      "occupation": "Receptionist / Front Desk",
+      "work_type": "Phone/email communication",
+      "povolanie_sk": "Recepčná / Front desk",
+      "typ_prace_sk": "Telefón/e‑mail komunikácia"
+    },
+    {
+      "occupation": "Receptionist",
+      "work_type": "Check-in/out",
+      "povolanie_sk": "Recepčný",
+      "typ_prace_sk": "Check-in/out"
+    },
+    {
+      "occupation": "Receptionist",
+      "work_type": "Communication",
+      "povolanie_sk": "Recepčný",
+      "typ_prace_sk": "Komunikácia"
+    },
+    {
+      "occupation": "Receptionist",
+      "work_type": "Reservations",
+      "povolanie_sk": "Recepčný",
+      "typ_prace_sk": "Rezervácie"
+    },
+    {
+      "occupation": "Sales Representative",
+      "work_type": "Acquisition and pipeline",
+      "povolanie_sk": "Sales Representative / Obchodný zástupca",
+      "typ_prace_sk": "Akvizícia a pipeline"
+    },
+    {
+      "occupation": "Sales Representative",
+      "work_type": "CRM a reporting",
+      "povolanie_sk": "Sales Representative / Obchodný zástupca",
+      "typ_prace_sk": "CRM a reporting"
+    },
+    {
+      "occupation": "Sales Representative",
+      "work_type": "Obchodné rokovania",
+      "povolanie_sk": "Sales Representative / Obchodný zástupca",
+      "typ_prace_sk": "Obchodné rokovania"
+    },
+    {
+      "occupation": "Sales Representative",
+      "work_type": "Péče o zákazníka",
+      "povolanie_sk": "Sales Representative / Obchodný zástupca",
+      "typ_prace_sk": "Péče o zákazníka"
+    },
+    {
+      "occupation": "Orderly / Hospital Porter",
+      "work_type": "Materiál/logistika",
+      "povolanie_sk": "Sanitár",
+      "typ_prace_sk": "Materiál/logistika"
+    },
+    {
+      "occupation": "Orderly / Hospital Porter",
+      "work_type": "Podpora oddelenia",
+      "povolanie_sk": "Sanitár",
+      "typ_prace_sk": "Podpora oddelenia"
+    },
+    {
+      "occupation": "Orderly / Hospital Porter",
+      "work_type": "Prevoz pacientov",
+      "povolanie_sk": "Sanitár",
+      "typ_prace_sk": "Prevoz pacientov"
+    },
+    {
+      "occupation": "Senior Accountant",
+      "work_type": "DPH/Dane",
+      "povolanie_sk": "Senior účtovník",
+      "typ_prace_sk": "DPH/Dane"
+    },
+    {
+      "occupation": "Senior Accountant",
+      "work_type": "Mesačné uzávierky",
+      "povolanie_sk": "Senior účtovník",
+      "typ_prace_sk": "Mesačné uzávierky"
+    },
+    {
+      "occupation": "Senior Accountant",
+      "work_type": "Reporting",
+      "povolanie_sk": "Senior účtovník",
+      "typ_prace_sk": "Reporting"
+    },
+    {
+      "occupation": "Warehouse Operative",
+      "work_type": "Stocktaking",
+      "povolanie_sk": "Skladník",
+      "typ_prace_sk": "Inventúra"
+    },
+    {
+      "occupation": "Warehouse Operative",
+      "work_type": "Inbound/Outbound",
+      "povolanie_sk": "Skladník",
+      "typ_prace_sk": "Príjem/výdaj"
+    },
+    {
+      "occupation": "Warehouse Operative",
+      "work_type": "Scanners",
+      "povolanie_sk": "Skladník",
+      "typ_prace_sk": "Skenery"
+    },
+    {
+      "occupation": "Warehouse / Logistics Operative",
+      "work_type": "Packing/Labelling",
+      "povolanie_sk": "Skladník / Logistika",
+      "typ_prace_sk": "Balenie/Etiketovanie"
+    },
+    {
+      "occupation": "Warehouse / Logistics Operative",
+      "work_type": "Stocktakes",
+      "povolanie_sk": "Skladník / Logistika",
+      "typ_prace_sk": "Inventúry"
+    },
+    {
+      "occupation": "Warehouse / Logistics Operative",
+      "work_type": "Work with scanner",
+      "povolanie_sk": "Skladník / Logistika",
+      "typ_prace_sk": "Práca so skenerom"
+    },
+    {
+      "occupation": "Warehouse / Logistics Operative",
+      "work_type": "Inbound/Outbound",
+      "povolanie_sk": "Skladník / Logistika",
+      "typ_prace_sk": "Príjem/Výdaj"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Manipulácia s tabuľami skla",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Manipulácia s tabuľami skla"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Measurement and preparation otvorov",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Meranie a príprava otvorov"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Montáž hliníkových systémov (ALU fasády)",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Montáž hliníkových systémov (ALU fasády)"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Osadzovanie parapetov a doplnkov",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Osadzovanie parapetov a doplnkov"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Servis a nastavenie kovania",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Servis a nastavenie kovania"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Sealing and caulking details",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Tesnenie a tmelenie detailov"
+    },
+    {
+      "occupation": "Glazier / Facade Installer (Aluminium)",
+      "work_type": "Glazing windows and facades",
+      "povolanie_sk": "Sklenár / Fasádnik (hliník/ALU)",
+      "typ_prace_sk": "Zasklievanie okien a fasád"
+    },
+    {
+      "occupation": "Social Media Manager",
+      "work_type": "Ads a reporting",
+      "povolanie_sk": "Social Media Manager",
+      "typ_prace_sk": "Ads a reporting"
+    },
+    {
+      "occupation": "Social Media Manager",
+      "work_type": "Content plán",
+      "povolanie_sk": "Social Media Manager",
+      "typ_prace_sk": "Content plán"
+    },
+    {
+      "occupation": "Social Media Manager",
+      "work_type": "Komunita a moderácia",
+      "povolanie_sk": "Social Media Manager",
+      "typ_prace_sk": "Komunita a moderácia"
+    },
+    {
+      "occupation": "Social Media Manager",
+      "work_type": "Spolupráca s influencermi",
+      "povolanie_sk": "Social Media Manager",
+      "typ_prace_sk": "Spolupráca s influencermi"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "Backend (Java/.NET/Node/Python)",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "Backend (Java/.NET/Node/Python)"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "Data/ML",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "Data/ML"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "DevOps/Cloud",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "DevOps/Cloud"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "Frontend (React/Angular/Vue)",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "Frontend (React/Angular/Vue)"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "Full‑stack",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "Full‑stack"
+    },
+    {
+      "occupation": "Software Engineer",
+      "work_type": "Mobil (Android/iOS/Flutter)",
+      "povolanie_sk": "Softvér / Vývojár",
+      "typ_prace_sk": "Mobil (Android/iOS/Flutter)"
+    },
+    {
+      "occupation": "Software Developer",
+      "work_type": "API (REST) a JSON",
+      "povolanie_sk": "Software Developer / Softvérový vývojár",
+      "typ_prace_sk": "API (REST) a JSON"
+    },
+    {
+      "occupation": "Software Developer",
+      "work_type": "Git workflow a PR review",
+      "povolanie_sk": "Software Developer / Softvérový vývojár",
+      "typ_prace_sk": "Git workflow a PR review"
+    },
+    {
+      "occupation": "Software Developer",
+      "work_type": "SQL základy a migrácie",
+      "povolanie_sk": "Software Developer / Softvérový vývojár",
+      "typ_prace_sk": "SQL základy a migrácie"
+    },
+    {
+      "occupation": "Software Developer",
+      "work_type": "Základy testovania a CI",
+      "povolanie_sk": "Software Developer / Softvérový vývojár",
+      "typ_prace_sk": "Základy testovania a CI"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Dohľad nad BOZP a kvalitou",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Dohľad nad BOZP a kvalitou"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Communication witho subdodávateľmi",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Komunikácia so subdodávateľmi"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Kontrola výkazov/výmer",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Kontrola výkazov/výmer"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Coordination stavby (HMG rozpočet)",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Koordinácia stavby (HMG rozpočet)"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Preberacie konania a odovzdanie",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Preberacie konania a odovzdanie"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Riešenie kolízií a zmien",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Riešenie kolízií a zmien"
+    },
+    {
+      "occupation": "Site Manager / Project Manager (Construction)",
+      "work_type": "Zápisy do stavebného denníka",
+      "povolanie_sk": "Stavbyvedúci / Projektový manažér (stavby)",
+      "typ_prace_sk": "Zápisy do stavebného denníka"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "CNC nábytkárstvo (formátovačka olepovačka CNC vŕtanie)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "CNC nábytkárstvo (formátovačka olepovačka CNC vŕtanie)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Interiérové prvky (dvere zárubne obklady parapety)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Interiérové prvky (dvere zárubne obklady parapety)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Kovanie a mechanizmy (Blum/Häfele/Hettich)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Kovanie a mechanizmy (Blum/Häfele/Hettich)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Montáže u zákazníka (osadenie kotvenie dilatácie)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Montáže u zákazníka (osadenie kotvenie dilatácie)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Okna a dvere (tesnenia kovanie)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Okna a dvere (tesnenia kovanie)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Opravy a servis (závesy vedenia)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Opravy a servis (závesy vedenia)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Povrchové úpravy (lakovanie morenie olejovanie)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Povrchové úpravy (lakovanie morenie olejovanie)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Výroba nábytku (lamino/MDF/masív)",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Výroba nábytku (lamino/MDF/masív)"
+    },
+    {
+      "occupation": "Stolár",
+      "work_type": "Reading drawings a kusovníkov",
+      "povolanie_sk": "Stolár",
+      "typ_prace_sk": "Čítanie výkresov a kusovníkov"
+    },
+    {
+      "occupation": "Manager",
+      "work_type": "Plán smien",
+      "povolanie_sk": "Store manažér",
+      "typ_prace_sk": "Plán smien"
+    },
+    {
+      "occupation": "Manager",
+      "work_type": "Tovar/logistika",
+      "povolanie_sk": "Store manažér",
+      "typ_prace_sk": "Tovar/logistika"
+    },
+    {
+      "occupation": "Manager",
+      "work_type": "Vedenie predajne",
+      "povolanie_sk": "Store manažér",
+      "typ_prace_sk": "Vedenie predajne"
+    },
+    {
+      "occupation": "System Administrator",
+      "work_type": "AD/Identity a oprávnenia",
+      "povolanie_sk": "System Administrator / Správca systému",
+      "typ_prace_sk": "AD/Identity a oprávnenia"
+    },
+    {
+      "occupation": "System Administrator",
+      "work_type": "Monitoring/Backup postupy",
+      "povolanie_sk": "System Administrator / Správca systému",
+      "typ_prace_sk": "Monitoring/Backup postupy"
+    },
+    {
+      "occupation": "System Administrator",
+      "work_type": "Patch manažment a hardening",
+      "povolanie_sk": "System Administrator / Správca systému",
+      "typ_prace_sk": "Patch manažment a hardening"
+    },
+    {
+      "occupation": "System Administrator",
+      "work_type": "Sieťové prvky (L2/L3) - základy",
+      "povolanie_sk": "System Administrator / Správca systému",
+      "typ_prace_sk": "Sieťové prvky (L2/L3) – základy"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Akustické systémy (akustické dosky perforácie)",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Akustické systémy (akustické dosky perforácie)"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Konštrukčné detaily a dilatácie",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Konštrukčné detaily a dilatácie"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Montáž revíznych dvierok/svetiel/prvkov",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Montáž revíznych dvierok/svetiel/prvkov"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Opláštenie šikmín a podkroví",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Opláštenie šikmín a podkroví"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Požiarne systémy (dosky prestupy utesnenia)",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Požiarne systémy (dosky prestupy utesnenia)"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "SDK podhľady (zavesené/kazetové viacúrovňové)",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "SDK podhľady (zavesené/kazetové viacúrovňové)"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "SDK priečky (CW/UW 1×/2× opláštenie)",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "SDK priečky (CW/UW 1×/2× opláštenie)"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Tmelovanie Q1-Q4 (pásky rohovníky)",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Tmelovanie Q1–Q4 (pásky rohovníky)"
+    },
+    {
+      "occupation": "Sádrokartonista",
+      "work_type": "Reading drawings a kladačských plánov",
+      "povolanie_sk": "Sádrokartonista",
+      "typ_prace_sk": "Čítanie výkresov a kladačských plánov"
+    },
+    {
+      "occupation": "Teacher",
+      "work_type": "Digitálne nástroje vo výučbe",
+      "povolanie_sk": "Teacher / Učiteľ",
+      "typ_prace_sk": "Digitálne nástroje vo výučbe"
+    },
+    {
+      "occupation": "Teacher",
+      "work_type": "Hodnotenie a spätná väzba",
+      "povolanie_sk": "Teacher / Učiteľ",
+      "typ_prace_sk": "Hodnotenie a spätná väzba"
+    },
+    {
+      "occupation": "Teacher",
+      "work_type": "Práca s triedou",
+      "povolanie_sk": "Teacher / Učiteľ",
+      "typ_prace_sk": "Práca s triedou"
+    },
+    {
+      "occupation": "Teacher",
+      "work_type": "Príprava a vedenie hodiny",
+      "povolanie_sk": "Teacher / Učiteľ",
+      "typ_prace_sk": "Príprava a vedenie hodiny"
+    },
+    {
+      "occupation": "Tester",
+      "work_type": "API testy (Postman)",
+      "povolanie_sk": "Tester / QA (IT)",
+      "typ_prace_sk": "API testy (Postman)"
+    },
+    {
+      "occupation": "Tester",
+      "work_type": "Automatizácia (Selenium/Cypress)",
+      "povolanie_sk": "Tester / QA (IT)",
+      "typ_prace_sk": "Automatizácia (Selenium/Cypress)"
+    },
+    {
+      "occupation": "Tester",
+      "work_type": "Manuálne testy",
+      "povolanie_sk": "Tester / QA (IT)",
+      "typ_prace_sk": "Manuálne testy"
+    },
+    {
+      "occupation": "Tester",
+      "work_type": "Performance testy",
+      "povolanie_sk": "Tester / QA (IT)",
+      "typ_prace_sk": "Performance testy"
+    },
+    {
+      "occupation": "Tester",
+      "work_type": "Test analýza",
+      "povolanie_sk": "Tester / QA (IT)",
+      "typ_prace_sk": "Test analýza"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Debnenie (stropy/stĺpy/steny - systémové/klasické)",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Debnenie (stropy/stĺpy/steny – systémové/klasické)"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Drevené stropy a rámové konštrukcie",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Drevené stropy a rámové konštrukcie"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Impregnácie a protipožiarne nátery",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Impregnácie a protipožiarne nátery"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Krovové konštrukcie (väzníky tradičné krovy opravy)",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Krovové konštrukcie (väzníky tradičné krovy opravy)"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Montované drevostavby (CLT/KVH/BSH)",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Montované drevostavby (CLT/KVH/BSH)"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Presahy latovanie príprava podkladu pre klampiara",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Presahy latovanie príprava podkladu pre klampiara"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Schodiská a zábradlia (hrubá montáž)",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Schodiská a zábradlia (hrubá montáž)"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Service/repairs konštrukcií",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Servis/opravy konštrukcií"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Terasy prístrešky pergoly fasádne obklady",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Terasy prístrešky pergoly fasádne obklady"
+    },
+    {
+      "occupation": "Tesár",
+      "work_type": "Reading drawings výkaz reziva detaily",
+      "povolanie_sk": "Tesár",
+      "typ_prace_sk": "Čítanie výkresov výkaz reziva detaily"
+    },
+    {
+      "occupation": "Tréner",
+      "work_type": "Individuálne tréningy",
+      "povolanie_sk": "Tréner / Inštruktor",
+      "typ_prace_sk": "Individuálne tréningy"
+    },
+    {
+      "occupation": "Tréner",
+      "work_type": "Skupinové lekcie",
+      "povolanie_sk": "Tréner / Inštruktor",
+      "typ_prace_sk": "Skupinové lekcie"
+    },
+    {
+      "occupation": "Tréner",
+      "work_type": "Športové školy",
+      "povolanie_sk": "Tréner / Inštruktor",
+      "typ_prace_sk": "Športové školy"
+    },
+    {
+      "occupation": "UX/UI dizajnér",
+      "work_type": "UI knižnice",
+      "povolanie_sk": "UX/UI dizajnér",
+      "typ_prace_sk": "UI knižnice"
+    },
+    {
+      "occupation": "UX/UI dizajnér",
+      "work_type": "Výskum používateľov",
+      "povolanie_sk": "UX/UI dizajnér",
+      "typ_prace_sk": "Výskum používateľov"
+    },
+    {
+      "occupation": "UX/UI dizajnér",
+      "work_type": "Wireframy/prototypy",
+      "povolanie_sk": "UX/UI dizajnér",
+      "typ_prace_sk": "Wireframy/prototypy"
+    },
+    {
+      "occupation": "Upratovač/ka",
+      "work_type": "Denné/nočné smeny",
+      "povolanie_sk": "Upratovač/ka",
+      "typ_prace_sk": "Denné/nočné smeny"
+    },
+    {
+      "occupation": "Upratovač/ka",
+      "work_type": "Kancelárie",
+      "povolanie_sk": "Upratovač/ka",
+      "typ_prace_sk": "Kancelárie"
+    },
+    {
+      "occupation": "Upratovač/ka",
+      "work_type": "Ubytovanie",
+      "povolanie_sk": "Upratovač/ka",
+      "typ_prace_sk": "Ubytovanie"
+    },
+    {
+      "occupation": "Upratovač/ka",
+      "work_type": "Výroba",
+      "povolanie_sk": "Upratovač/ka",
+      "typ_prace_sk": "Výroba"
+    },
+    {
+      "occupation": "Učiteľ",
+      "work_type": "Jazyková výučba",
+      "povolanie_sk": "Učiteľ / Lektor",
+      "typ_prace_sk": "Jazyková výučba"
+    },
+    {
+      "occupation": "Učiteľ",
+      "work_type": "Odborné predmety",
+      "povolanie_sk": "Učiteľ / Lektor",
+      "typ_prace_sk": "Odborné predmety"
+    },
+    {
+      "occupation": "Učiteľ",
+      "work_type": "Online výučba",
+      "povolanie_sk": "Učiteľ / Lektor",
+      "typ_prace_sk": "Online výučba"
+    },
+    {
+      "occupation": "Učiteľ",
+      "work_type": "ZŠ/SŠ/VŠ",
+      "povolanie_sk": "Učiteľ / Lektor",
+      "typ_prace_sk": "ZŠ/SŠ/VŠ"
+    },
+    {
+      "occupation": "Učiteľ SŠ",
+      "work_type": "Maturitné ročníky",
+      "povolanie_sk": "Učiteľ SŠ",
+      "typ_prace_sk": "Maturitné ročníky"
+    },
+    {
+      "occupation": "Učiteľ SŠ",
+      "work_type": "Odborné predmety",
+      "povolanie_sk": "Učiteľ SŠ",
+      "typ_prace_sk": "Odborné predmety"
+    },
+    {
+      "occupation": "Učiteľ SŠ",
+      "work_type": "Všeobecné predmety",
+      "povolanie_sk": "Učiteľ SŠ",
+      "typ_prace_sk": "Všeobecné predmety"
+    },
+    {
+      "occupation": "Učiteľ VŠ",
+      "work_type": "Cvičenia",
+      "povolanie_sk": "Učiteľ VŠ",
+      "typ_prace_sk": "Cvičenia"
+    },
+    {
+      "occupation": "Učiteľ VŠ",
+      "work_type": "Prednášky",
+      "povolanie_sk": "Učiteľ VŠ",
+      "typ_prace_sk": "Prednášky"
+    },
+    {
+      "occupation": "Učiteľ VŠ",
+      "work_type": "Výskum a publikácie",
+      "povolanie_sk": "Učiteľ VŠ",
+      "typ_prace_sk": "Výskum a publikácie"
+    },
+    {
+      "occupation": "Učiteľ ZŠ",
+      "work_type": "1. stupeň",
+      "povolanie_sk": "Učiteľ ZŠ",
+      "typ_prace_sk": "1. stupeň"
+    },
+    {
+      "occupation": "Učiteľ ZŠ",
+      "work_type": "2. stupeň - predmety",
+      "povolanie_sk": "Učiteľ ZŠ",
+      "typ_prace_sk": "2. stupeň – predmety"
+    },
+    {
+      "occupation": "Učiteľ ZŠ",
+      "work_type": "Triednictvo",
+      "povolanie_sk": "Učiteľ ZŠ",
+      "typ_prace_sk": "Triednictvo"
+    },
+    {
+      "occupation": "Video maker",
+      "work_type": "Natáčanie",
+      "povolanie_sk": "Video maker / Strihač",
+      "typ_prace_sk": "Natáčanie"
+    },
+    {
+      "occupation": "Video maker",
+      "work_type": "Postprodukcia",
+      "povolanie_sk": "Video maker / Strihač",
+      "typ_prace_sk": "Postprodukcia"
+    },
+    {
+      "occupation": "Video maker",
+      "work_type": "Strih",
+      "povolanie_sk": "Video maker / Strihač",
+      "typ_prace_sk": "Strih"
+    },
+    {
+      "occupation": "Vodič B (kurier)",
+      "work_type": "Mestské rozvozy",
+      "povolanie_sk": "Vodič B (kurier)",
+      "typ_prace_sk": "Mestské rozvozy"
+    },
+    {
+      "occupation": "Vodič B (kurier)",
+      "work_type": "Zákazníci",
+      "povolanie_sk": "Vodič B (kurier)",
+      "typ_prace_sk": "Zákazníci"
+    },
+    {
+      "occupation": "Vodič B (kurier)",
+      "work_type": "Základy údržby",
+      "povolanie_sk": "Vodič B (kurier)",
+      "typ_prace_sk": "Základy údržby"
+    },
+    {
+      "occupation": "Vodič B (kurier/doručovanie)",
+      "work_type": "Medzimestské",
+      "povolanie_sk": "Vodič B (kurier/doručovanie)",
+      "typ_prace_sk": "Medzimestské"
+    },
+    {
+      "occupation": "Vodič B (kurier/doručovanie)",
+      "work_type": "Mestské rozvozy",
+      "povolanie_sk": "Vodič B (kurier/doručovanie)",
+      "typ_prace_sk": "Mestské rozvozy"
+    },
+    {
+      "occupation": "Vodič B (kurier/doručovanie)",
+      "work_type": "Zákaznícka komunikácia",
+      "povolanie_sk": "Vodič B (kurier/doručovanie)",
+      "typ_prace_sk": "Zákaznícka komunikácia"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Dodržiavanie tacho a predpisov",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Dodržiavanie tacho a predpisov"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Doprava strojov na podvalníkoch",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Doprava strojov na podvalníkoch"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Doprava sypkých materiálov",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Doprava sypkých materiálov"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Jazdy so sklápacími vozidlami",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Jazdy so sklápacími vozidlami"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Nakládky/vykládky (spolupráca so žeriavom)",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Nakládky/vykládky (spolupráca so žeriavom)"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Obsluha hydraulickej ruky (ak je)",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Obsluha hydraulickej ruky (ak je)"
+    },
+    {
+      "occupation": "Vodič C",
+      "work_type": "Údržba vozidla a denné záznamy",
+      "povolanie_sk": "Vodič C / CE (stavebná doprava)",
+      "typ_prace_sk": "Údržba vozidla a denné záznamy"
+    },
+    {
+      "occupation": "Vodič C/CE",
+      "work_type": "Medzinárodná",
+      "povolanie_sk": "Vodič C/CE",
+      "typ_prace_sk": "Medzinárodná"
+    },
+    {
+      "occupation": "Vodič C/CE",
+      "work_type": "Nákladná doprava",
+      "povolanie_sk": "Vodič C/CE",
+      "typ_prace_sk": "Nákladná doprava"
+    },
+    {
+      "occupation": "Vodič C/CE",
+      "work_type": "Stavebná doprava",
+      "povolanie_sk": "Vodič C/CE",
+      "typ_prace_sk": "Stavebná doprava"
+    },
+    {
+      "occupation": "Vodič C/CE (nákladná doprava)",
+      "work_type": "Doprava materiálu",
+      "povolanie_sk": "Vodič C/CE (nákladná doprava)",
+      "typ_prace_sk": "Doprava materiálu"
+    },
+    {
+      "occupation": "Vodič C/CE (nákladná doprava)",
+      "work_type": "Medzinárodná doprava",
+      "povolanie_sk": "Vodič C/CE (nákladná doprava)",
+      "typ_prace_sk": "Medzinárodná doprava"
+    },
+    {
+      "occupation": "Vodič C/CE (nákladná doprava)",
+      "work_type": "Stavebná doprava",
+      "povolanie_sk": "Vodič C/CE (nákladná doprava)",
+      "typ_prace_sk": "Stavebná doprava"
+    },
+    {
+      "occupation": "Vodič D (autobusár)",
+      "work_type": "Diaľkové linky",
+      "povolanie_sk": "Vodič D (autobusár)",
+      "typ_prace_sk": "Diaľkové linky"
+    },
+    {
+      "occupation": "Vodič D (autobusár)",
+      "work_type": "MHD",
+      "povolanie_sk": "Vodič D (autobusár)",
+      "typ_prace_sk": "MHD"
+    },
+    {
+      "occupation": "Vodič D (autobusár)",
+      "work_type": "Prímestská doprava",
+      "povolanie_sk": "Vodič D (autobusár)",
+      "typ_prace_sk": "Prímestská doprava"
+    },
+    {
+      "occupation": "Warehouse Associate",
+      "work_type": "Balenie a expedícia",
+      "povolanie_sk": "Warehouse Operative / Skladník",
+      "typ_prace_sk": "Balenie a expedícia"
+    },
+    {
+      "occupation": "Warehouse Associate",
+      "work_type": "Stocktaking a 5S",
+      "povolanie_sk": "Warehouse Operative / Skladník",
+      "typ_prace_sk": "Inventúra a 5S"
+    },
+    {
+      "occupation": "Warehouse Associate",
+      "work_type": "Work with scanner/WMS",
+      "povolanie_sk": "Warehouse Operative / Skladník",
+      "typ_prace_sk": "Práca so skenerom/WMS"
+    },
+    {
+      "occupation": "Warehouse Associate",
+      "work_type": "Príjem a výdaj tovaru",
+      "povolanie_sk": "Warehouse Operative / Skladník",
+      "typ_prace_sk": "Príjem a výdaj tovaru"
+    },
+    {
+      "occupation": "Zdravotná sestra",
+      "work_type": "Outpatient care",
+      "povolanie_sk": "Zdravotná sestra",
+      "typ_prace_sk": "Ambulantná starostlivosť"
+    },
+    {
+      "occupation": "Zdravotná sestra",
+      "work_type": "Inpatient ward",
+      "povolanie_sk": "Zdravotná sestra",
+      "typ_prace_sk": "Lôžkové oddelenie"
+    },
+    {
+      "occupation": "Zdravotná sestra",
+      "work_type": "Špecializovaná starostlivosť",
+      "povolanie_sk": "Zdravotná sestra",
+      "typ_prace_sk": "Špecializovaná starostlivosť"
+    },
+    {
+      "occupation": "Zubár (stomatológ)",
+      "work_type": "Chirurgia/Endodoncia",
+      "povolanie_sk": "Zubár (stomatológ)",
+      "typ_prace_sk": "Chirurgia/Endodoncia"
+    },
+    {
+      "occupation": "Zubár (stomatológ)",
+      "work_type": "Konzervatíva",
+      "povolanie_sk": "Zubár (stomatológ)",
+      "typ_prace_sk": "Konzervatíva"
+    },
+    {
+      "occupation": "Zubár (stomatológ)",
+      "work_type": "Protetika",
+      "povolanie_sk": "Zubár (stomatológ)",
+      "typ_prace_sk": "Protetika"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "MIG/MAG (131/135/136) - oceľové konštrukcie nosníky dielce",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "MIG/MAG (131/135/136) – oceľové konštrukcie nosníky dielce"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "MMA (111) - montáže v teréne potrubia opravy",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "MMA (111) – montáže v teréne potrubia opravy"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "Montáž a zvarovanie oceľových konštrukcií (EN 1090)",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "Montáž a zvarovanie oceľových konštrukcií (EN 1090)"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "Orbitálne TIG (voliteľné)",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "Orbitálne TIG (voliteľné)"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "Príprava materiálu a zvarov (úkosy lícovanie) polohy PA-PF",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "Príprava materiálu a zvarov (úkosy lícovanie) polohy PA–PF"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "TIG (141) - nerez/uhlík/hliník tenkostenné potrubia hygienické zvarenie",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "TIG (141) – nerez/uhlík/hliník tenkostenné potrubia hygienické zvarenie"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "Zváranie potrubí - nerez/uhlíková oceľ (koreň + krycia izometrie)",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "Zváranie potrubí – nerez/uhlíková oceľ (koreň + krycia izometrie)"
+    },
+    {
+      "occupation": "Zvárač",
+      "work_type": "Reading drawings práca podľa WPS",
+      "povolanie_sk": "Zvárač",
+      "typ_prace_sk": "Čítanie výkresov práca podľa WPS"
+    },
+    {
+      "occupation": "Záhradník",
+      "work_type": "Sadové úpravy",
+      "povolanie_sk": "Záhradník / Zelené práce",
+      "typ_prace_sk": "Sadové úpravy"
+    },
+    {
+      "occupation": "Záhradník",
+      "work_type": "Závlahy",
+      "povolanie_sk": "Záhradník / Zelené práce",
+      "typ_prace_sk": "Závlahy"
+    },
+    {
+      "occupation": "Záhradník",
+      "work_type": "Údržba zelene",
+      "povolanie_sk": "Záhradník / Zelené práce",
+      "typ_prace_sk": "Údržba zelene"
+    },
+    {
+      "occupation": "Zákaznícka podpora (CS)",
+      "work_type": "Claims",
+      "povolanie_sk": "Zákaznícka podpora (CS)",
+      "typ_prace_sk": "Reklamácie"
+    },
+    {
+      "occupation": "Zákaznícka podpora (CS)",
+      "work_type": "Retention",
+      "povolanie_sk": "Zákaznícka podpora (CS)",
+      "typ_prace_sk": "Retention"
+    },
+    {
+      "occupation": "Zákaznícka podpora (CS)",
+      "work_type": "Telefonická/e‑mail/chat podpora",
+      "povolanie_sk": "Zákaznícka podpora (CS)",
+      "typ_prace_sk": "Telefonická/e‑mail/chat podpora"
+    },
+    {
+      "occupation": "Zákaznícka podpora (CS)",
+      "work_type": "Ticketing (Zendesk/Jira)",
+      "povolanie_sk": "Zákaznícka podpora (CS)",
+      "typ_prace_sk": "Ticketing (Zendesk/Jira)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Demontáže a relokácie strojov",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Demontáže a relokácie strojov"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Hydraulika a pneumatika (zapájanie výmeny tesnenia)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Hydraulika a pneumatika (zapájanie výmeny tesnenia)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Meranie a kontrola (posuvné meradlá mikrometre)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Meranie a kontrola (posuvné meradlá mikrometre)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Montáž výrobných liniek / technológií",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Montáž výrobných liniek / technológií"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Práca v teréne (servis u zákazníka)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Práca v teréne (servis u zákazníka)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Strojárenské montáže (zostavovanie dielcov lícovanie skrutkové spoje)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Strojárenské montáže (zostavovanie dielcov lícovanie skrutkové spoje)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Výroba a úprava konštrukcií (rezanie vŕtanie závity ohýbanie)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Výroba a úprava konštrukcií (rezanie vŕtanie závity ohýbanie)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Základné zváranie a brúsenie (MMA/MAG tacking opravy)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Základné zváranie a brúsenie (MMA/MAG tacking opravy)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Údržba a opravy strojov (ložiská remeňe spojky)",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Údržba a opravy strojov (ložiská remeňe spojky)"
+    },
+    {
+      "occupation": "Zámočník",
+      "work_type": "Reading drawings a dokumentácie",
+      "povolanie_sk": "Zámočník / Mechanik",
+      "typ_prace_sk": "Čítanie výkresov a dokumentácie"
+    },
+    {
+      "occupation": "Údržbár (údržba strojov)",
+      "work_type": "Náhradné diely",
+      "povolanie_sk": "Údržbár (údržba strojov)",
+      "typ_prace_sk": "Náhradné diely"
+    },
+    {
+      "occupation": "Údržbár (údržba strojov)",
+      "work_type": "Poruchy",
+      "povolanie_sk": "Údržbár (údržba strojov)",
+      "typ_prace_sk": "Poruchy"
+    },
+    {
+      "occupation": "Údržbár (údržba strojov)",
+      "work_type": "Preventívna údržba",
+      "povolanie_sk": "Údržbár (údržba strojov)",
+      "typ_prace_sk": "Preventívna údržba"
+    },
+    {
+      "occupation": "General Accountant",
+      "work_type": "DPH a uzávierky",
+      "povolanie_sk": "Účtovník",
+      "typ_prace_sk": "DPH a uzávierky"
+    },
+    {
+      "occupation": "General Accountant",
+      "work_type": "Fakturácia",
+      "povolanie_sk": "Účtovník",
+      "typ_prace_sk": "Fakturácia"
+    },
+    {
+      "occupation": "General Accountant",
+      "work_type": "Mzdy a personalistika",
+      "povolanie_sk": "Účtovník",
+      "typ_prace_sk": "Mzdy a personalistika"
+    },
+    {
+      "occupation": "General Accountant",
+      "work_type": "Podvojné účtovníctvo",
+      "povolanie_sk": "Účtovník",
+      "typ_prace_sk": "Podvojné účtovníctvo"
+    },
+    {
+      "occupation": "General Accountant",
+      "work_type": "Cash desk a banka",
+      "povolanie_sk": "Účtovník",
+      "typ_prace_sk": "Pokladňa a banka"
+    },
+    {
+      "occupation": "Junior Accountant",
+      "work_type": "Fakturácia",
+      "povolanie_sk": "Účtovník junior",
+      "typ_prace_sk": "Fakturácia"
+    },
+    {
+      "occupation": "Junior Accountant",
+      "work_type": "Cash desk/banka",
+      "povolanie_sk": "Účtovník junior",
+      "typ_prace_sk": "Pokladňa/banka"
+    },
+    {
+      "occupation": "Junior Accountant",
+      "work_type": "Primárne účtovanie",
+      "povolanie_sk": "Účtovník junior",
+      "typ_prace_sk": "Primárne účtovanie"
+    },
+    {
+      "occupation": "Waiter / Barista",
+      "work_type": "Kasa a účty",
+      "povolanie_sk": "Čašník / Barista",
+      "typ_prace_sk": "Kasa a účty"
+    },
+    {
+      "occupation": "Waiter / Barista",
+      "work_type": "Káva a nápoje",
+      "povolanie_sk": "Čašník / Barista",
+      "typ_prace_sk": "Káva a nápoje"
+    },
+    {
+      "occupation": "Waiter / Barista",
+      "work_type": "Obsluha hostí",
+      "povolanie_sk": "Čašník / Barista",
+      "typ_prace_sk": "Obsluha hostí"
+    },
+    {
+      "occupation": "Waiter / Bartender",
+      "work_type": "Kasa",
+      "povolanie_sk": "Čašník / Barman",
+      "typ_prace_sk": "Kasa"
+    },
+    {
+      "occupation": "Waiter / Bartender",
+      "work_type": "Nápoje/káva",
+      "povolanie_sk": "Čašník / Barman",
+      "typ_prace_sk": "Nápoje/káva"
+    },
+    {
+      "occupation": "Waiter / Bartender",
+      "work_type": "Obsluha",
+      "povolanie_sk": "Čašník / Barman",
+      "typ_prace_sk": "Obsluha"
+    },
+    {
+      "occupation": "Školský psychológ",
+      "work_type": "Diagnostika",
+      "povolanie_sk": "Školský psychológ",
+      "typ_prace_sk": "Diagnostika"
+    },
+    {
+      "occupation": "Školský psychológ",
+      "work_type": "Poradenstvo",
+      "povolanie_sk": "Školský psychológ",
+      "typ_prace_sk": "Poradenstvo"
+    },
+    {
+      "occupation": "Školský psychológ",
+      "work_type": "Prevencia",
+      "povolanie_sk": "Školský psychológ",
+      "typ_prace_sk": "Prevencia"
+    },
+    {
+      "occupation": "Školský riaditeľ",
+      "work_type": "Communication with rodičmi a zriaďovateľom",
+      "povolanie_sk": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace_sk": "Komunikácia s rodičmi a zriaďovateľom"
+    },
+    {
+      "occupation": "Školský riaditeľ",
+      "work_type": "Pedagogické vedenie",
+      "povolanie_sk": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace_sk": "Pedagogické vedenie"
+    },
+    {
+      "occupation": "Školský riaditeľ",
+      "work_type": "Prevádzka a rozpočet",
+      "povolanie_sk": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace_sk": "Prevádzka a rozpočet"
+    },
+    {
+      "occupation": "Školský riaditeľ",
+      "work_type": "Strategické vedenie školy",
+      "povolanie_sk": "Školský riaditeľ / Riaditeľ školy",
+      "typ_prace_sk": "Strategické vedenie školy"
+    },
+    {
+      "occupation": "Špeciálny pedagóg",
+      "work_type": "Individuálne plány",
+      "povolanie_sk": "Špeciálny pedagóg",
+      "typ_prace_sk": "Individuálne plány"
+    },
+    {
+      "occupation": "Špeciálny pedagóg",
+      "work_type": "Integrácia",
+      "povolanie_sk": "Špeciálny pedagóg",
+      "typ_prace_sk": "Integrácia"
+    },
+    {
+      "occupation": "Špeciálny pedagóg",
+      "work_type": "Poruchy učenia",
+      "povolanie_sk": "Špeciálny pedagóg",
+      "typ_prace_sk": "Poruchy učenia"
+    },
+    {
+      "occupation": "Šéfkuchár",
+      "work_type": "Foodcost",
+      "povolanie_sk": "Šéfkuchár",
+      "typ_prace_sk": "Foodcost"
+    },
+    {
+      "occupation": "Šéfkuchár",
+      "work_type": "Tovar a kvalita",
+      "povolanie_sk": "Šéfkuchár",
+      "typ_prace_sk": "Tovar a kvalita"
+    },
+    {
+      "occupation": "Šéfkuchár",
+      "work_type": "Tím/rozpisy",
+      "povolanie_sk": "Šéfkuchár",
+      "typ_prace_sk": "Tím/rozpisy"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Bagrista - rýpadlá (pásové/kolesové)",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Bagrista – rýpadlá (pásové/kolesové)"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Mini mechanizácia (minirýpadlá manipulátory)",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Mini mechanizácia (minirýpadlá manipulátory)"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Nakladač - UNC/kolové",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Nakladač – UNC/kolové"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Nakládky/vykládky materiálu",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Nakládky/vykládky materiálu"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Zhutňovacie stroje (valce/dusadlá)",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Zhutňovacie stroje (valce/dusadlá)"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Základy nivelácie a profilovania",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Základy nivelácie a profilovania"
+    },
+    {
+      "occupation": "Ťažká mechanizácia (stavebné stroje)",
+      "work_type": "Údržba a denné prehliadky",
+      "povolanie_sk": "Ťažká mechanizácia (stavebné stroje)",
+      "typ_prace_sk": "Údržba a denné prehliadky"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Betonáž a zhutňovanie (vibrátory)",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Betonáž a zhutňovanie (vibrátory)"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Debnenie a príprava betonáže",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Debnenie a príprava betonáže"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Demontáž debnenia",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Demontáž debnenia"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Ohýbanie a viazanie výstuže",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Ohýbanie a viazanie výstuže"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Opravy betónu a sanácie",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Opravy betónu a sanácie"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Ošetrovanie betónu a rezy",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Ošetrovanie betónu a rezy"
+    },
+    {
+      "occupation": "Železiar (armovač)",
+      "work_type": "Ukladanie výstuže podľa výkresov",
+      "povolanie_sk": "Železiar (armovač) / Betonár",
+      "typ_prace_sk": "Ukladanie výstuže podľa výkresov"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Autožeriavy (stabilizácia komunikácia so signalistom)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Autožeriavy (stabilizácia komunikácia so signalistom)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Denné revízie a údržba 1. stupňa (vizuál skúšky)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Denné revízie a údržba 1. stupňa (vizuál skúšky)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Logistické operácie (nakládky/vykládky)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Logistické operácie (nakládky/vykládky)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Manipulácia s nadrozmerným bremenom (traverzy vaky závesy)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Manipulácia s nadrozmerným bremenom (traverzy vaky závesy)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Mostové žeriavy (kabína/visací/rádio viazanie bremien)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Mostové žeriavy (kabína/visací/rádio viazanie bremien)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Práca podľa pokynov viazača/signalistu",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Práca podľa pokynov viazača/signalistu"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "VZV - čelný / reach truck / skladové manipulátory",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "VZV – čelný / reach truck / skladové manipulátory"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Vežové žeriavy (montáž/demontáž v tíme)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Vežové žeriavy (montáž/demontáž v tíme)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Viazanie a upevňovanie bremien (reťaze laná pásy svorky)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Viazanie a upevňovanie bremien (reťaze laná pásy svorky)"
+    },
+    {
+      "occupation": "Žeriavnik",
+      "work_type": "Záznamy o prevádzke (kniha jázd)",
+      "povolanie_sk": "Žeriavnik / VZV",
+      "typ_prace_sk": "Záznamy o prevádzke (kniha jázd)"
+    }
+  ]
+}

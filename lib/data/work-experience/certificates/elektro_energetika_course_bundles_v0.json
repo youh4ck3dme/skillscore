@@ -1,0 +1,145 @@
+{
+  "group_id": "elektro_energetika",
+  "group_name": "Elektro & Energetika",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "elektro_energetika__core_required",
+      "bundle_name": "CORE – Elektro bezpečnosť (awareness)",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "electrical_safety_basics",
+          "title": "Elektrická bezpečnosť – zásady (riziká, OOPP)",
+          "renewal_years": 2
+        },
+        {
+          "id": "lockout_tagout_core",
+          "title": "LOTO – základné princípy",
+          "renewal_years": 1
+        },
+        {
+          "id": "first_aid_electrical",
+          "title": "Prvá pomoc pri úraze el. prúdom – základy",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_electrical",
+          "title": "Požiarna ochrana pri el. zariadeniach – zásady",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "elektro_energetika__low_voltage_track",
+      "bundle_name": "Track – Nízke napätie (NN) – nelegislatívne školenia",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "installation_practices_lv",
+          "title": "Montážne postupy NN – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "testing_measurement_lv",
+          "title": "Merania & revízie – základy (awareness k normám)",
+          "renewal_years": null
+        },
+        {
+          "id": "schematics_reading",
+          "title": "Čítanie schém & dokumentácia – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "elektro_energetika__high_voltage_awareness",
+      "bundle_name": "Awareness – Vysoké napätie (VN/VVN)",
+      "type": "awareness",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "hv_safety_awareness",
+          "title": "Bezpečnosť pri VN/VVN – awareness",
+          "renewal_years": 2
+        },
+        {
+          "id": "substation_principles",
+          "title": "Základy rozvodní & prepínačov – prehľad",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "elektro_energetika__renewables_addon",
+      "bundle_name": "Addon – OZE (fotovoltika/vetrná)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "pv_design_install_basics",
+          "title": "Fotovoltika – návrh & montáž (základy)",
+          "renewal_years": null
+        },
+        {
+          "id": "pv_safety",
+          "title": "Bezpečnosť FV – DC oblúk, odpojenie, hasenie",
+          "renewal_years": null
+        },
+        {
+          "id": "grid_connection_basics",
+          "title": "Pripojenie k sieti & meranie – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "elektro_energetika__ev_sea_addon",
+      "bundle_name": "Addon – EV nabíjačky & elektromobilita",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "evse_installation_basics",
+          "title": "EVSE – montáž & konfigurácia (základy)",
+          "renewal_years": null
+        },
+        {
+          "id": "evse_safety_testing",
+          "title": "EVSE – bezpečnostné testy & protokoly – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "elektro_energetika__energy_management_addon",
+      "bundle_name": "Addon – Energetický manažment",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "iso50001_awareness",
+          "title": "ISO 50001 – awareness (EnMS)",
+          "renewal_years": 3
+        },
+        {
+          "id": "metering_monitoring_basics",
+          "title": "Meranie & monitorovanie spotrieb – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "power_quality_basics",
+          "title": "Kvalita elektriny – základy",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Legislatívne oprávnenia elektro sú národné (vyhlášky/osvedčenia). Tento balík poskytuje nelegislatívne školenia + awareness noriem.",
+    "country_overlays": []
+  }
+}

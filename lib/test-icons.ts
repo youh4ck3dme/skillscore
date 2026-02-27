@@ -1,0 +1,30 @@
+import {
+  Monitor,
+  Globe,
+  Wrench,
+  Users,
+  Calculator,
+  BookOpen,
+  Search,
+  Calendar,
+  Keyboard,
+  Brain,
+  Shield,
+  ClipboardList,
+} from "lucide-react"
+
+export const testIcons: Record<string, any> = {
+  "test-job-skills": Wrench,
+  "test-lang": Globe,
+  "test-digi": Monitor,
+  "test-sjt": Users,
+  "test-it-user": Monitor,
+  "test-lognum": Calculator,
+  "test-verbal": BookOpen,
+  "test-detail": Search,
+  "test-plan": Calendar,
+  "test-dataentry": Keyboard,
+  "test-co-sjt": Brain,
+  "test-ohs": Shield,
+  "test-worksample": ClipboardList,
+}

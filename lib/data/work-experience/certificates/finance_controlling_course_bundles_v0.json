@@ -1,0 +1,137 @@
+{
+  "group_id": "finance_controlling",
+  "group_name": "Financie & Controlling",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "finance_controlling__core_required",
+      "bundle_name": "CORE – Základy financií & controllingu",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "finance_fundamentals",
+          "title": "Finančné základy (FS, P&L, BS, CF)",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_advanced_fin",
+          "title": "Excel pre financie – pokročilé funkcie, modelovanie",
+          "renewal_years": null
+        },
+        {
+          "id": "powerbi_basics",
+          "title": "Power BI / reporting – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_finance",
+          "title": "GDPR pre finance (osobné údaje v dokladoch)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ohs_induction_office",
+          "title": "BOZP/PO – kancelárske prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "finance_controlling__fpna_recommended",
+      "bundle_name": "Doporučené – FP&A (plánovanie a analýzy)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "budget_forecast_basics",
+          "title": "Rozpočtovanie & forecast – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "variance_analysis",
+          "title": "Variance analýza & komentáre k výsledkom",
+          "renewal_years": null
+        },
+        {
+          "id": "excel_powerquery",
+          "title": "Excel Power Query / Power Pivot – dáta pre FP&A",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "finance_controlling__controlling_addon",
+      "bundle_name": "Addon – Controlling (výrobný/obchodný)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "costing_basics",
+          "title": "Kalkulácie & nákladové strediská – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "sap_co_intro",
+          "title": "SAP CO / ERP controlling – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "kpi_design",
+          "title": "Návrh KPI & dashboardov",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "finance_controlling__treasury_addon",
+      "bundle_name": "Addon – Treasury & cash management",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "treasury_basics",
+          "title": "Treasury – základy (likvidita, cash pooling)",
+          "renewal_years": null
+        },
+        {
+          "id": "fx_risk_basics",
+          "title": "Základy menového rizika & hedgingu",
+          "renewal_years": null
+        },
+        {
+          "id": "payment_security",
+          "title": "Bezpečnosť platieb & schvaľovanie",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "finance_controlling__risk_compliance_addon",
+      "bundle_name": "Addon – Risk & compliance pre finance",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "internal_controls_basics",
+          "title": "Interné kontroly & SOX/ICFR – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "fraud_awareness",
+          "title": "Prevencia podvodov & etika",
+          "renewal_years": null
+        },
+        {
+          "id": "data_privacy_finance",
+          "title": "Ochrana údajov v reportingu (minimizácia, pseudonymizácia)",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Licencie nie sú centrálne regulované; obsah prispôsob podľa ERP/reporting nástrojov. GDPR/BOZP podľa lokálnych pravidiel.",
+    "country_overlays": []
+  }
+}

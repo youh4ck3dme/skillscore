@@ -1,0 +1,165 @@
+{
+  "group_id": "it_vyvoj",
+  "group_name": "IT Vývoj",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "it_vyvoj__core_required",
+      "bundle_name": "CORE – Vývoj softvéru základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "version_control_git",
+          "title": "Git & verzionovanie – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "sdlc_basics",
+          "title": "SDLC & agile (Scrum/Kanban) – prehľad",
+          "renewal_years": null
+        },
+        {
+          "id": "secure_coding_intro",
+          "title": "Secure coding – úvod (OWASP Top 10 awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "testing_basics",
+          "title": "Testovanie – unit/integration basics",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_vyvoj__frontend_track",
+      "bundle_name": "Track – Frontend",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "html_css_js",
+          "title": "HTML/CSS/JS – moderné základy",
+          "renewal_years": null
+        },
+        {
+          "id": "framework_react_intro",
+          "title": "React (alebo ekvivalent) – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "frontend_tooling",
+          "title": "Tooling (bundlers, linting, testing) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "accessibility_basics",
+          "title": "Prístupnosť (a11y) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_vyvoj__backend_track",
+      "bundle_name": "Track – Backend",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "api_design_rest",
+          "title": "Návrh API (REST/JSON) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "databases_sql_basics",
+          "title": "Databázy & SQL – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "auth_identity_basics",
+          "title": "Autentifikácia & autorizácia – základy (OAuth/JWT)",
+          "renewal_years": null
+        },
+        {
+          "id": "ci_cd_intro",
+          "title": "CI/CD – úvod do pipelines",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_vyvoj__mobile_addon",
+      "bundle_name": "Addon – Mobilný vývoj",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "mobile_platforms_intro",
+          "title": "iOS/Android – platformové základy",
+          "renewal_years": null
+        },
+        {
+          "id": "mobile_ui_patterns",
+          "title": "UI patterns & performance – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "mobile_store_release",
+          "title": "Release & store proces – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_vyvoj__qa_testing_track",
+      "bundle_name": "Track – QA/Testovanie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "test_design_basics",
+          "title": "Test design & test cases – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "automation_intro",
+          "title": "Automatizované testovanie – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "bug_tracking_tools",
+          "title": "Bug tracking & reporting – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "it_vyvoj__devops_addon",
+      "bundle_name": "Addon – DevOps pre vývojárov",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "containers_basics",
+          "title": "Kontajnery (Docker) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "cloud_basics",
+          "title": "Cloud základy (IaaS/PaaS)",
+          "renewal_years": null
+        },
+        {
+          "id": "observability_intro",
+          "title": "Observabilita (logs/metrics/traces) – úvod",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Certifikácie sú väčšinou vendorské (cloud/frameworky). Bezpečnostné a compliance požiadavky dopĺňa skupina 'IT Infra & Bezpečnosť'.",
+    "country_overlays": []
+  }
+}

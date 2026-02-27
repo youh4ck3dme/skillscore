@@ -1,0 +1,1247 @@
+{
+  "version": "v0",
+  "generated": "2025-10-12",
+  "index": {
+    "Account manažér": {
+      "Akvizícia": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Analýza a reporting": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Komunikácia s klientmi": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Správa účtov": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Strategické plánovanie": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Administrátor": {
+      "Administratívna podpora": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Dokumentácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Organizácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Správa dát": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      }
+    },
+    "Agronóm": {
+      "Analýza pôdy": {
+        "bundle": "polnohospodarstvo_course_bundles_v0.json"
+      },
+      "Manažment plodín": {
+        "bundle": "polnohospodarstvo_course_bundles_v0.json"
+      },
+      "Poradenstvo": {
+        "bundle": "polnohospodarstvo_course_bundles_v0.json"
+      },
+      "Výskum a vývoj": {
+        "bundle": "polnohospodarstvo_course_bundles_v0.json"
+      },
+      "Zber úrody": {
+        "bundle": "polnohospodarstvo_course_bundles_v0.json"
+      }
+    },
+    "Analytik": {
+      "Analýza dát": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Business intelligence": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Štatistika": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Vizualizácia dát": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      }
+    },
+    "Architekt": {
+      "Dizajn": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Konštrukcia": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Projekcia": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Stavebný dozor": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      }
+    },
+    "Asistent": {
+      "Administratívna podpora": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Komunikácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Organizácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Správa dokumentov": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      }
+    },
+    "Audítor": {
+      "Finančný audit": {
+        "bundle": "audit_compliance_course_bundles_v0.json"
+      },
+      "Interný audit": {
+        "bundle": "audit_compliance_course_bundles_v0.json"
+      },
+      "IT audit": {
+        "bundle": "audit_compliance_course_bundles_v0.json"
+      },
+      "Kontrola kvality": {
+        "bundle": "audit_compliance_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "audit_compliance_course_bundles_v0.json"
+      }
+    },
+    "Automechanik": {
+      "Diagnostika": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Servis": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Výmena dielov": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      }
+    },
+    "Backend developer": {
+      "API vývoj": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Databázy": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Integrácie": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Serverová logika": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      }
+    },
+    "Barista": {
+      "Obsluha": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Príprava kávy": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Predaj": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Skladovanie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Zákaznícky servis": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      }
+    },
+    "Bezpečnostný technik": {
+      "Analýza rizík": {
+        "bundle": "bezpecnost_sbs_course_bundles_v0.json"
+      },
+      "Kontrola": {
+        "bundle": "bezpecnost_sbs_course_bundles_v0.json"
+      },
+      "Monitoring": {
+        "bundle": "bezpecnost_sbs_course_bundles_v0.json"
+      },
+      "Prevencia": {
+        "bundle": "bezpecnost_sbs_course_bundles_v0.json"
+      },
+      "Školenia": {
+        "bundle": "bezpecnost_sbs_course_bundles_v0.json"
+      }
+    },
+    "Business analyst": {
+      "Analýza procesov": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Dokumentácia": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Špecifikácia požiadaviek": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      }
+    },
+    "Call centrum operátor": {
+      "Inbound hovory": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Outbound hovory": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Riešenie problémov": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Telefonický predaj": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Zákaznícka podpora": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      }
+    },
+    "Čašník": {
+      "Obsluha": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Príprava nápojov": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Servírovanie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Upratovanie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Zákaznícky servis": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      }
+    },
+    "Čistič": {
+      "Čistenie": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Dezinfekcia": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Odpadové hospodárstvo": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Upratovanie": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      }
+    },
+    "Content manager": {
+      "Copywriting": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Editácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Publikovanie": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "SEO": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Správa obsahu": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Controller": {
+      "Analýza nákladov": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Controlling": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Rozpočtovanie": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      }
+    },
+    "Copywriter": {
+      "Content marketing": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Copywriting": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Editácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Kreatívne písanie": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "SEO": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Customer success manager": {
+      "Onboarding": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Podpora klientov": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Riešenie problémov": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Školenia": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      }
+    },
+    "Data analyst": {
+      "Analýza dát": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Čistenie dát": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Štatistika": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Vizualizácia": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      }
+    },
+    "Data scientist": {
+      "Analýza dát": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Machine learning": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Modelovanie": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Predikcia": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      },
+      "Výskum": {
+        "bundle": "data_bi_analytics_course_bundles_v0.json"
+      }
+    },
+    "DevOps engineer": {
+      "Automatizácia": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "CI/CD": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Infraštruktúra": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Monitoring": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Nasadenie": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      }
+    },
+    "Dizajnér": {
+      "Grafický dizajn": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Kreatíva": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "UI/UX": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Vizuálna identita": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Web dizajn": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      }
+    },
+    "Elektrikár": {
+      "Inštalácia": {
+        "bundle": "elektro_energetika_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "elektro_energetika_course_bundles_v0.json"
+      },
+      "Revízie": {
+        "bundle": "elektro_energetika_course_bundles_v0.json"
+      },
+      "Servis": {
+        "bundle": "elektro_energetika_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "elektro_energetika_course_bundles_v0.json"
+      }
+    },
+    "Event manažér": {
+      "Koordinácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Logistika": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Organizácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Realizácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Facility manager": {
+      "Koordinácia": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Správa budov": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Upratovanie": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      },
+      "Zabezpečenie": {
+        "bundle": "cistenie_facility_course_bundles_v0.json"
+      }
+    },
+    "Finančný analytik": {
+      "Analýza": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Investície": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Modelovanie": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Riziko": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      }
+    },
+    "Finančný manažér": {
+      "Controlling": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Finančné plánovanie": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Investície": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      },
+      "Rozpočtovanie": {
+        "bundle": "finance_controlling_course_bundles_v0.json"
+      }
+    },
+    "Frontend developer": {
+      "CSS/HTML": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "JavaScript": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "React/Vue": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Responzívny dizajn": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "UI implementácia": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      }
+    },
+    "Grafický dizajnér": {
+      "Branding": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Grafický dizajn": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Ilustrácia": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Tlač": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Vizuálna identita": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      }
+    },
+    "HR manažér": {
+      "Nábor": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Onboarding": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Rozvoj zamestnancov": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Školenia": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Vzťahy so zamestnancami": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      }
+    },
+    "HR špecialista": {
+      "Administrácia": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Mzdy": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Nábor": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Personalistika": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Školenia": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      }
+    },
+    "Inžinier kvality": {
+      "Audit": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Kontrola kvality": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Normy": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Procesy": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      }
+    },
+    "IT administrátor": {
+      "Administrácia": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Infraštruktúra": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Podpora": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Siete": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Servery": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      }
+    },
+    "IT support": {
+      "Helpdesk": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Inštalácia": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Riešenie problémov": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Technická podpora": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      }
+    },
+    "Kuchár": {
+      "Príprava jedál": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Skladovanie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Varenie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Výroba": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Hygiena": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      }
+    },
+    "Lektor": {
+      "Príprava materiálov": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Školenia": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Tréningy": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Vzdelávanie": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Workshopy": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      }
+    },
+    "Logistik": {
+      "Distribúcia": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Doprava": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Sklad": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Zásoby": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      }
+    },
+    "Marketingový manažér": {
+      "Digitálny marketing": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Kampane": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Stratégia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Značka": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Analýza trhu": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Marketingový špecialista": {
+      "Content marketing": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Digitálny marketing": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Kampane": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "SEO/SEM": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Sociálne siete": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Mechanik": {
+      "Diagnostika": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Servis": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Výmena dielov": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      }
+    },
+    "Murár": {
+      "Murovanie": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Omietanie": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Rekonštrukcie": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Stavba": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Výstavba": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      }
+    },
+    "Nákupca": {
+      "Dodávatelia": {
+        "bundle": "nakup_procurement_course_bundles_v0.json"
+      },
+      "Nákup": {
+        "bundle": "nakup_procurement_course_bundles_v0.json"
+      },
+      "Objednávky": {
+        "bundle": "nakup_procurement_course_bundles_v0.json"
+      },
+      "Rokovania": {
+        "bundle": "nakup_procurement_course_bundles_v0.json"
+      },
+      "Zásoby": {
+        "bundle": "nakup_procurement_course_bundles_v0.json"
+      }
+    },
+    "Ošetrovateľ": {
+      "Hygiena": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Ošetrovanie": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Podpora pacientov": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Rehabilitácia": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Starostlivosť": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      }
+    },
+    "Personalista": {
+      "Administrácia": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Mzdy": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Nábor": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Personalistika": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      },
+      "Vzťahy so zamestnancami": {
+        "bundle": "hr_mzdy_course_bundles_v0.json"
+      }
+    },
+    "Pokladník": {
+      "Evidencia": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Hotovosť": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Obsluha pokladne": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Platby": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Zákaznícky servis": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      }
+    },
+    "Právnik": {
+      "Poradenstvo": {
+        "bundle": "pravne_course_bundles_v0.json"
+      },
+      "Právna analýza": {
+        "bundle": "pravne_course_bundles_v0.json"
+      },
+      "Zmluvy": {
+        "bundle": "pravne_course_bundles_v0.json"
+      },
+      "Zastupovanie": {
+        "bundle": "pravne_course_bundles_v0.json"
+      },
+      "Compliance": {
+        "bundle": "pravne_course_bundles_v0.json"
+      }
+    },
+    "Predajca": {
+      "Akvizícia": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Komunikácia s klientmi": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Obchodovanie": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Predaj": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Zákaznícky servis": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      }
+    },
+    "Product manager": {
+      "Analýza trhu": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Produktová stratégia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Rozvoj produktu": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Špecifikácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Project manager": {
+      "Koordinácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Riadenie projektov": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Tímová spolupráca": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      }
+    },
+    "QA tester": {
+      "Automatizované testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Dokumentácia": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Manuálne testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      }
+    },
+    "Recepčný": {
+      "Check-in/out": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Komunikácia": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Rezervácie": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Správa": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      },
+      "Zákaznícky servis": {
+        "bundle": "gastro_hotely_course_bundles_v0.json"
+      }
+    },
+    "Referent": {
+      "Administratíva": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Dokumentácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Evidencia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Komunikácia": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      },
+      "Správa dokumentov": {
+        "bundle": "administrativa_course_bundles_v0.json"
+      }
+    },
+    "Sales manager": {
+      "Akvizícia": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Obchodná stratégia": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Predaj": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Riadenie tímu": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      },
+      "Rokovania": {
+        "bundle": "predaj_obchod_course_bundles_v0.json"
+      }
+    },
+    "Security engineer": {
+      "Bezpečnosť": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Incident response": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Monitoring": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Penetračné testovanie": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Zabezpečenie": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      }
+    },
+    "SEO špecialista": {
+      "Analýza": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Keyword research": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Link building": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Optimalizácia": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "SEO": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Skladník": {
+      "Expedícia": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Inventúra": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Manipulácia": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Príjem tovaru": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      },
+      "Skladovanie": {
+        "bundle": "sklad_logistika_course_bundles_v0.json"
+      }
+    },
+    "Social media manager": {
+      "Community management": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Content tvorba": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Kampane": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      },
+      "Sociálne siete": {
+        "bundle": "marketing_pr_course_bundles_v0.json"
+      }
+    },
+    "Software developer": {
+      "Backend": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Frontend": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Programovanie": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Vývoj": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      }
+    },
+    "Stavbyvedúci": {
+      "Koordinácia": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Riadenie stavby": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Stavebný dozor": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      },
+      "Výstavba": {
+        "bundle": "stavebnictvo_remesla_course_bundles_v0.json"
+      }
+    },
+    "Strojár": {
+      "Diagnostika": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Montáž": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Servis": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      }
+    },
+    "Support špecialista": {
+      "Helpdesk": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Riešenie problémov": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Technická podpora": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Ticketing": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      },
+      "Zákaznícka podpora": {
+        "bundle": "zakaznicka_podpora_course_bundles_v0.json"
+      }
+    },
+    "Systémový administrátor": {
+      "Administrácia": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Infraštruktúra": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Monitoring": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Servery": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      },
+      "Siete": {
+        "bundle": "it_infra_security_course_bundles_v0.json"
+      }
+    },
+    "Technik": {
+      "Diagnostika": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Inštalácia": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Servis": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Údržba": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      }
+    },
+    "Tester": {
+      "Automatizácia": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Dokumentácia": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Manuálne testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "kvalita_qaqc_course_bundles_v0.json"
+      }
+    },
+    "Učiteľ": {
+      "Hodnotenie": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Príprava hodín": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Trieda": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Vyučovanie": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      },
+      "Vzdelávanie": {
+        "bundle": "vzdelavanie_course_bundles_v0.json"
+      }
+    },
+    "Účtovník": {
+      "Daňové priznania": {
+        "bundle": "ucetnictvo_dane_course_bundles_v0.json"
+      },
+      "Faktúry": {
+        "bundle": "ucetnictvo_dane_course_bundles_v0.json"
+      },
+      "Mzdy": {
+        "bundle": "ucetnictvo_dane_course_bundles_v0.json"
+      },
+      "Reporting": {
+        "bundle": "ucetnictvo_dane_course_bundles_v0.json"
+      },
+      "Účtovníctvo": {
+        "bundle": "ucetnictvo_dane_course_bundles_v0.json"
+      }
+    },
+    "UX designer": {
+      "Prototypovanie": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Testovanie": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "UI dizajn": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "UX research": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      },
+      "Wireframing": {
+        "bundle": "kreativa_dizajn_course_bundles_v0.json"
+      }
+    },
+    "Vedúci výroby": {
+      "Kontrola kvality": {
+        "bundle": "vyroba_montaz_course_bundles_v0.json"
+      },
+      "Plánovanie": {
+        "bundle": "vyroba_montaz_course_bundles_v0.json"
+      },
+      "Riadenie tímu": {
+        "bundle": "vyroba_montaz_course_bundles_v0.json"
+      },
+      "Výroba": {
+        "bundle": "vyroba_montaz_course_bundles_v0.json"
+      },
+      "Optimalizácia": {
+        "bundle": "vyroba_montaz_course_bundles_v0.json"
+      }
+    },
+    "Vodič": {
+      "Distribúcia": {
+        "bundle": "doprava_vodici_course_bundles_v0.json"
+      },
+      "Doprava": {
+        "bundle": "doprava_vodici_course_bundles_v0.json"
+      },
+      "Logistika": {
+        "bundle": "doprava_vodici_course_bundles_v0.json"
+      },
+      "Nákladná doprava": {
+        "bundle": "doprava_vodici_course_bundles_v0.json"
+      },
+      "Osobná doprava": {
+        "bundle": "doprava_vodici_course_bundles_v0.json"
+      }
+    },
+    "Web developer": {
+      "Backend": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Frontend": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Full-stack": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Programovanie": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      },
+      "Web vývoj": {
+        "bundle": "it_vyvoj_course_bundles_v0.json"
+      }
+    },
+    "Zdravotná sestra": {
+      "Administratíva": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Ošetrovanie": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Podpora pacientov": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Starostlivosť": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      },
+      "Zdravotná starostlivosť": {
+        "bundle": "zdravotnictvo_social_course_bundles_v0.json"
+      }
+    },
+    "Zvárač": {
+      "Kontrola zvarov": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Montáž": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Opravy": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Príprava materiálu": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      },
+      "Zváranie": {
+        "bundle": "strojarenstvo_udrzba_course_bundles_v0.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "job_families": {
+    "logistika": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": ["lognum-basic"],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+            "supported_languages": ["en", "de", "es", "fr", "it", "nl"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "powerpoint", "outlook", "gdocs", "gsheets"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "office": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": ["lognum-basic"],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+            "supported_languages": ["en", "de", "es", "fr", "it", "nl"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "powerpoint", "outlook", "gdocs", "gsheets", "teams", "zoom"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "retail_prevadzka": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+            "supported_languages": ["en", "de", "es", "fr", "it", "nl"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "outlook"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "vyroba": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": ["lognum-basic"],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2"],
+            "supported_languages": ["en", "de"]
+          }
+        ],
+        "it_skills": []
+      },
+      "always_available": ["bozp"]
+    },
+    "zdravotnictvo": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1"],
+            "supported_languages": ["en", "de"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "outlook"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "horeca": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2"],
+            "supported_languages": ["en", "de"]
+          }
+        ],
+        "it_skills": []
+      },
+      "always_available": ["bozp"]
+    },
+    "financna_admin": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": ["lognum-basic"],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+            "supported_languages": ["en", "de", "es", "fr", "it", "nl"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "powerpoint", "outlook", "gdocs", "gsheets"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "udrzba": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2"],
+            "supported_languages": ["en", "de"]
+          }
+        ],
+        "it_skills": []
+      },
+      "always_available": ["bozp"]
+    },
+    "klientska_podpora": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2", "c1", "c2"],
+            "supported_languages": ["en", "de", "es", "fr", "it", "nl"]
+          }
+        ],
+        "it_skills": [
+          {
+            "slug": "it-user",
+            "tools": ["word", "excel", "outlook", "teams", "zoom"]
+          }
+        ]
+      },
+      "always_available": ["bozp"]
+    },
+    "stavebnictvo": {
+      "basic": ["digital-literacy", "sjt-basic"],
+      "optional": [],
+      "cv_dependent": {
+        "languages": [
+          {
+            "slug": "lang",
+            "levels": ["a1", "a2", "b1", "b2"],
+            "supported_languages": ["en", "de"]
+          }
+        ],
+        "it_skills": []
+      },
+      "always_available": ["bozp"]
+    }
+  },
+  "profession_to_job_family": {
+    "vodič": "logistika",
+    "vodic": "logistika",
+    "driver": "logistika",
+    "kuriér": "logistika",
+    "kurier": "logistika",
+    "courier": "logistika",
+    "skladník": "logistika",
+    "skladnik": "logistika",
+    "warehouse": "logistika",
+    "warehouse worker": "logistika",
+    "logistik": "logistika",
+    "logistician": "logistika",
+    "dopravca": "logistika",
+    "dopravce": "logistika",
+    "transporter": "logistika",
+    "účtovník": "financna_admin",
+    "uctovnik": "financna_admin",
+    "accountant": "financna_admin",
+    "bookkeeper": "financna_admin",
+    "auditor": "financna_admin",
+    "finančný": "financna_admin",
+    "financny": "financna_admin",
+    "financial": "financna_admin",
+    "asistent": "office",
+    "assistant": "office",
+    "sekretár": "office",
+    "sekretar": "office",
+    "secretary": "office",
+    "administrátor": "office",
+    "administrator": "office",
+    "admin": "office",
+    "office": "office",
+    "kancelária": "office",
+    "kancelaria": "office",
+    "recepčný": "office",
+    "recepčná": "office",
+    "receptionist": "office",
+    "predavač": "retail_prevadzka",
+    "predavac": "retail_prevadzka",
+    "sales": "retail_prevadzka",
+    "seller": "retail_prevadzka",
+    "pokladník": "retail_prevadzka",
+    "pokladnik": "retail_prevadzka",
+    "cashier": "retail_prevadzka",
+    "obchodník": "retail_prevadzka",
+    "obchodnik": "retail_prevadzka",
+    "merchant": "retail_prevadzka",
+    "retail": "retail_prevadzka",
+    "predajca": "retail_prevadzka",
+    "vedúci predajne": "retail_prevadzka",
+    "store manager": "retail_prevadzka",
+    "čašník": "horeca",
+    "casnik": "horeca",
+    "waiter": "horeca",
+    "waitress": "horeca",
+    "servírka": "horeca",
+    "servirka": "horeca",
+    "kuchár": "horeca",
+    "kuchar": "horeca",
+    "cook": "horeca",
+    "chef": "horeca",
+    "barman": "horeca",
+    "bartender": "horeca",
+    "hostess": "horeca",
+    "gastro": "horeca",
+    "reštaurácia": "horeca",
+    "restauracia": "horeca",
+    "restaurant": "horeca",
+    "opatrovateľ": "zdravotnictvo",
+    "opatrovatel": "zdravotnictvo",
+    "care": "zdravotnictvo",
+    "caregiver": "zdravotnictvo",
+    "care assistant": "zdravotnictvo",
+    "sestra": "zdravotnictvo",
+    "nurse": "zdravotnictvo",
+    "zdravotník": "zdravotnictvo",
+    "zdravotnik": "zdravotnictvo",
+    "medic": "zdravotnictvo",
+    "healthcare": "zdravotnictvo",
+    "lekár": "zdravotnictvo",
+    "lekar": "zdravotnictvo",
+    "doctor": "zdravotnictvo",
+    "fyzioterapeut": "zdravotnictvo",
+    "physiotherapist": "zdravotnictvo",
+    "murár": "stavebnictvo",
+    "murar": "stavebnictvo",
+    "mason": "stavebnictvo",
+    "stavbár": "stavebnictvo",
+    "stavbar": "stavebnictvo",
+    "builder": "stavebnictvo",
+    "construction": "stavebnictvo",
+    "stavba": "stavebnictvo",
+    "elektrikár": "stavebnictvo",
+    "elektrikar": "stavebnictvo",
+    "electrician": "stavebnictvo",
+    "inštalatér": "stavebnictvo",
+    "instalater": "stavebnictvo",
+    "plumber": "stavebnictvo",
+    "tesár": "stavebnictvo",
+    "tesar": "stavebnictvo",
+    "carpenter": "stavebnictvo",
+    "architekt": "stavebnictvo",
+    "architect": "stavebnictvo",
+    "sádrokartonista": "stavebnictvo",
+    "sadrokartonista": "stavebnictvo",
+    "drywall installer": "stavebnictvo",
+    "operátor": "vyroba",
+    "operator": "vyroba",
+    "montér": "vyroba",
+    "monter": "vyroba",
+    "assembler": "vyroba",
+    "výrobca": "vyroba",
+    "vyrobca": "vyroba",
+    "manufacturer": "vyroba",
+    "production": "vyroba",
+    "výroba": "vyroba",
+    "vyroba": "vyroba",
+    "robotník": "vyroba",
+    "robotnik": "vyroba",
+    "worker": "vyroba",
+    "technik": "udrzba",
+    "technician": "udrzba",
+    "údržbár": "udrzba",
+    "udrzbar": "udrzba",
+    "maintenance": "udrzba",
+    "mechanik": "udrzba",
+    "mechanic": "udrzba",
+    "servisný": "udrzba",
+    "servisny": "udrzba",
+    "service": "udrzba",
+    "zákaznícky": "klientska_podpora",
+    "zakaznicky": "klientska_podpora",
+    "customer": "klientska_podpora",
+    "support": "klientska_podpora",
+    "podpora": "klientska_podpora",
+    "call center": "klientska_podpora",
+    "callcenter": "klientska_podpora",
+    "helpdesk": "klientska_podpora",
+    "klientsky": "klientska_podpora",
+    "client": "klientska_podpora",
+    "programátor": "office",
+    "programator": "office",
+    "programmer": "office",
+    "developer": "office",
+    "vývojár": "office",
+    "vyvojar": "office",
+    "it": "office",
+    "marketing": "office",
+    "marketingový": "office",
+    "marketingovy": "office",
+    "marketing specialist": "office",
+    "hr": "office",
+    "personálny": "office",
+    "personalny": "office",
+    "human resources": "office"
+  }
+}

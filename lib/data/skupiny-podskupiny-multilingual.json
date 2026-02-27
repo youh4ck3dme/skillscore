@@ -1,0 +1,18 @@
+{
+  "professions": [
+    {
+      "sk": {
+        "occupation": "Account manažér",
+        "work_type": "Akvizícia"
+      },
+      "en": {
+        "occupation": "Account Manager",
+        "work_type": "Acquisition"
+      },
+      "de": {
+        "occupation": "Account Manager/in",
+        "work_type": "Akvizícia"
+      }
+    }
+  ]
+}

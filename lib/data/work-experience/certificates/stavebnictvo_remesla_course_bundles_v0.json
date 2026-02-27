@@ -1,0 +1,150 @@
+{
+  "group_id": "stavebnictvo_remesla",
+  "group_name": "Stavebníctvo & Remeslá",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "stavebnictvo_remesla__core_required",
+      "bundle_name": "CORE – Stavebná bezpečnosť",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ohs_construction_induction",
+          "title": "BOZP na stavbe (vstupné) – riziká, OOPP, práce vo výškach",
+          "renewal_years": 1
+        },
+        {
+          "id": "fire_safety_construction",
+          "title": "Požiarna ochrana – stavba",
+          "renewal_years": 2
+        },
+        {
+          "id": "first_aid_construction",
+          "title": "Prvá pomoc – stavba",
+          "renewal_years": 2
+        },
+        {
+          "id": "work_at_heights_basics",
+          "title": "Práce vo výškach – základné školenie",
+          "renewal_years": 1
+        }
+      ]
+    },
+    {
+      "bundle_id": "stavebnictvo_remesla__masonry_painting_track",
+      "bundle_name": "Track – Murár / Obkladač / Maliar",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "materials_handling_basics",
+          "title": "Materiály & miešanie – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "surface_prep_finishing",
+          "title": "Príprava podkladov & povrchové úpravy – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "scaffolding_awareness",
+          "title": "Lešenie – awareness & bezpečnosť",
+          "renewal_years": 1
+        }
+      ]
+    },
+    {
+      "bundle_id": "stavebnictvo_remesla__carpentry_joinery_track",
+      "bundle_name": "Track – Tesár / Stolár",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "wood_tools_safety",
+          "title": "Drevoobrábacie stroje & ručné náradie – bezpečnosť",
+          "renewal_years": 1
+        },
+        {
+          "id": "reading_project_docs",
+          "title": "Čítanie výkresov & rozmerovanie – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "finishing_installation",
+          "title": "Montáže & povrchové úpravy – zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "stavebnictvo_remesla__plumbing_hvac_track",
+      "bundle_name": "Track – Inštalatér / Vykurovanie / HVAC",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "plumbing_basics",
+          "title": "Vodoinštalácia & kanalizácia – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "heating_basics",
+          "title": "Vykurovanie & plyn – základy (awareness k národným oprávneniam)",
+          "renewal_years": null
+        },
+        {
+          "id": "refrigerants_handling_awareness",
+          "title": "Chladiace médiá & F-plyny – awareness (EÚ nariadenia)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "stavebnictvo_remesla__electrical_work_awareness",
+      "bundle_name": "Awareness – Elektro práce (mimo rozsahu vyhlášok)",
+      "type": "awareness",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "electrical_safety_non_electricians",
+          "title": "Elektrická bezpečnosť pre neelektrikárov – awareness",
+          "renewal_years": 2
+        },
+        {
+          "id": "lockout_tagout_intro",
+          "title": "LOTO – úvod (pri zásahoch do zariadení)",
+          "renewal_years": 1
+        }
+      ]
+    },
+    {
+      "bundle_id": "stavebnictvo_remesla__machinery_tools_addon",
+      "bundle_name": "Addon – Mechanizmy & náradie",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "chainsaw_awareness",
+          "title": "Motorová píla – awareness & bezpečnosť",
+          "renewal_years": 2
+        },
+        {
+          "id": "small_excavators_loaders_local",
+          "title": "Malé rýpadlá/nakladače – národné oprávnenia (awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "powertools_safety",
+          "title": "Elektrické ručné náradie – bezpečnosť",
+          "renewal_years": 1
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Elektro a plyn sú zvyčajne národne licencované (vyhlášky/osvedčenia). Tento balík je pre všeobecné stavebné remeslá; elektro/plyn rieši samostatná skupina 'Elektro & Energetika'.",
+    "country_overlays": []
+  }
+}

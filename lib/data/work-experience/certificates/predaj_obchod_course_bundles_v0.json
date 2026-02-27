@@ -1,0 +1,132 @@
+{
+  "group_id": "predaj_obchod",
+  "group_name": "Predaj & Obchod",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "predaj_obchod__core_required",
+      "bundle_name": "CORE – Základy predaja",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "sales_fundamentals",
+          "title": "Základy predaja (proces, pipeline, etika)",
+          "renewal_years": null
+        },
+        {
+          "id": "crm_basics",
+          "title": "CRM – základy (zápisy, hygiene dát, GDPR v CRM)",
+          "renewal_years": 2
+        },
+        {
+          "id": "communication_basics",
+          "title": "Komunikácia & obchodná etiketa",
+          "renewal_years": null
+        },
+        {
+          "id": "ohs_induction_office",
+          "title": "BOZP/PO – kancelárske/terénne prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "predaj_obchod__field_sales_track",
+      "bundle_name": "Track – Terénny predaj / account",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "prospecting_outreach",
+          "title": "Prospecting & outreach – techniky",
+          "renewal_years": null
+        },
+        {
+          "id": "negotiation_skills",
+          "title": "Vyjednávanie & uzatváranie",
+          "renewal_years": null
+        },
+        {
+          "id": "key_account_mgmt",
+          "title": "Key Account Management – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "predaj_obchod__retail_track",
+      "bundle_name": "Track – Retail predaj (obchod)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "retail_operations",
+          "title": "Retail operatíva & merchandising – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "pos_systems_basics",
+          "title": "POS systémy & inventúry – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "customer_service_foundations",
+          "title": "Zákaznícka starostlivosť – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "predaj_obchod__inside_sales_addon",
+      "bundle_name": "Addon – Inside sales / SDR",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "cold_outreach",
+          "title": "Cold calling / e-mailing – techniky",
+          "renewal_years": null
+        },
+        {
+          "id": "objection_handling",
+          "title": "Práca s námietkami",
+          "renewal_years": null
+        },
+        {
+          "id": "kpis_reporting",
+          "title": "KPI & reporting v predaji (pipeline, conversion)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "predaj_obchod__solution_sales_addon",
+      "bundle_name": "Addon – Solution/consultative sales (B2B)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "discovery_methods",
+          "title": "Discovery & potreby zákazníka",
+          "renewal_years": null
+        },
+        {
+          "id": "proposal_pricing",
+          "title": "Návrh riešení & pricing – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "sales_legal_basics",
+          "title": "Základy zmluvných podmienok & GDPR v predaji",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "GDPR pre CRM/marketing a BOZP/PO podľa lokálnych pravidiel. Retail môže mať lokálne požiadavky (hygiena potravín, alkohol/tabak).",
+    "country_overlays": []
+  }
+}

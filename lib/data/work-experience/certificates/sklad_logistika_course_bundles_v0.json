@@ -1,0 +1,155 @@
+{
+  "group_id": "sklad_logistika",
+  "group_name": "Sklad & Logistika",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "sklad_logistika__core_required",
+      "bundle_name": "CORE – Sklad & logistika základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ohs_warehouse_induction",
+          "title": "BOZP pre sklad (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "fire_safety_warehouse",
+          "title": "Požiarna ochrana – sklad",
+          "renewal_years": 2
+        },
+        {
+          "id": "ergonomics_manual_handling",
+          "title": "Ergonómia & manipulácia s bremenami",
+          "renewal_years": 2
+        },
+        {
+          "id": "first_aid_basics",
+          "title": "Prvá pomoc – základy",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "sklad_logistika__picking_packing_track",
+      "bundle_name": "Track – Vychystávanie & balenie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "wms_scanner_basics",
+          "title": "WMS & práca so skenerom – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "packaging_standards",
+          "title": "Štandardy balenia & označovania",
+          "renewal_years": null
+        },
+        {
+          "id": "quality_checks_outbound",
+          "title": "Kontroly kvality pri expedícii – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "sklad_logistika__inventory_track",
+      "bundle_name": "Track – Skladové hospodárstvo & inventúry",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "stock_control_basics",
+          "title": "Zásoby & rotácia – základy (FIFO/FEFO)",
+          "renewal_years": null
+        },
+        {
+          "id": "cycle_counts",
+          "title": "Priebežné inventúry & rozdiely – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "wms_reporting_basics",
+          "title": "Reporting & KPI v sklade (OTIF, DIFOT) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "sklad_logistika__forklift_addon",
+      "bundle_name": "Addon – VZV / manipulácia s technikou",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "forklift_license_local",
+          "title": "Oprávnenie na obsluhu VZV (národné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "forklift_safety",
+          "title": "Bezpečná jazda & údržba VZV – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "battery_charging_safety",
+          "title": "Bezpečnosť pri nabíjaní batérií & skladovaní palív",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "sklad_logistika__dangerous_goods_addon",
+      "bundle_name": "Addon – Nebezpečný tovar (ADR 1.3)",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "adr_1_3_training",
+          "title": "ADR 1.3 – školenie pre osoby zapojené do prepravy/skladovania",
+          "renewal_years": 2
+        },
+        {
+          "id": "hazmat_storage_basics",
+          "title": "Skladovanie nebezpečných látok – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "spill_response_basics",
+          "title": "Zásahy pri úniku/rozliatí – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "sklad_logistika__dispatch_planning_addon",
+      "bundle_name": "Addon – Expedícia & plánovanie dopravy",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "transport_docs_basics",
+          "title": "Prepravné doklady & Incoterms – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "loading_securing_basics",
+          "title": "Nakládka & zabezpečenie nákladu – zásady",
+          "renewal_years": null
+        },
+        {
+          "id": "route_planning_intro",
+          "title": "Plánovanie trás & slotov – úvod",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "VZV oprávnenia sú národné. ADR 1.3 podľa Európskej dohody ADR. Pre vodičov nákladných vozidiel platí Driver CPC (rieši skupina 'Doprava & Vodiči').",
+    "country_overlays": []
+  }
+}

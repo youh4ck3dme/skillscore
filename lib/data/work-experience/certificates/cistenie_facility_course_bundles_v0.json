@@ -1,0 +1,117 @@
+{
+  "group_id": "cistenie_facility",
+  "group_name": "Upratovanie & Facility",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "cistenie_facility__core_required",
+      "bundle_name": "CORE – Upratovanie bezpečne",
+      "type": "required_orientation",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "ohs_facility_induction",
+          "title": "BOZP/PO – upratovanie a facility (vstupné)",
+          "renewal_years": 2
+        },
+        {
+          "id": "chemical_safety_clp",
+          "title": "Chemikálie & CLP – bezpečné používanie (MSDS)",
+          "renewal_years": 2
+        },
+        {
+          "id": "ergonomics_cleaning",
+          "title": "Ergonómia & manipulácia s bremenami",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "cistenie_facility__office_cleaning_track",
+      "bundle_name": "Track – Kancelárie & komerčné priestory",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "surface_cleaning_protocols",
+          "title": "Postupy čistenia povrchov & dezinfekcia – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "equipment_use_basics",
+          "title": "Používanie strojov (vysávače, podlahové stroje) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "waste_sorting_basics",
+          "title": "Triedenie odpadu & environmentálne zásady",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "cistenie_facility__industrial_cleaning_track",
+      "bundle_name": "Track – Priemyselné a technické čistenie",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "machine_area_safety",
+          "title": "Bezpečnosť pri čistení strojov & výrobných priestorov",
+          "renewal_years": null
+        },
+        {
+          "id": "lockout_tagout_awareness",
+          "title": "LOTO – awareness pri zásahoch do zariadení",
+          "renewal_years": 1
+        },
+        {
+          "id": "elevated_work_awareness",
+          "title": "Práca vo výškach – awareness",
+          "renewal_years": 1
+        }
+      ]
+    },
+    {
+      "bundle_id": "cistenie_facility__hospitality_housekeeping_addon",
+      "bundle_name": "Addon – Housekeeping (hotel)",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "room_turnover_standards",
+          "title": "Štandardy upratovania izieb & checklisty",
+          "renewal_years": null
+        },
+        {
+          "id": "laundry_basics",
+          "title": "Práčovňa & hygiena bielizne – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "cistenie_facility__hygiene_sensitive_addon",
+      "bundle_name": "Addon – Hygienicky citlivé prevádzky",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "sanitation_food_area",
+          "title": "Sanitácia v potravinárstve – zásady (HACCP awareness)",
+          "renewal_years": 2
+        },
+        {
+          "id": "healthcare_cleaning_awareness",
+          "title": "Zdravotnícke priestory – awareness (izolácie, odpady)",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Chemikálie podliehajú REACH/CLP; detailné postupy a školenia BOZP sú národné. Housekeeping dopĺňa skupina 'Gastro & Hotelierstvo'.",
+    "country_overlays": []
+  }
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="SkillScore icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="110" fill="url(#bg)"/>
+
+  <!-- Subtle inner highlight -->
+  <rect x="1" y="1" width="510" height="510" rx="110" stroke="rgba(255,255,255,0.15)" stroke-width="6"/>
+
+  <!-- Bar 1 — short -->
+  <rect x="80" y="300" width="90" height="155" rx="20" fill="white" opacity="0.6"/>
+  <!-- Bar 2 — medium -->
+  <rect x="210" y="215" width="90" height="240" rx="20" fill="white" opacity="0.8"/>
+  <!-- Bar 3 — tall -->
+  <rect x="340" y="130" width="90" height="325" rx="20" fill="white"/>
+
+  <!-- Checkmark above bar 3 -->
+  <polyline
+    points="315,120 365,172 450,70"
+    stroke="white"
+    stroke-width="36"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Trend line connecting tops of bars -->
+  <polyline
+    points="125,300 255,215 385,130"
+    stroke="rgba(255,255,255,0.3)"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-dasharray="16 10"
+  />
+</svg>

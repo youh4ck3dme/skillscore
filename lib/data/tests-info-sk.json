@@ -1,0 +1,309 @@
+{
+  "test-job-skills": {
+    "tooltip": "Pracovné zručnosti overujú vaše schopnosti v konkrétnej profesii na základe vášho CV.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Pracovné testy sú prispôsobené vašej profesii a pracovnej pozícii. Pomáhajú zamestnávateľom rýchlo posúdiť, či máte potrebné praktické zručnosti pre danú pozíciu.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Praktické znalosti špecifické pre vašu profesiu",
+      "Schopnosť riešiť reálne pracovné situácie",
+      "Technické zručnosti potrebné pre danú pozíciu",
+      "Odborné kompetencie v danej oblasti"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky testu ukazujú, ako dobre ste pripravení na konkrétnu pracovnú pozíciu a kde máte priestor na zlepšenie."
+  },
+  "test-lang": {
+    "tooltip": "Jazykové testy overujú vašu úroveň v cudzích jazykoch podľa CEFR štandardu.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Jazykové zručnosti sú kľúčové v mnohých profesiách. Test overuje vašu skutočnú úroveň jazyka a pomáha zamestnávateľom nájsť kandidátov s potrebnými jazykovými kompetenciami.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Porozumenie čítaného textu",
+      "Gramatické znalosti",
+      "Slovnú zásobu",
+      "Schopnosť komunikovať v danom jazyku"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky testu potvrdzujú vašu jazykovú úroveň podľa medzinárodného štandardu CEFR (A1-C2)."
+  },
+  "test-digi": {
+    "tooltip": "Test digitálnych zručností overuje vašu schopnosť pracovať s počítačom, internetom a digitálnymi nástrojmi.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Digitálne zručnosti sú dnes nevyhnutné v takmer každej profesii. Test preukáže vašu schopnosť efektívne pracovať s digitálnymi technológiami.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Práca s počítačom a operačným systémom",
+      "Používanie internetu a vyhľadávanie informácií",
+      "Základy kybernetickej bezpečnosti",
+      "Práca s e-mailom a online komunikáciou"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú vašu úroveň digitálnej gramotnosti a schopnosť adaptovať sa na moderné technológie."
+  },
+  "test-sjt": {
+    "tooltip": "Situačný test hodnotí vaše rozhodovanie v pracovných situáciách a interpersonálne zručnosti.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Situačný test meria vaše soft skills - ako sa rozhodujete v reálnych pracovných situáciách, ako komunikujete s kolegami a ako riešite konflikty.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Rozhodovanie v pracovných situáciách",
+      "Interpersonálne zručnosti",
+      "Riešenie konfliktov",
+      "Komunikácia s kolegami a nadriadenými"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky odhaľujú váš štýl rozhodovania, schopnosť spolupráce a prístup k riešeniu problémov."
+  },
+  "test-it-user": {
+    "tooltip": "IT používateľské testy overujú vaše znalosti konkrétnych programov a nástrojov.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Mnohé pozície vyžadujú znalosti špecifických programov (Excel, Word, PowerPoint, atď.). Test preukáže vašu praktickú zručnosť v týchto nástrojoch.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Práca s kancelárskymi programami",
+      "Znalosti špecifických softvérov",
+      "Efektívne využívanie funkcií programov",
+      "Schopnosť riešiť praktické úlohy"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú vašu úroveň v konkrétnych programoch a schopnosť efektívne ich využívať v praxi."
+  },
+  "test-lognum": {
+    "tooltip": "Logicko-numerický test meria vašu schopnosť logického myslenia a práce s číslami.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Logické a numerické myslenie je kľúčové pre analytické pozície. Test meria vašu schopnosť riešiť problémy, pracovať s dátami a robiť logické závery.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Logické myslenie a dedukciu",
+      "Prácu s číslami a dátami",
+      "Analytické schopnosti",
+      "Riešenie komplexných problémov"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky odhaľujú vašu schopnosť analytického myslenia a práce s kvalitatívnymi údajmi."
+  },
+  "test-numlog": {
+    "tooltip": "Numerická logika testuje vašu schopnosť pracovať s číslami, tabuľkami a grafmi.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Numerická logika je dôležitá pre pozície vyžadujúce prácu s dátami, finančnými informáciami alebo štatistikami.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Interpretácia grafov a tabuliek",
+      "Matematické výpočty",
+      "Práca s percentami a pomermi",
+      "Analýza číselných údajov"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú vašu schopnosť efektívne pracovať s numerickými informáciami a robiť správne závery."
+  },
+  "test-verbal": {
+    "tooltip": "Verbálne schopnosti merajú vaše porozumenie textu, slovnú zásobu a schopnosť komunikovať.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Verbálne schopnosti sú kľúčové pre pozície vyžadujúce komunikáciu, písanie alebo prácu s textami.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Porozumenie čítaného textu",
+      "Slovnú zásobu",
+      "Schopnosť vyjadrovať sa",
+      "Logické myslenie v jazyku"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky odhaľujú vašu schopnosť efektívne komunikovať a pracovať s textovými informáciami."
+  },
+  "test-detail": {
+    "tooltip": "Test pozornosti k detailom meria vašu schopnosť sústrediť sa a všímať si detaily.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Pozornosť k detailom je kritická pre pozície vyžadujúce presnosť, kontrolu kvality alebo prácu s dôležitými dokumentmi.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Schopnosť sústrediť sa",
+      "Všímanie si detailov",
+      "Presnosť pri práci",
+      "Odolnosť voči rozptyľovaniu"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú vašu schopnosť pracovať precízne a udržať pozornosť pri detailných úlohách."
+  },
+  "test-plan": {
+    "tooltip": "Test plánovania meria vašu schopnosť organizovať úlohy, prioritizovať a riadiť čas.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Plánovanie a organizácia sú kľúčové pre manažérske pozície a prácu na projektoch.",
+    "what": "Čo test zisťuje:",
+    "what_points": ["Schopnosť plánovať úlohy", "Prioritizáciu", "Time management", "Organizačné schopnosti"],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky odhaľujú vašu schopnosť efektívne organizovať prácu a riadiť čas."
+  },
+  "test-dataentry": {
+    "tooltip": "Test zadávania dát meria vašu rýchlosť a presnosť pri práci s dátami.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Rýchlosť a presnosť pri zadávaní dát je dôležitá pre administratívne pozície a prácu s databázami.",
+    "what": "Čo test zisťuje:",
+    "what_points": ["Rýchlosť písania", "Presnosť pri zadávaní", "Schopnosť pracovať s dátami", "Odolnosť voči chybám"],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú vašu efektivitu pri práci s dátami a schopnosť udržať vysokú presnosť."
+  },
+  "test-co-sjt": {
+    "tooltip": "Kognitívny situačný test kombinuje logické myslenie s rozhodovaním v pracovných situáciách.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test meria komplexné kognitívne schopnosti potrebné pre náročné pozície vyžadujúce analytické myslenie a rozhodovanie.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Kognitívne schopnosti",
+      "Rozhodovanie pod tlakom",
+      "Analytické myslenie",
+      "Riešenie komplexných situácií"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky odhaľujú vašu schopnosť kombinovať analytické myslenie s praktickým rozhodovaním."
+  },
+  "test-ohs": {
+    "tooltip": "Test BOZP overuje vaše znalosti v oblasti bezpečnosti a ochrany zdravia pri práci.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Znalosti BOZP sú povinné pre mnohé pozície a preukážu vašu zodpovednosť a pripravenosť na bezpečnú prácu.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Základné princípy BOZP",
+      "Prevencia pracovných úrazov",
+      "Používanie ochranných pracovných prostriedkov",
+      "Postupy v prípade núdze"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky potvrdzujú vašu pripravenosť pracovať bezpečne a zodpovedne."
+  },
+  "test-worksample": {
+    "tooltip": "Pracovná vzorka simuluje reálne pracovné úlohy špecifické pre danú pozíciu.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Pracovná vzorka je najlepší spôsob, ako preukázať vaše praktické schopnosti v reálnych pracovných situáciách.",
+    "what": "Čo test zisťuje:",
+    "what_points": ["Praktické zručnosti", "Schopnosť riešiť reálne úlohy", "Efektivitu práce", "Kvalitu výstupov"],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú, ako dobre zvládnete reálne pracovné úlohy a aká je kvalita vašej práce."
+  },
+  "test-it-cv-skills": {
+    "tooltip": "IT schopnosti podľa CV overujú vaše znalosti technológií, ktoré ste uviedli vo svojom životopise.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Test overuje vaše skutočné znalosti IT technológií a programovacích jazykov, ktoré ste uviedli vo svojom CV.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Znalosti programovacích jazykov",
+      "Práca s databázami",
+      "Znalosti frameworkov a knižníc",
+      "Praktické IT zručnosti"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky potvrdzujú vašu úroveň v IT technológiách a schopnosť ich prakticky využívať."
+  },
+  "ret-motivators": {
+    "tooltip": "Test motivátorov zisťuje, čo vás v práci prirodzene poháňa a aké podmienky potrebujete na to, aby ste fungovali naplno.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test pomáha pochopiť, čo človeka v práci prirodzene poháňa a aké podmienky potrebujú na to, aby fungovali naplno. Meria osobné preferencie - nie správne či nesprávne odpovede.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Vaše osobné preferencie v pracovnom prostredí",
+      "Faktory, ktoré podporujú vašu motiváciu",
+      "Oblasti, kde môže vzniknúť frustrácia",
+      "Ideálne pracovné podmienky pre váš výkon"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú, ktoré faktory podporujú motiváciu a kde môže vzniknúť frustrácia. Firmám pomáha lepšie nastaviť pracovné podmienky, manažment a komunikáciu."
+  },
+  "ret-engagement": {
+    "tooltip": "Test angažovanosti meria, ako veľmi ste vtiahnutí do práce a aký máte vzťah k úlohám či tímu.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test zisťuje, ako veľmi je človek vtiahnutý do práce, ako často ide nad rámec povinností a aký má vzťah k úlohám či tímu. Sleduje prirodzený pracovný rytmus, energiu a úroveň iniciatívy.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Mieru vášho zapojenia do práce",
+      "Prirodzený pracovný rytmus a energiu",
+      "Úroveň iniciatívy a proaktivity",
+      "Vzťah k pracovným úlohám a tímu"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky nie sú hodnotením kvality človeka, ale ukazujú, aké prostredie podporuje jeho výkon. Firmám to pomáha identifikovať oblasti, kde môžu zvýšiť angažovanosť tímu."
+  },
+  "ret-risk": {
+    "tooltip": "Test rizika odchodu meria mieru spokojnosti a stabilitu pracovného rozhodnutia.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test meria mieru spokojnosti a stabilitu pracovného rozhodnutia - teda či človek prirodzene uvažuje o zmene práce. Sleduje signály únavy, nespokojnosti alebo hľadania lepšej príležitosti.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Mieru spokojnosti s aktuálnou prácou",
+      "Stabilitu pracovného rozhodnutia",
+      "Signály únavy alebo nespokojnosti",
+      "Tendenciu hľadať lepšie príležitosti"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Nie je to predikcia budúcnosti, ale odraz momentálnej situácie. Firmám pomáha včas predchádzať odchodom talentov a lepšie pracovať s ich potrebami."
+  },
+  "ret-stress": {
+    "tooltip": "Test stresu a vyhorenia ukazuje úroveň psychického a fyzického preťaženia.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test ukazuje, aká je úroveň psychického a fyzického preťaženia a ako často človek zažíva únavu, tlak či dlhodobé vyčerpanie. Meria tendencie, nie diagnózu.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Úroveň psychického a fyzického preťaženia",
+      "Frekvenciu únavy a tlaku",
+      "Riziko dlhodobého vyčerpania",
+      "Potreby regenerácie a podpory"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky pomáhajú pochopiť, čo človeku pomáha regenerovať a kde potrebujú podporu. Firmy vďaka tomu vedia predchádzať vyhoreniu a nastavovať udržateľné tempo práce."
+  },
+  "ret-career": {
+    "tooltip": "Test kariérneho rastu zisťuje, ako jasne vnímate svoj kariérny smer a príležitosti na rast.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Test zisťuje, ako jasne človek vníma svoj kariérny smer, príležitosti na rast a rozvoj vo firme. Ukazuje, či má pracovník predstavu o cieľoch, možnostiach postupu a podpore zo strany firmy.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Jasnosť kariérneho smeru",
+      "Vnímanie príležitostí na rast",
+      "Predstavy o možnostiach postupu",
+      "Očakávania podpory zo strany firmy"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky pomáhajú firmám lepšie komunikovať kariérne cesty a kandidátom ujasniť si, čo im v práci pomáha napredovať."
+  },
+  "ret-manager": {
+    "tooltip": "Test vzťahu s manažérom zachytáva dynamiku medzi vami a vaším nadriadeným.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Test zachytáva dynamiku medzi človekom a jeho nadriadeným - najmä dôveru, podporu, jasnosť očakávaní a spôsob komunikácie. Nie je o posudzovaní manažéra, ale o vnímaní vzťahu.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Úroveň dôvery medzi vami a nadriadeným",
+      "Kvalitu podpory zo strany manažéra",
+      "Jasnosť očakávaní a komunikácie",
+      "Dynamiku pracovného vzťahu"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky pomáhajú identifikovať, čo človeku v riadení vyhovuje a kde môže vzniknúť nedorozumenie. Firmám slúži na zlepšenie leadershipu."
+  },
+  "ret-culture": {
+    "tooltip": "Test kultúrneho súladu zisťuje, ako veľmi vám sedí spôsob fungovania firmy.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Tento test zisťuje, ako veľmi človeku sedí spôsob fungovania firmy, jej hodnoty, rozhodovanie a tímová atmosféra. Nehodnotí dobrych ci zlych kandidátov - ide o kompatibilitu.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Súlad s firemnými hodnotami",
+      "Kompatibilitu so spôsobom rozhodovania",
+      "Vnímanie tímovej atmosféry",
+      "Prirodzený súlad s firemnou kultúrou"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky ukazujú, kde je prirodzený súlad a kde môže vznikať napätie. Firmám pomáha presnejšie nastavovať komunikačný a pracovný štýl."
+  },
+  "ret-communication": {
+    "tooltip": "Test komunikačnej klímy sleduje, ako bezpečne a otvorene vnímate komunikáciu v tíme.",
+    "why": "Prečo absolvovať tento test?",
+    "why_text": "Test sleduje, ako bezpečne a otvorene človek vníma komunikáciu v tíme - či sa dá pýtať otázky, priznať chybu alebo hovoriť o problémoch bez strachu. Meria úroveň psychologickej bezpečnosti.",
+    "what": "Čo test zisťuje:",
+    "what_points": [
+      "Úroveň psychologickej bezpečnosti",
+      "Otvorenosť komunikácie v tíme",
+      "Možnosť pýtať sa a priznať chyby",
+      "Bezpečnosť pri riešení problémov"
+    ],
+    "tells": "Čo nám hovorí:",
+    "tells_text": "Výsledky umožňujú lepšie pochopiť, ako sa ľudia cítia v interakciách s tímom. Firmám to pomáha budovať zdravú a otvorenú kultúru."
+  }
+}

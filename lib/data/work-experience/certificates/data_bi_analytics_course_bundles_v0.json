@@ -1,0 +1,155 @@
+{
+  "group_id": "data_bi_analytics",
+  "group_name": "Dáta, BI & Analytika",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "data_bi_analytics__core_required",
+      "bundle_name": "CORE – Dáta & analytika základy",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "sql_basics",
+          "title": "SQL – základy (SELECT/JOIN/AGG)",
+          "renewal_years": null
+        },
+        {
+          "id": "data_literacy",
+          "title": "Dátová gramotnosť & štatistické minimum",
+          "renewal_years": null
+        },
+        {
+          "id": "gdpr_data_handling",
+          "title": "GDPR pre prácu s dátami (minimizácia, práva osôb)",
+          "renewal_years": 2
+        },
+        {
+          "id": "visualization_principles",
+          "title": "Zásady vizualizácie & dátových klamov",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "data_bi_analytics__bi_reporting_track",
+      "bundle_name": "Track – BI & Reporting",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "powerbi_pl300_prep",
+          "title": "Power BI – príprava na PL-300 (alebo ekvivalent)",
+          "renewal_years": null
+        },
+        {
+          "id": "data_modeling_star",
+          "title": "Modelovanie dát (Star/Snowflake) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "dax_basics",
+          "title": "DAX/Measures – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "data_bi_analytics__analytics_engineering_track",
+      "bundle_name": "Track – Analytics Engineering (ETL/ELT)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "python_basics",
+          "title": "Python – základy pre dáta",
+          "renewal_years": null
+        },
+        {
+          "id": "elt_dbt_intro",
+          "title": "ELT/ETL & dbt – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "data_warehousing_basics",
+          "title": "Dátové sklady (BigQuery/Snowflake/Redshift) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "data_bi_analytics__data_science_jr_track",
+      "bundle_name": "Track – Data Science (junior)",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "stats_intro",
+          "title": "Štatistika pre dáta – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "python_pandas_numpy",
+          "title": "Python: pandas & numpy – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "ml_basics",
+          "title": "Základy ML (regresia, klasifikácia, validácia)",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "data_bi_analytics__governance_quality_addon",
+      "bundle_name": "Addon – Data governance & kvalita dát",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "data_catalogs_intro",
+          "title": "Dátové katalógy & lineage – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "data_quality_basics",
+          "title": "Kvalita dát – pravidlá a monitorovanie",
+          "renewal_years": null
+        },
+        {
+          "id": "iso27001_awareness",
+          "title": "ISO/IEC 27001 – awareness (ISMS)",
+          "renewal_years": 3
+        }
+      ]
+    },
+    {
+      "bundle_id": "data_bi_analytics__advanced_analytics_addon",
+      "bundle_name": "Addon – Pokročilá analytika & experimenty",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "experimentation_ab",
+          "title": "A/B testovanie & experimentálny dizajn – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "time_series_intro",
+          "title": "Časové rady – úvod",
+          "renewal_years": null
+        },
+        {
+          "id": "ml_ops_intro",
+          "title": "MLOps – úvod (deployment/monitoring)",
+          "renewal_years": null
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "GDPR platí plošne; bezpečnostné/ISMS prvky ako awareness. Vendorské certifikácie podľa nástrojov (Power BI, Tableau, cloud).",
+    "country_overlays": []
+  }
+}

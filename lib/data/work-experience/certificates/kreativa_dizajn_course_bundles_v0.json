@@ -1,0 +1,127 @@
+{
+  "group_id": "kreativa_dizajn",
+  "group_name": "Kreatíva & Dizajn",
+  "version": "v0",
+  "generated": "2025-10-08",
+  "bundles": [
+    {
+      "bundle_id": "kreativa_dizajn__core_required",
+      "bundle_name": "CORE – Základy kreatívy & workflow",
+      "type": "required_orientation",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "brand_guidelines_basics",
+          "title": "Brand manuál & vizuálna identita – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "copyright_gdpr_creative",
+          "title": "Autorské právo, licencie & GDPR pre obsah",
+          "renewal_years": 2
+        },
+        {
+          "id": "file_management_export",
+          "title": "Správa súborov, exporty & formáty (print/digital)",
+          "renewal_years": null
+        },
+        {
+          "id": "ohs_office",
+          "title": "BOZP/PO – kancelárske/štúdiové prostredie (vstupné)",
+          "renewal_years": 2
+        }
+      ]
+    },
+    {
+      "bundle_id": "kreativa_dizajn__graphic_design_track",
+      "bundle_name": "Track – Grafický dizajn",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "design_principles",
+          "title": "Zásady dizajnu (typografia, kompozícia, farba)",
+          "renewal_years": null
+        },
+        {
+          "id": "adobe_tools_basics",
+          "title": "Nástroje (Adobe/Figma/alternatívy) – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "print_prepress_basics",
+          "title": "Tlač & prepress – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kreativa_dizajn__ux_ui_track",
+      "bundle_name": "Track – UX/UI",
+      "type": "recommended",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "ux_research_basics",
+          "title": "UX research – základy (interview, wireframes)",
+          "renewal_years": null
+        },
+        {
+          "id": "ui_design_systems",
+          "title": "UI dizajn & design systems – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "accessibility_basics",
+          "title": "Prístupnosť (a11y) – základy",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kreativa_dizajn__video_photo_addon",
+      "bundle_name": "Addon – Video & fotografia",
+      "type": "optional_addon",
+      "renewal_years": null,
+      "items": [
+        {
+          "id": "shooting_basics",
+          "title": "Základy natáčania & osvetlenia",
+          "renewal_years": null
+        },
+        {
+          "id": "editing_basics",
+          "title": "Strih & postprodukcia – základy",
+          "renewal_years": null
+        },
+        {
+          "id": "color_grading_intro",
+          "title": "Color grading – úvod",
+          "renewal_years": null
+        }
+      ]
+    },
+    {
+      "bundle_id": "kreativa_dizajn__digital_assets_addon",
+      "bundle_name": "Addon – Digitálne aktíva & AI nástroje",
+      "type": "optional_addon",
+      "renewal_years": 2,
+      "items": [
+        {
+          "id": "dam_workflows",
+          "title": "Digital Asset Management (DAM) – workflow",
+          "renewal_years": null
+        },
+        {
+          "id": "ai_tools_creative_awareness",
+          "title": "AI nástroje v kreatíve – etika, licencia, autorstvo (awareness)",
+          "renewal_years": 2
+        }
+      ]
+    }
+  ],
+  "overlays": {
+    "notes": "Autorské právo/licencie sú kľúčové; GDPR pri práci s osobnými údajmi (fotografie, video). Štandardy tlače a prístupnosti podľa trhu.",
+    "country_overlays": []
+  }
+}
