@@ -17,12 +17,12 @@ export default function Page() {
               Overenie zručností pre remeslo
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-6 leading-tight tracking-tight">
-              Nie životopis —{" "}
-              <span className="text-primary">výsledky testu</span>
+              Tvoja hodnota nie je kus papiera.{" "}
+              <span className="text-primary">Je v tvojich rukách.</span>
             </h1>
             <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 leading-relaxed">
-              SkillScore overí vaše odborné zručnosti v reálnych testoch.
-              Získajte certifikát, ktorý hovorí za vás — bez zbytočných rozhovorov.
+              Prestaň sa prosiť v životopisoch firmám, ktoré ťa nepoznajú.
+              SkillScore je tvoj nezvratný dôkaz. Ukáž svetu svoju skutočnú odbornosť a získaj rešpekt, ktorý ti patrí.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/auth/register">
@@ -46,18 +46,18 @@ export default function Page() {
             {[
               {
                 num: 1,
-                title: "Vyplňte profil remeselníka",
-                text: "Zadáte remeslo, roky praxe, certifikáty a nástroje. Celé to trvá 3 minúty.",
+                title: "Prestaň byť len meno v databáze",
+                text: "Tvoj životopis nikoho nezaujíma. Vybuduj si profil, ktorý odhalí tvoj skutočný talent a roky driny.",
               },
               {
                 num: 2,
-                title: "Absolvujte odborný test",
-                text: "25-minútový test zameraný na bezpečnosť, teóriu a praktické znalosti vášho remesla. Otázky vytvárajú experti z praxe.",
+                title: "Ukáž silu svojho remesla",
+                text: "Prejdi náročným odborným testom, ktorý oddelí zrno od plev. Tu nerozhodujú známosti, ale tvoja zručnosť.",
               },
               {
                 num: 3,
-                title: "Získajte SkillScore kartu",
-                text: "Vaše výsledky sú viditeľné overenými firmám, ktoré vás môžu oslovi. Kontakt zdieľate iba vy.",
+                title: "Získaj rešpekt, ktorý ti patrí",
+                text: "Tvoja SkillScore karta je tvojou cťou. Firmy už nebudú pochybovať – budú sa o teba biť.",
               },
             ].map((step) => (
               <div key={step.num} className="bg-card rounded-2xl p-6 sm:p-8 border border-primary/10 flex items-start gap-5">
@@ -81,14 +81,14 @@ export default function Page() {
             <div className="bg-card rounded-2xl p-8 border border-primary/15 flex flex-col h-full">
               <div className="mb-6">
                 <HardHat className="h-10 w-10 text-primary mb-3" />
-                <h2 className="text-2xl font-bold text-primary mb-1">Som remeselník</h2>
+                <h2 className="text-2xl font-bold text-primary mb-1">Mám zlaté ruky, ale nikto mi neverí</h2>
                 <div className="w-16 h-1 bg-primary rounded-full" />
               </div>
               <ul className="space-y-3 mb-8 flex-1">
                 {[
-                  "Mám osvedčenie, no firmy mi neveria na slovo",
-                  "Chcem sa odlíšiť od lacnej konkurencie",
-                  "Hľadám kvalitnú spoluprácu bez sprostredkovateľov",
+                  "Už ma nebaví dokazovať každému šéfovi to isté",
+                  "Chcem, aby o mojej cene rozhodovala moja práca, nie klamstvá iných",
+                  "Hľadám férovú hru a firmy, ktoré si vážia poctivé remeslo",
                 ].map((point) => (
                   <li key={point} className="flex items-start gap-2 text-sm">
                     <CheckCircle2 className="h-4 w-4 text-primary mt-0.5 shrink-0" />
@@ -107,14 +107,14 @@ export default function Page() {
             <div className="bg-card rounded-2xl p-8 border border-primary/15 flex flex-col h-full">
               <div className="mb-6">
                 <Building2 className="h-10 w-10 text-primary mb-3" />
-                <h2 className="text-2xl font-bold text-primary mb-1">Som firma</h2>
+                <h2 className="text-2xl font-bold text-primary mb-1">Už ma nebaví hľadať ihlu v kope sena</h2>
                 <div className="w-16 h-1 bg-primary rounded-full" />
               </div>
               <ul className="space-y-3 mb-8 flex-1">
                 {[
-                  "Strácam čas pohovormi s nekvalifikovanými uchádzačmi",
-                  "Chcem overiť zručnosti pred nástupom",
-                  "Potrebujem spoľahlivých remeselníkov s dokladateľnou praxou",
+                  "Strácam čas a peniaze s ľuďmi, ktorí len rozprávajú",
+                  "Potrebujem istotu, že človek na stavbe vie, čo robí",
+                  "Chcem elitných remeselníkov s preukázateľnou česťou",
                 ].map((point) => (
                   <li key={point} className="flex items-start gap-2 text-sm">
                     <CheckCircle2 className="h-4 w-4 text-primary mt-0.5 shrink-0" />
