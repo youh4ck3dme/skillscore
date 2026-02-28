@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { DashboardLayout } from "@/components/dashboard-layout"
+import { Button } from "@/components/ui/button"
 import { useAuth } from "@/lib/auth/auth-context"
 import { CandidateQuickNav } from "@/components/candidate-quick-nav"
 import { CVModal } from "@/components/cv-modal"
@@ -15,7 +16,7 @@ import { useI18n } from "@/lib/i18n/context"
 import { staticTranslations } from "@/lib/i18n/translations"
 import { CVSummaryDisplay } from "@/components/cv-summary-display"
 import { TestResultsDisplay } from "@/components/test-results-display"
-import { Check } from "lucide-react"
+import { Check, Award } from "lucide-react"
 import useSWR from "swr"
 import { TestFlowModals } from "@/components/test-flow-modals"
 import { CandidatePendingTests } from "@/components/candidate-pending-tests"
@@ -254,40 +255,46 @@ export default function CandidateDashboard() {
 
   const transformedCVData = cv.cv_summary
     ? {
-        work_experience: cv.work_experience || cv.cv_summary.work_experience || [],
-        desired_positions: cv.cv_summary.desired_positions || [],
-        languages: cv.languages || cv.cv_summary.skills?.languages || [],
-        computer_skills: cv.computer_skills || cv.cv_summary.skills?.computer_skills || [],
-        country: cv.cv_summary.basic_info?.country || null,
-        work_locations: cv.cv_summary.basic_info?.work_locations || [],
-        expected_salary: cv.cv_summary.expected_salary || null,
-        drivers_license: cv.cv_summary.work_conditions?.driving_license || false,
-        license_types: cv.cv_summary.work_conditions?.license_types || [],
-        employment_type: cv.cv_summary.work_conditions?.employment_types
-          ? Array.isArray(cv.cv_summary.work_conditions.employment_types)
-            ? cv.cv_summary.work_conditions.employment_types.join(", ")
-            : cv.cv_summary.work_conditions.employment_types
-          : null,
-        start_date: cv.cv_summary.work_conditions?.start_date || null,
-        eu_citizenship: cv.cv_summary.basic_info?.eu_citizenship || false,
-        education_level: cv.cv_summary.education?.level || null,
-        study_field: cv.cv_summary.education?.fieldOfStudy || null,
-        academic_title: cv.cv_summary.education?.academic_title || null,
-        anonymous_id: cv.cv_summary.anonymous_id || null,
-        recruiter_id: cv.cv_summary.recruiter_id || null,
-      }
+      work_experience: cv.work_experience || cv.cv_summary.work_experience || [],
+      desired_positions: cv.cv_summary.desired_positions || [],
+      languages: cv.languages || cv.cv_summary.skills?.languages || [],
+      computer_skills: cv.computer_skills || cv.cv_summary.skills?.computer_skills || [],
+      country: cv.cv_summary.basic_info?.country || null,
+      work_locations: cv.cv_summary.basic_info?.work_locations || [],
+      expected_salary: cv.cv_summary.expected_salary || null,
+      drivers_license: cv.cv_summary.work_conditions?.driving_license || false,
+      license_types: cv.cv_summary.work_conditions?.license_types || [],
+      employment_type: cv.cv_summary.work_conditions?.employment_types
+        ? Array.isArray(cv.cv_summary.work_conditions.employment_types)
+          ? cv.cv_summary.work_conditions.employment_types.join(", ")
+          : cv.cv_summary.work_conditions.employment_types
+        : null,
+      start_date: cv.cv_summary.work_conditions?.start_date || null,
+      eu_citizenship: cv.cv_summary.basic_info?.eu_citizenship || false,
+      education_level: cv.cv_summary.education?.level || null,
+      study_field: cv.cv_summary.education?.fieldOfStudy || null,
+      academic_title: cv.cv_summary.education?.academic_title || null,
+      anonymous_id: cv.cv_summary.anonymous_id || null,
+      recruiter_id: cv.cv_summary.recruiter_id || null,
+    }
     : {
-        work_experience: cv.work_experience || [],
-        languages: cv.languages || [],
-        computer_skills: cv.computer_skills || [],
-      }
+      work_experience: cv.work_experience || [],
+      languages: cv.languages || [],
+      computer_skills: cv.computer_skills || [],
+    }
 
   return (
     <DashboardLayout requireVerification={false}>
       <header className="border-b border-border bg-card -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8">
         <div className="container mx-auto py-4 flex items-center justify-between">
           <h1 className="text-xl font-semibold">{t.title}</h1>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-4">
+            <Link href="/dashboard/worker/tests">
+              <Button variant="outline" size="sm" className="gap-2">
+                <Award className="h-4 w-4 text-primary" />
+                Všetky testy
+              </Button>
+            </Link>
             <SupportTicketModal userType="candidate" />
           </div>
         </div>
